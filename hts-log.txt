@@ -1,0 +1,39 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Sep 2020 19:39:37 at http://theme.dsngrid.com/droow-l/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://theme.dsngrid.com/droow-l/ -O1 "D:\Sociomark" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:39:38	Warning: 	Moved Temporarily for theme.dsngrid.com/robots.txt
+19:39:38	Warning: 	File has moved from theme.dsngrid.com/robots.txt to http://dsngrid.com/
+19:42:38	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/img/favicon.ico (from theme.dsngrid.com/droow-l/)
+19:43:14	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/one-page-4.html (from theme.dsngrid.com/droow-l/)
+19:43:30	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/slider2.html (from theme.dsngrid.com/droow-l/)
+19:49:36	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/img/services/2-light.png (from theme.dsngrid.com/droow-l/)
+19:49:38	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/img/project/project9/7.jpg (from theme.dsngrid.com/droow-l/)
+19:49:38	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/img/blog/1.jpg (from theme.dsngrid.com/droow-l/)
+19:49:38	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/img/logo/3-light.png (from theme.dsngrid.com/droow-l/)
+19:49:40	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/img/logo/4-light.png (from theme.dsngrid.com/droow-l/)
+19:49:40	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/js/plugins.js (from theme.dsngrid.com/droow-l/)
+19:49:42	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/js/dsn-grid.js (from theme.dsngrid.com/droow-l/)
+19:49:45	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/css/plugins/fontawesome-all.min.css (from theme.dsngrid.com/droow-l/assets/css/plugins.css)
+19:49:45	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/css/plugins/slick.css (from theme.dsngrid.com/droow-l/assets/css/plugins.css)
+19:49:46	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/css/plugins/justifiedGallery.min.css (from theme.dsngrid.com/droow-l/assets/css/plugins.css)
+19:49:46	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/css/plugins/magnific-popup.css (from theme.dsngrid.com/droow-l/assets/css/plugins.css)
+19:50:43	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/img/project/project9/7.jpg (from theme.dsngrid.com/droow-l/)
+19:50:43	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/img/logo/4-light.png (from theme.dsngrid.com/droow-l/)
+19:50:43	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/css/plugins/fontawesome-all.min.css (from theme.dsngrid.com/droow-l/assets/css/plugins.css)
+19:50:43	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/css/images/close.png (from theme.dsngrid.com/droow-l/assets/css/plugins/youtubepopup.css)
+19:50:59	Warning: 	Moved Temporarily for theme.dsngrid.com/droow-l/assets/css/images/close.png
+19:50:59	Warning: 	File has moved from theme.dsngrid.com/droow-l/assets/css/images/close.png to http://dsngrid.com/
+19:50:59	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/fonts/fa-regular-400.eot (from theme.dsngrid.com/droow-l/assets/css/plugins/fontawesome-all.min.css)
+19:51:00	Warning: 	Retry after error -4 (No data (connection closed)) at link theme.dsngrid.com/droow-l/assets/fonts/fa-solid-900.ttf (from theme.dsngrid.com/droow-l/assets/css/plugins/fontawesome-all.min.css)
+19:51:00	Warning: 	Moved Temporarily for theme.dsngrid.com/droow-l/assets/fonts/fa-regular-400.eot
+19:51:00	Warning: 	File has moved from theme.dsngrid.com/droow-l/assets/fonts/fa-regular-400.eot to http://dsngrid.com/
+19:51:00	Warning: 	Moved Temporarily for theme.dsngrid.com/droow-l/assets/fonts/fa-solid-900.ttf
+19:51:00	Warning: 	File has moved from theme.dsngrid.com/droow-l/assets/fonts/fa-solid-900.ttf to http://dsngrid.com/
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 23 seconds : 157 links scanned, 133 files written (17346416 bytes overall) [17382902 bytes received at 25450 bytes/sec], 1.5 requests per connection
+(No errors, 28 warnings, 0 messages)

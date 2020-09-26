@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3269d8c2-f659-448d-9170-e756b5db50a6" name="Ayushakti" url="http://103.145.50.9">
+        <fileTransfer host="103.145.50.9" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4acc6d6b-8042-4d31-9c26-0e0b74c30bbf" name="Harnai" url="http://103.129.98.18/">
+        <fileTransfer rootFolder="/public_html/es.shreeharnaityresandcarcare.in" host="103.129.98.18" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
