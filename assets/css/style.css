@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+.color1{
+	color: #ff9312!important;
+}
+.color2{
+	color: #19729b!important;
+}
+
 .post-full-content.single-post > *:not(.gallery),
 .post-full-content.single-post > *:not(.wp-block-quote) > p,
 .widget_text.single-post > *:not(.gallery),
@@ -222,13 +229,6 @@
   left: 0;
   z-index: 0;
 }
-.color1{
-	background-color: #ff9312;
-}
-.color2{
-	background-color: #19729b;
-}
-
 [data-overlay="0"]:before {
   opacity: 0;
 }
@@ -9140,7 +9140,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 .header-hero .contenet-hero {
   position: relative;
   width: 100%;
-  padding: 150px 0 120px 0;
+  padding: 150px 0 50px 0;
 }
 
 .header-hero h5 {
@@ -9166,32 +9166,31 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .header-hero h5:before {
-  background: #000;
+  background: #19729b;
 }
 
 .header-hero h1 {
   margin-top: 5px;
   line-height: 1.2;
-  letter-spacing: 2px;
-  font-size: 65px;
+  font-size: 50px;
   font-weight: 700;
 }
 
 @media only screen and (max-width: 767px) {
   .header-hero h1 {
-    font-size: 55px;
+    font-size: 40px;
   }
 }
 
 @media only screen and (max-width: 575px) {
   .header-hero h1 {
-    font-size: 45px;
+    font-size: 35px;
   }
 }
 
 @media only screen and (max-width: 400px) {
   .header-hero h1 {
-    font-size: 38px;
+    font-size: 30px;
   }
 }
 

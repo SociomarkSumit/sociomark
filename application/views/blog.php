@@ -26,7 +26,7 @@
 				<div class="row">
 					<div class="col-lg-6">
 						<div class="contenet-hero">
-							<p class="title-sub color1 " >NEWS & IDEAS</p>
+							<h5 class="color1 " >NEWS & IDEAS</h5>
 							<h1 class="color2" >Our Blog</h1>
 						</div>
 					</div>
