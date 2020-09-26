@@ -46,15 +46,15 @@
 						<div class="post-list-item-content">
 							<div class="post-info-top">
 								<div class="post-info-date">
-									<span>2 september, 2019</span>
+									<span class="color1" >2 september, 2019</span>
 								</div>
 
 								<div class="post-info-category">
-									<a href="#">Design</a>
+									<a href="#" class="color2" >Design</a>
 								</div>
 							</div>
 							<h3>
-								<a href="#">interview with Communication Arts about Jayasom website</a>
+								<a href="#" class="color2" >interview with Communication Arts about Jayasom website</a>
 							</h3>
 
 							<div class="link-custom" data-dsn-animate="up">

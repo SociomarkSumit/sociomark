@@ -2780,8 +2780,8 @@ input[type="submit"]:hover::before {
 }
 
 .v-light .link-custom a {
-  color: #000;
-  border: 1px solid #bebebe;
+  color: #2f2f2f;
+  border: 1px solid #19729b;
 }
 
 .link-custom a:before {
@@ -2807,7 +2807,7 @@ input[type="submit"]:hover::before {
 }
 
 .v-light .link-custom a:before {
-  background-color: #000;
+  background-color: #ff9311;
   color: #fff;
 }
 
@@ -4759,6 +4759,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   position: relative;
   margin-top: 120px;
   margin-bottom: 120px;
+	color: #19729b;
 }
 
 @media only screen and (max-width: 991px) {
@@ -4793,7 +4794,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .dsn-pagination .page-numbers.current {
-  color: #000;
+  color: #ff9311;
 }
 
 .dsn-pagination .page-numbers:hover {
