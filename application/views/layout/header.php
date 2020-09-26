@@ -24,7 +24,7 @@
 	<div class="header-top header-top-hamburger">
 		<div class="header-container">
 			<div class="logo main-logo">
-				<a href="index-2.html">
+				<a href="<?php echo site_url('home') ?>">
 					<img class="dark-logo" src="assets/img/logo/logo.png" alt="" />
 					<img class="light-logo" src="assets/img/logo/logo-white.png" alt="" />
 				</a>
