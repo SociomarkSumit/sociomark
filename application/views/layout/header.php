@@ -12,7 +12,6 @@
 			</div>
 			<nav class=" accent-menu main-navigation">
 				<ul class="extend-container">
-
 					<li><a href="<?php echo site_url('about') ?>">About</a></li>
 					<li><a href="<?php echo site_url('services') ?>">Services</a></li>
 					<li><a href="<?php echo site_url('portfolio') ?>">Work</a></li>
