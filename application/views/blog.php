@@ -64,6 +64,35 @@
 							</div>
 						</div>
 					</article>
+
+					<article class="post-list-item">
+						<figure>
+							<a class="image-zoom effect-ajax" href="post.html" data-dsn-animate="up">
+								<img src="assets/img/blog/4.jpg" alt="">
+							</a>
+						</figure>
+						<div class="post-list-item-content">
+							<div class="post-info-top">
+								<div class="post-info-date">
+									<span class="color1" >2 september, 2019</span>
+								</div>
+
+								<div class="post-info-category">
+									<a href="#" class="color2" >Design</a>
+								</div>
+							</div>
+							<h3>
+								<a href="#" class="color2" >interview with Communication Arts about Jayasom website</a>
+							</h3>
+
+							<div class="link-custom" data-dsn-animate="up">
+								<a class="image-zoom effect-ajax" href="post.html" data-dsn="parallax">
+									<span>Read More</span>
+								</a>
+							</div>
+						</div>
+					</article>
+
 					<div class="dsn-pagination">
 						<span class="page-numbers current ">
 							<span class="dsn-numbers">
