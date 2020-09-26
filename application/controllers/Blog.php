@@ -7,5 +7,9 @@ class Blog extends CI_Controller{
 		$this->load->view('blog');
 	}
 
+	public function blog1(){
+		$this->load->view('blogs/blog1');
+	}
+
 }
 ?>

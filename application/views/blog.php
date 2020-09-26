@@ -46,19 +46,15 @@
 						<div class="post-list-item-content">
 							<div class="post-info-top">
 								<div class="post-info-date">
-									<span class="color1" >2 september, 2019</span>
-								</div>
-
-								<div class="post-info-category">
-									<a href="#" class="color2" >Design</a>
+									<span class="color1" >08 July 2020</span>
 								</div>
 							</div>
 							<h3>
-								<a href="#" class="color2" >interview with Communication Arts about Jayasom website</a>
+								<a href="#" class="color2" >INSTAGRAM FOR BUSINESSES</a>
 							</h3>
 
 							<div class="link-custom" data-dsn-animate="up">
-								<a class="image-zoom effect-ajax" href="post.html" data-dsn="parallax">
+								<a class="image-zoom effect-ajax" href="<?php echo site_url('blog/instagram-for-businesses') ?>" data-dsn="parallax">
 									<span>Read More</span>
 								</a>
 							</div>
