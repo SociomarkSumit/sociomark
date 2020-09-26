@@ -215,12 +215,18 @@
 [data-overlay]:before {
   content: '';
   position: absolute;
-  background: #000;
+  background: #00000061;
   width: 100%;
   height: 100%;
   top: 0;
   left: 0;
   z-index: 0;
+}
+.color1{
+	background-color: #ff9312;
+}
+.color2{
+	background-color: #19729b;
 }
 
 [data-overlay="0"]:before {
