@@ -32,9 +32,9 @@
 					<div class="container">
 						<div class="inner-box m-section">
 							<div class="post-info">
-								<a href="#" class="blog-post-date dsn-link">08 July 2020</a>
+								<a href="#" class="blog-post-date dsn-link color1">08 July 2020</a>
 							</div>
-							<h3 class="title-box mt-10">INSTAGRAM FOR BUSINESSES</h3>
+							<h3 class="title-box mt-10 color2">INSTAGRAM FOR BUSINESSES</h3>
 						</div>
 					</div>
 				</div>
@@ -47,7 +47,7 @@
 							<div class="News-socials-wrapper">
 								<div>
 									<div class="cat">
-										<h5 class="title-caption">Tagged with: </h5>
+										<h5 class="title-caption color1 ">Tagged with: </h5>
 										<a href="#"><span>Blog</span></a>
 										<a href="#"><span>Creative</span></a>
 										<a href="#"><span>Design</span></a>
@@ -186,7 +186,6 @@
 						</div>
 					</div>
 				</section>
-
 				<?php include(APPPATH.'views\layout\footer.php')?>
 			</div>
 		</div>
