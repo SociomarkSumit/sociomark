@@ -5,8 +5,8 @@
 			<div class="inner-header">
 				<div class="main-logo">
 					<a href="<?php echo site_url('home') ?>">
-						<img class="dark-logo" src="assets/img/logo/logo.png" alt="" />
-						<img class="light-logo" src="assets/img/logo/logo-white.png" alt="" />
+						<img class="dark-logo" src="<?php echo base_url('assets/img/logo/logo.png') ?>" alt="" />
+						<img class="light-logo" src="<?php echo base_url('assets/img/logo/logo-white.png') ?>" alt="" />
 					</a>
 				</div>
 			</div>
@@ -25,8 +25,8 @@
 		<div class="header-container">
 			<div class="logo main-logo">
 				<a href="<?php echo site_url('home') ?>">
-					<img class="dark-logo" src="assets/img/logo/logo.png" alt="" />
-					<img class="light-logo" src="assets/img/logo/logo-white.png" alt="" />
+					<img class="dark-logo" src="<?php echo base_url('assets/img/logo/logo.png') ?>" alt="" />
+					<img class="light-logo" src="<?php echo base_url('assets/img/logo/logo-white.png') ?>" alt="" />
 				</a>
 			</div>
 
