@@ -4,7 +4,7 @@
 		<div class="extend-container">
 			<div class="inner-header">
 				<div class="main-logo">
-					<a href="index-2.html">
+					<a href="<?php echo site_url('home') ?>">
 						<img class="dark-logo" src="assets/img/logo/logo.png" alt="" />
 						<img class="light-logo" src="assets/img/logo/logo-white.png" alt="" />
 					</a>
@@ -13,11 +13,11 @@
 			<nav class=" accent-menu main-navigation">
 				<ul class="extend-container">
 
-					<li><a href="about.html">About</a></li>
-					<li><a href="about.html">Services</a></li>
-					<li><a href="about.html">Work</a></li>
-					<li><a href="about.html">Blogs</a></li>
-					<li><a href="contact.html">Contact</a></li>
+					<li><a href="<?php echo site_url('about') ?>">About</a></li>
+					<li><a href="<?php echo site_url('services') ?>">Services</a></li>
+					<li><a href="<?php echo site_url('portfolio') ?>">Work</a></li>
+					<li><a href="<?php echo site_url('blog') ?>">Blogs</a></li>
+					<li><a href="<?php echo site_url('contact-us') ?>">Contact</a></li>
 				</ul>
 			</nav>
 		</div>
