@@ -29,9 +29,9 @@
 					<div class="row align-items-center h-100">
 						<div class="col-lg-12">
 							<div class="contenet-hero">
-								<h1>THE ART OF LUXURY APPAREL</h1>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis mollitia libero
-									quis odio unde ab officia est dolor.</p>
+								<h1>THE PERFECT BLEND OF
+									CREATIVITY & TECHNOLOGY</h1>
+								<p>We're always excited for helping brands in establishing their remarkable online presence. It's been an award-winning & result-oriented start, making a mark one day at a time.</p>
 								<a href="#" class="view-case scroll-down scroll-to">Scroll Down <img
 										src="assets/img/arrow-right-dark.png" alt=""></a>
 							</div>
@@ -46,7 +46,7 @@
 				<div class="box-seat box-seat-full">
 					<div class="container-fluid">
 						<div class="inner-img" data-dsn-grid="move-up">
-							<img src="<?php echo base_url('assets/img/pexels.jpg'); ?>" alt="" data-dsn-y="30%" data-dsn-scale="1">
+							<img src="<?php echo base_url('assets/img/about.jpg'); ?>" alt="" data-dsn-y="30%" data-dsn-scale="1">
 						</div>
 						<div class="pro-text">
 							<h3 data-dsn-animate="up">Hello we are, <br> Dsn Grid.</h3>
@@ -95,49 +95,41 @@
 					<div class="container">
 						<div class="one-title" data-dsn-animate="up">
 							<div class="title-sub-container">
-								<p class="title-sub">OUR SERVCIES</p>
+								<p class="title-sub">AGENCY LIFE</p>
 							</div>
-							<h2 class="title-main">New Branding Agency</h2>
+							<h2 class="title-main">Content is Everywhere</h2>
 						</div>
 
 						<div class="row">
 							<div class="col-md-6">
 								<div class="services-item">
 									<div class="line-before"></div>
-									<h4 class="subtitle">Brand Identity</h4>
-									<p>As Vintage decided to have a closer look into fast-paced New York web design
-										realm in person, we get to acquaint with most diverse and exceptionally
-										captivating personalities. </p>
+									<h4 class="subtitle">MISSION</h4>
+									<p>Our sole purpose is to help you establish a strong social presence across various mediums and be your social consultant for a lifetime.</p>
 								</div>
 							</div>
 
 							<div class="col-md-6">
 								<div class="services-item">
 									<div class="line-before"></div>
-									<h4 class="subtitle">Brand Identity</h4>
-									<p>As Vintage decided to have a closer look into fast-paced New York web design
-										realm in person, we get to acquaint with most diverse and exceptionally
-										captivating personalities. </p>
+									<h4 class="subtitle">VISION</h4>
+									<p>To create meaningful relationships with your audience.</p>
 								</div>
 							</div>
 
 							<div class="col-md-6">
 								<div class="services-item">
 									<div class="line-before"></div>
-									<h4 class="subtitle">Brand Identity</h4>
-									<p>As Vintage decided to have a closer look into fast-paced New York web design
-										realm in person, we get to acquaint with most diverse and exceptionally
-										captivating personalities. </p>
+									<h4 class="subtitle">WORK CULTURE</h4>
+									<p>We initiate by adopting your culture & company values. Collaborating with you to deliver what you envision for your brand, using a strategic plan.</p>
 								</div>
 							</div>
 
 							<div class="col-md-6">
 								<div class="services-item">
 									<div class="line-before"></div>
-									<h4 class="subtitle">Brand Identity</h4>
-									<p>As Vintage decided to have a closer look into fast-paced New York web design
-										realm in person, we get to acquaint with most diverse and exceptionally
-										captivating personalities. </p>
+									<h4 class="subtitle">APPROACH</h4>
+									<p>We carefully curate innovation and lay down comprehensive strategies to provide you with an unmatched social media presence.</p>
 								</div>
 							</div>
 						</div>
@@ -150,7 +142,7 @@
 							<div class="title-sub-container">
 								<p class="title-sub">our team</p>
 							</div>
-							<h2 class="title-main">The best team ever!</h2>
+							<h2 class="title-main">The wanderers that want to make a mark!</h2>
 						</div>
 
 						<div class="custom-container">
@@ -207,9 +199,9 @@
 					<div class="container">
 						<div class="one-title" data-dsn-animate="up">
 							<div class="title-sub-container">
-								<p class="title-sub"> Client see</p>
+								<p class="title-sub">Clientele</p>
 							</div>
-							<h2 class="title-main">Feedback from our clients.</h2>
+							<h2 class="title-main">Not the same old feedback!</h2>
 						</div>
 
 						<div class="client-curs">
@@ -246,9 +238,9 @@
 					<div class="container">
 						<div class="one-title" data-dsn-animate="up">
 							<div class="title-sub-container">
-								<p class="title-sub">Our clients</p>
+								<p class="title-sub">OUR CLIENTS</p>
 							</div>
-							<h2 class="title-main">Your successful, our reputation</h2>
+							<h2 class="title-main">Building a door for the Opportunities</h2>
 						</div>
 
 						<div class="wapper-client">
@@ -379,7 +371,7 @@
                                     We are hiring
                                 </span>
 							<span class="career">
-                                    Dare and contact us immediately!
+                                   Hop on if you have ideas that change people's thinking!
                                 </span>
 						</a>
 					</div>
