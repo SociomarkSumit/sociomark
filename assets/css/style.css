@@ -222,6 +222,12 @@
   left: 0;
   z-index: 0;
 }
+.color1{
+	background-color: #ff9312;
+}
+.color2{
+	background-color: #19729b;
+}
 
 [data-overlay="0"]:before {
   opacity: 0;
