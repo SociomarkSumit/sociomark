@@ -85,11 +85,13 @@
 								<p>
 									Besides the restaurants, extending support to Facebook's initiative of helping small businesses, all sticker packs from Facebook are available on Instagram too. Whenever one of these stickers is used on someone's story, all such stories are clubbed together and it allows users to identify and support small businesses. It provides a way for businesses to stay connected to the customers.
 								</p>
+								<img class="w-100" src="<?php echo base_url('assets/img/blog/image1.jpg') ?>" alt="">
 								<p><strong>SHOPPING ON INSTAGRAM</strong></p>
 								<p>
 									Instagram has the power to replace your shelf space, providing customers with a new approach to discover products. Instagram Shopping gives your audience an immersive experience, allowing them to explore your storefront with a single tap. Your buyers can browse the best collections, filter by categories and make a purchase, all in one place. While announcing Facebook Shops, they also revealed the new update IG Shopping will receive soon - A new shop tab in the navigation bar, so you can get to the Shop in just one tap.
 								</p>
 								<p><strong>BEST PRACTICES TO KEEP PEOPLE ENGAGED</strong></p>
+								<img class="w-100" src="<?php echo base_url('assets/img/blog/image2.png') ?>" alt="">
 								<p><strong>WHY BUSINESSES LOVE INSTAGRAM?</strong></p>
 								<p>
 									90% of accounts follow a business on Instagram & 200M+ accounts look at a business profile each day. No matter what type of business you have; from major brands to local, family-run shops, businesses are driving proven results with their IG strategy.
