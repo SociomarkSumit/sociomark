@@ -9228,25 +9228,25 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   max-width: 950px;
   line-height: 1.2;
   margin-top: 0;
-  font-size: 65px;
+  font-size: 50px;
   font-weight: 700;
 }
 
 @media only screen and (max-width: 767px) {
   .header-hero.header-hero-2 h1 {
-    font-size: 55px;
+    font-size: 40px;
   }
 }
 
 @media only screen and (max-width: 575px) {
   .header-hero.header-hero-2 h1 {
-    font-size: 45px;
+    font-size: 35px;
   }
 }
 
 @media only screen and (max-width: 400px) {
   .header-hero.header-hero-2 h1 {
-    font-size: 38px;
+    font-size: 30px;
   }
 }
 
