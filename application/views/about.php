@@ -10,7 +10,7 @@
 	<div class="preloader-after"></div>
 	<div class="preloader-before"></div>
 	<div class="preloader-block">
-		<div class="title">Droow</div>
+		<div class="title">About</div>
 		<div class="percent">0</div>
 		<div class="loading">loading...</div>
 	</div>
@@ -244,6 +244,120 @@
 						</div>
 
 						<div class="wapper-client">
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/ayushakti.jpg'); ?>" alt="">
+
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/tpc.png'); ?>" alt="">
+
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/logo/3-light.png'); ?>" alt="">
+
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/logo/4-light.png'); ?>" alt="">
+
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/logo/5-light.png'); ?>" alt="">
+
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/logo/6-light.png'); ?>" alt="">
+
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/logo/1-light.png'); ?>" alt="">
 

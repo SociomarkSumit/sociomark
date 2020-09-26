@@ -5877,7 +5877,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  width: calc(33.33333% - 2px);
+  width: calc(25% - 2px);
   padding: 15px;
   min-height: 240px;
   margin-right: 2px;
