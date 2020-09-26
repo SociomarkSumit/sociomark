@@ -187,22 +187,7 @@
 					</div>
 				</section>
 
-				<footer>
-					<div class="info">
-						<div class="contact-footer">
-							<a href="tel:010" class="phone">012.345.6789</a>
-							<a href="#" class="email">info@dsngrid</a>
-						</div>
-						<div class="copyright-social">
-							<p>© 2019 Design Grid</p>
-							<ul>
-								<li><a href="#" target="_blank">Instagram</a></li>
-								<li><a href="#" target="_blank">Facebook</a></li>
-								<li><a href="#" target="_blank">Linkedin</a></li>
-							</ul>
-						</div>
-					</div>
-				</footer>
+				<?php include(APPPATH.'views\layout\footer.php')?>
 			</div>
 		</div>
 	</main>

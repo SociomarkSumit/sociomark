@@ -5,20 +5,16 @@
 				<div class="col-md-3 dsn-col-footer">
 					<div class="footer-block">
 						<div class="footer-logo">
-							<a href="#"><img src="assets/img/logo/logo.png" alt=""></a>
+							<a href="#"><img src="<?php echo base_url('assets/img/logo/logo.png')?>" alt=""></a>
 						</div>
-
 						<div class="footer-social">
-
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 								<li><a href="#"><i class="fab fa-instagram"></i></a></li>
 								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fab fa-linkedin"></i></a></li>
 								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-
 							</ul>
-
 						</div>
 					</div>
 				</div>
@@ -51,9 +47,7 @@
 				<div class="col-md-3 dsn-col-footer">
 					<div class="col-address">
 						<h4 class="footer-title">Address</h4>
-
 						<p>225, NBC Complex, CBD Belapur, Navi Mumbai, Maharashtra 400614</p>
-
 					</div>
 				</div>
 			</div>
