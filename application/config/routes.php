@@ -62,5 +62,5 @@ $route['case-study'] ='case_study';
 $route['careers'] ='careers';
 $route['blog'] ='blog';
 
-$route['instagram-for-businesses'] ='blog1';
+$route['blog/instagram-for-businesses'] ='blog/blog1';
 

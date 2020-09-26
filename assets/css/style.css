@@ -2311,7 +2311,7 @@ body > * {
   left: 0;
   width: 100%;
   height: 50%;
-  background: #090808;
+  background: #19729b;
 }
 
 .preloader .preloader-before {
@@ -2380,7 +2380,7 @@ body > * {
   right: 0;
   width: 100%;
   height: 2px;
-  background: #1d1d1d;
+  background: #ff9312;
 }
 
 .preloader .preloader-bar .preloader-progress {
