@@ -1,19 +1,14 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Blog extends CI_Controller{
-
+class Work extends CI_Controller{
 	public function __construct()
 	{
 		parent::__construct();
 	}
 
 	public function index(){
-		$this->load->view('blog');
-	}
-
-	public function blog1(){
-		$this->load->view('blogs/blog1');
+		$this->load->view('portfolio/index');
 	}
 
 }

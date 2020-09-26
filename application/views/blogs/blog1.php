@@ -172,7 +172,7 @@
 					</div>
 				</div>
 
-				<section class="contact-up next-post-up section-margin section-padding">
+				<section class="contact-up next-post-up  section-padding">
 					<div class="container">
 						<div class="c-wapp">
 							<a href="contact.html" class="effect-ajax">

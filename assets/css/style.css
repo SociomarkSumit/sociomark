@@ -4628,7 +4628,8 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .contact-up {
-  background-color: #e6e6e6;
+  	background-color: #e6e6e6;
+	margin-top: 120px;
 }
 
 .contact-up::before {
@@ -6027,12 +6028,12 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 [data-dsn-grid="moveUp"] img {
   position: relative;
   width: 100%;
-  top: -20%;
-  height: 120%;
-  will-change: scroll-position;
-  pointer-events: none;
-  -o-object-fit: cover;
-  object-fit: cover;
+  top: -7%;
+  height: 100%;
+  /*will-change: scroll-position;*/
+  /*pointer-events: none;*/
+  /*-o-object-fit: cover;*/
+  /*object-fit: cover;*/
 }
 
 [data-dsn-grid="move-up"] img[data-dsn-scale="1"],
