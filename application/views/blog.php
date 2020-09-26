@@ -40,7 +40,7 @@
 					<article class="post-list-item">
 						<figure>
 							<a class="image-zoom effect-ajax" href="post.html" data-dsn-animate="up">
-								<img src="assets/img/blog/1.jpg" alt="">
+								<img src="assets/img/blog/instagram-for-businesses.jpg" alt="">
 							</a>
 						</figure>
 						<div class="post-list-item-content">
