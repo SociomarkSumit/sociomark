@@ -60,7 +60,26 @@ $route['contact-us'] ='home/contact';
 $route['portfolio'] ='work';
 $route['case-study'] ='case_study';
 $route['careers'] ='careers';
-$route['blog'] ='blog';
 
+$route['blog'] ='blog';
 $route['blog/instagram-for-businesses'] ='blog/blog1';
+
+$route['portfolio/cnbc-diageo/social-media-work/'] ='work/cnbc_diageo';
+$route['portfolio/the-professional-couriers/social-media-work/'] ='work/the_professional_couriers';
+$route['portfolio/ayushakti/social-media-work/'] ='work/ayushakti';
+$route['portfolio/mahindra-first-choice-services/social-media-work/'] ='work/mahindra_first_choice_services';
+$route['portfolio/frozen-music/social-media-work/'] ='work/frozen_music';
+$route['portfolio/hollywood-opticians/social-media-work/'] ='work/hollywood_opticians';
+$route['portfolio/foresight-opticals/social-media-work/'] ='work/foresight_opticals';
+$route['portfolio/mastercard/social-media-work/'] ='work/mastercard';
+$route['portfolio/lenovo/social-media-work/'] ='work/lenovo';
+$route['portfolio/button-dabao-desh-banao/social-media-work/'] ='work/button_dabao_desh_banao';
+$route['portfolio/tree-house-high-school/social-media-work/'] ='work/tree_house_high_school';
+$route['portfolio/grill-box/social-media-work/'] ='work/grill_box';
+$route['portfolio/sportz-consult/social-media-work/'] ='work/sportz_consult';
+$route['portfolio/inifd-vashi/social-media-work/'] ='work/inifd_vashi';
+$route['portfolio/alcazar/social-media-work/'] ='work/alcazar';
+$route['portfolio/the-united-emperors/social-media-work/'] ='work/the_united_emperors';
+$route['portfolio/suggeston/social-media-work/'] ='work/suggeston';
+$route['portfolio/sociomark/social-media-work/'] ='work/sociomark';
 

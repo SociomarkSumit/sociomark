@@ -59,7 +59,7 @@
 
 						<div class="projects-list gallery">
 							<div class="item digital">
-								<a href="#" class="" data-dsn-ajax="work"
+								<a href="<?php echo base_url('') ?>" class="" data-dsn-ajax="work"
 								   data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/castrol600.jpg') ?>" alt="" />
 									<div class="item-border"></div>
@@ -70,7 +70,7 @@
 								</a>
 							</div>
 							<div class="item digital">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/lime-600.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -81,7 +81,7 @@
 							</div>
 
 							<div class="item digital">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/nodwin-600.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -92,7 +92,18 @@
 							</div>
 
 							<div class="item digital">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/cnbc-diageo/social-media-work/') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/rts.jpg') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>CNBC-diageo</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item digital">
+								<a href="<?php echo base_url('portfolio/the-professional-couriers/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/tpc600.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -103,7 +114,7 @@
 							</div>
 
 							<div class="item digital">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/ayushakti/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/ayushakti.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -114,7 +125,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/mahindra-first-choice-services/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/mfcs.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -125,7 +136,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/frozen-music/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/fm.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -136,7 +147,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/hollywood-opticians/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/ho.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -147,7 +158,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/foresight-opticals/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/fo.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -158,7 +169,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/mastercard/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/mastercard.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -169,7 +180,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/lenovo/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/lenovo.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -180,7 +191,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/button-dabao-desh-banao.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -190,7 +201,7 @@
 								</a>
 							</div>
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/tree-house-high-school/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/tree-house-high-school.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -200,7 +211,7 @@
 								</a>
 							</div>
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/grill-box/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/grillbox600.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -211,7 +222,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/sportz-consult/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/sc.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -222,7 +233,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/inifd-vashi/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/inifd.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -233,7 +244,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/alcazar/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/alcazar.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -244,7 +255,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/the-united-emperors/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/ue.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -255,7 +266,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/suggeston/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/suggeston.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
@@ -266,7 +277,7 @@
 							</div>
 
 							<div class="item photography">
-								<a href="#" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/sociomark/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/sociomark.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
