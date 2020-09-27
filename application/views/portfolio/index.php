@@ -115,7 +115,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/ayushakti/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/ayushakti.jpg" alt="" />
+									<img class="has-top-bottom" src="assets/img/project/ayushakti600.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Ayushakti</h4>
@@ -192,7 +192,7 @@
 
 							<div class="item photography">
 								<a href="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/button-dabao-desh-banao.jpg" alt="" />
+									<img class="has-top-bottom" src="assets/img/project/Button-Dabo-Desh-Bano.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Button Dabao Desh Banao</h4>
@@ -212,7 +212,7 @@
 							</div>
 							<div class="item photography">
 								<a href="<?php echo base_url('portfolio/grill-box/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/grillbox600.jpg" alt="" />
+									<img class="has-top-bottom" src="assets/img/project/grill-box.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Grill Box</h4>
@@ -223,7 +223,7 @@
 
 							<div class="item photography">
 								<a href="<?php echo base_url('portfolio/sportz-consult/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/sc.jpg" alt="" />
+									<img class="has-top-bottom" src="assets/img/project/Sportz-Consult.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Sportz Consult</h4>
