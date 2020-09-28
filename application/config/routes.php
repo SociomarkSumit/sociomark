@@ -64,6 +64,11 @@ $route['careers'] ='careers';
 $route['blog'] ='blog';
 $route['blog/instagram-for-businesses'] ='blog/blog1';
 
+$route['portfolio/india-forbes/social-media-work/'] ='work/india_forbes';
+$route['portfolio/icici/social-media-work/'] ='work/icici';
+$route['portfolio/castrol/social-media-work/'] ='work/castrol';
+$route['portfolio/lime/social-media-work/'] ='work/lime';
+$route['portfolio/nodwin/social-media-work/'] ='work/nodwin';
 $route['portfolio/cnbc-diageo/social-media-work/'] ='work/cnbc_diageo';
 $route['portfolio/the-professional-couriers/social-media-work/'] ='work/the_professional_couriers';
 $route['portfolio/ayushakti/social-media-work/'] ='work/ayushakti';
