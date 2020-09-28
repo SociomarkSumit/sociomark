@@ -200,7 +200,7 @@
 				</div>
 			</section>
 
-			<div class=" box-gallery-vertical section-margin section-padding" data-dsn="color">
+			<div class=" box-gallery-vertical section-margin section-padding" >
 				<div class="mask-bg"></div>
 				<div class="container">
 					<div class="row align-items-center h-100">
@@ -225,7 +225,7 @@
 								<p data-dsn-animate="up">Targeting the correct audience, getting you to the top of the search rankings & consistently put out more engaging, minimalistic, quirky & appealing content, are the key factors for setting us apart!</p>
 
 								<div class="link-custom" data-dsn-animate="up">
-									<a class="image-zoom" href="#" data-dsn="parallax">
+									<a class="image-zoom" href="<?php echo base_url('about'); ?>" data-dsn="parallax">
 										<span>Learn More</span>
 									</a>
 								</div>

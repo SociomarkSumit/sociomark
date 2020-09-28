@@ -11,5 +11,10 @@ class Work extends CI_Controller{
 		$this->load->view('portfolio/index');
 	}
 
+	public function cnbc_diageo()
+	{
+		$this->load->view('portfolio/cnbc-diageo');
+	}
+
 }
 ?>
