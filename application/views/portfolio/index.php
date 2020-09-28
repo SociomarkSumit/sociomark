@@ -159,7 +159,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/frozen-music/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/fm.jpg" alt="" />
 									<div class="item-border"></div>
@@ -170,7 +170,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/hollywood-opticians/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/ho.jpg" alt="" />
 									<div class="item-border"></div>
@@ -181,7 +181,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/foresight-opticals/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/fo.jpg" alt="" />
 									<div class="item-border"></div>
@@ -192,7 +192,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/mastercard/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/mastercard.jpg" alt="" />
 									<div class="item-border"></div>
@@ -203,7 +203,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/lenovo/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/lenovo.jpg" alt="" />
 									<div class="item-border"></div>
@@ -214,7 +214,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/Button-Dabo-Desh-Bano.jpg" alt="" />
 									<div class="item-border"></div>
@@ -224,7 +224,7 @@
 									</div>
 								</a>
 							</div>
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/tree-house-high-school/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/tree-house-high-school.jpg" alt="" />
 									<div class="item-border"></div>
@@ -234,7 +234,7 @@
 									</div>
 								</a>
 							</div>
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/grill-box/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/grill-box.jpg" alt="" />
 									<div class="item-border"></div>
@@ -245,7 +245,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/sportz-consult/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/Sportz-Consult.jpg" alt="" />
 									<div class="item-border"></div>
@@ -256,7 +256,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/inifd-vashi/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/inifd.jpg" alt="" />
 									<div class="item-border"></div>
@@ -267,7 +267,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/alcazar/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/alcazar.jpg" alt="" />
 									<div class="item-border"></div>
@@ -278,7 +278,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/the-united-emperors/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/ue.jpg" alt="" />
 									<div class="item-border"></div>
@@ -289,7 +289,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/suggeston/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/suggeston.jpg" alt="" />
 									<div class="item-border"></div>
@@ -300,7 +300,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/sociomark/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/sociomark.jpg" alt="" />
 									<div class="item-border"></div>
@@ -311,7 +311,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="#" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/lenovo.jpg" alt="" />
 									<div class="item-border"></div>
@@ -330,12 +330,12 @@
 					<div class="container">
 						<div class="c-wapp">
 							<a href="contact.html" class="effect-ajax">
-									<span class="hiring">
-										We are hiring
-									</span>
+								<span class="hiring">
+									We are hiring
+								</span>
 								<span class="career">
-										Dare and contact us immediately!
-									</span>
+									Dare and contact us immediately!
+								</span>
 							</a>
 						</div>
 					</div>
