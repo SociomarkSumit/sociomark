@@ -83,18 +83,6 @@
 							</div>
 
 							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/icici/social-media-work/') ?>" class="" data-dsn-ajax="work"
-								   data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/icici600.jpg') ?>" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>ICICI</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
-
-							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/castrol/social-media-work/') ?>" class="" data-dsn-ajax="work"
 								   data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/castrol600.jpg') ?>" alt="" />
