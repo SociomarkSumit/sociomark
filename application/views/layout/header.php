@@ -55,13 +55,10 @@
 			<div class="nav-content">
 				<div class="inner-content">
 					<address class="v-middle">
-
 						<span>225, NBC Complex, Sector 11, CBD Belapur,</span>
 						<span>Navi Mumbai, Maharashtra 400614</span>
 						<span style="padding-top:10px">business@sociomark.in</span>
 						<span style="padding-top:10px">+919819988640</span>
-
-
 						<div class="social-links">
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>

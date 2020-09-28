@@ -52,7 +52,6 @@
 									<button type="button" data-filter=".website">Website</button>
 									<button type="button" data-filter=".branding">Branding</button>
 									<button type="button" data-filter=".motion">Motion Graphics</button>
-
 								</div>
 							</div>
 						</div>
