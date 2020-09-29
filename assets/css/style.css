@@ -3745,7 +3745,7 @@ body.nav-active .header-top .header-container .menu-icon:hover .text-menu .text-
 
 .nav:before, .nav-content:before, .nav:after, .nav-content:after {
   content: "";
-	background: #106c97;
+	background: #106c97!important;
   position: fixed;
   width: 50%;
   height: 100vh;

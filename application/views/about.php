@@ -455,7 +455,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/landor.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -474,7 +473,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/cnbc-tv18.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -493,7 +491,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/mastercard.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -512,7 +509,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/lenovo.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -531,7 +527,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/smart-cities.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -550,7 +545,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/ai-awards.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -569,7 +563,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/commodity-ki-paathshaala.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -588,7 +581,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/ibm.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -607,7 +599,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/ayushakti.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -626,7 +617,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/smita-naram.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -645,7 +635,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/treehouse.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -664,7 +653,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/grillbox.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -683,7 +671,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/mfcs.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -702,7 +689,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/sportz-consult.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -721,7 +707,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/young-turks.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -740,7 +725,6 @@
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/talk-tales.png'); ?>" alt="">
-
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -756,29 +740,10 @@
 									</div>
 								</div>
 							</div>
-
 						</div>
 					</div>
 				</section>
-
-			</div>
-
-			<section class="contact-up section-margin section-padding">
-				<div class="container">
-					<div class="c-wapp">
-						<a href="contact.html" class="effect-ajax">
-                                <span class="hiring">
-                                    We are hiring
-                                </span>
-							<span class="career">
-                                   Hop on if you have ideas that change people's thinking!
-                                </span>
-						</a>
-					</div>
-				</div>
-			</section>
 			<?php include('layout/footer.php')?>
-
 		</div>
 	</div>
 

@@ -838,14 +838,11 @@
 								<div class="content">
 									<div class="background"></div>
 									<h5>Web , Brand</h5>
-
 									<div class="cta">
 										<a href="#">Digital Photography Tips</a>
 									</div>
-
 									<p>Simple point-and-shoot digital cameras can give surprising quality when they
 										have the right lenses and sensors.</p>
-
 								</div>
 							</div>
 
@@ -853,24 +850,6 @@
 					</div>
 				</div>
 			</section>
-
-			<section class="contact-up section-padding">
-				<div class="container">
-					<div class="c-wapp">
-						<a href="contact.html" class="effect-ajax">
-                                <span class="hiring">
-                                    We are hiring
-                                </span>
-							<span class="career">
-                                    Hop on if you have ideas that change people's thinking!
-                                </span>
-						</a>
-					</div>
-				</div>
-			</section>
-
-		</div>
-
 		<?php include('layout/footer.php')?>
 	</div>
 </main>

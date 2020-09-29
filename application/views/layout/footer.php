@@ -1,3 +1,15 @@
+	<section class="contact-up section-padding">
+	<div class="container">
+		<div class="c-wapp">
+			<a href="contact.html" class="effect-ajax">
+				<span class="hiring">We are hiring</span>
+				<span class="career">Hop on if you have ideas that change people's thinking!</span>
+			</a>
+		</div>
+	</div>
+</section>
+</div>
+
 <footer class="footer">
 	<div class="container">
 		<div class="footer-links p-relative">

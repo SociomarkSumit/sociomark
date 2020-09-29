@@ -116,6 +116,8 @@
 							</a>
 						</div>
 					</div>
+
+					<?php include('layout/footer.php')?>
 				</div>
 			</div>
 		</div>
