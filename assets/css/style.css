@@ -1364,7 +1364,7 @@ h3, .v-light
 h4, .v-light
 h5, .v-light
 h6 {
-  color: #000;
+	color: #106c97;
 }
 
 /* ----------------------------------------------------------------
@@ -1675,6 +1675,7 @@ body > * {
 .one-title .title-sub-container {
   padding-left: 50px;
   margin-bottom: 20px;
+	color: #ff971a;
 }
 
 @media only screen and (max-width: 767px) {
@@ -1712,7 +1713,7 @@ body > * {
 }
 
 .v-light .one-title .title-sub-container .title-sub:before {
-  background-color: #000;
+  background-color: #106c97;
 }
 
 .one-title .title-sub-container .title-sub:after {
@@ -6461,12 +6462,14 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .intro-about .intro-content-text .exper .numb-ex > span {
-  color: #000;
+  color: #106c97;
 }
 
 .intro-about .intro-content-text .exper h4 {
-  font-size: 18px;
-  margin-top: 40px;
+	font-size: 18px;
+	margin-top: 40px;
+	color: #ff9413;
+	font-weight: bold;
 }
 
 .intro-about .img-box {
@@ -7008,7 +7011,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .client-see .inner .bg:after {
-  color: #000;
+  color: #ff9414;
 }
 
 .client-see .inner .left {
@@ -7057,6 +7060,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 .client-see .inner .left .text {
   position: relative;
   display: inline-block;
+	color: #116992;
 }
 
 .client-see .inner .items {
@@ -7208,7 +7212,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .client-see .slick-dots li button {
-  background: #000;
+  background: #ff9414;
 }
 
 .our-news {
@@ -7316,11 +7320,12 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .our-news .item-new .content h5 {
-  color: #000;
+  color: #ff9414;
 }
 
 .our-news .item-new .content p {
   margin-top: 20px;
+	color: #000;
 }
 
 .our-news .item-new .content .cta {
@@ -7336,7 +7341,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .our-news .item-new .content .cta a {
-  color: #000;
+  color: #106c97;
 }
 
 .our-team {
@@ -8390,7 +8395,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .our-news .slick-slider .slick-dots li button, .v-light .our-team .slick-slider .slick-dots li button, .v-light [data-dsn-col="2"] .slick-slider .slick-dots li button {
-  background: #000;
+  background: #ff9313;
 }
 
 @media only screen and (max-width: 991px) {
@@ -12196,9 +12201,8 @@ footer p {
   font-family: "Montserrat", sans-serif;
 }
 
-.v-light footer a, .v-light
-footer p {
-  color: #0009;
+.v-light footer a, .v-light footer p {
+  color: #fff;
 }
 
 @media only screen and (max-width: 767px) {
@@ -12301,7 +12305,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .v-light .footer {
-  background-color: #e6e6e6;
+  background-color: #19719a;
 }
 
 .footer .footer-links {
@@ -12327,7 +12331,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .v-light .footer .footer-links .footer-title {
-  color: #000;
+  color: #fff;
 }
 
 .footer .footer-links .footer-title::after {
@@ -12341,7 +12345,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .v-light .footer .footer-links .footer-title::after {
-  background-color: #000;
+  background-color: #ff9d27;
 }
 
 .footer .footer-links .footer-block.col-menu ul li {
@@ -12370,7 +12374,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .v-light .footer .footer-links .footer-block.col-contact p strong {
-  color: #000;
+  color: #ff900b;
 }
 
 .footer .footer-links .footer-block.col-contact p span {
@@ -12380,6 +12384,7 @@ footer .copyright-social ul li:last-child {
 
 .footer .footer-links .footer-block .footer-logo {
   width: 200px;
+	background-color: #fff;
 }
 
 .footer .footer-links .footer-block .footer-social {
@@ -12414,8 +12419,8 @@ footer .copyright-social ul li:last-child {
 }
 
 .v-light .footer .footer-links .footer-block .footer-social ul li a {
-  color: #000;
-  border: 1px solid #bebebe;
+	color: #ff9b23;
+	border: 1px solid #ffffff;
 }
 
 .footer .footer-links .footer-block .footer-social ul li a i {
@@ -12508,7 +12513,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .v-light .footer .copyright .copright-text a {
-  color: #000;
+  color: #a7a7a7;
 }
 
 .cap {

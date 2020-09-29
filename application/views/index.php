@@ -854,7 +854,7 @@
 				</div>
 			</section>
 
-			<section class="contact-up section-margin section-padding">
+			<section class="contact-up section-padding">
 				<div class="container">
 					<div class="c-wapp">
 						<a href="contact.html" class="effect-ajax">
