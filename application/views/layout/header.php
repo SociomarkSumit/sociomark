@@ -38,11 +38,11 @@
 					<span class="menu-icon__line menu-icon__line-right"></span>
 				</div>
 
-				<div class="text-menu">
-					<div class="text-button">Menu</div>
-					<div class="text-open">Open</div>
-					<div class="text-close">Close</div>
-				</div>
+<!--				<div class="text-menu">-->
+<!--					<div class="text-button">Menu</div>-->
+<!--					<div class="text-open">Open</div>-->
+<!--					<div class="text-close">Close</div>-->
+<!--				</div>-->
 			</div>
 
 			<div class="nav">

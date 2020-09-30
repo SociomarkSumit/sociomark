@@ -740,6 +740,367 @@
 									</div>
 								</div>
 							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/foresight-optical.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/inifd.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/frozen music.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/hollywood-optician.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/suggeston.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/joshbro.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/kolkata-rolls.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/today-royal-group.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/united-emperor.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/the-grand-legacy.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/tgv.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/sincere-finance.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/zoomstart.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/rossa.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/iec.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/stonepaper.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/agarwals.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/alcazar.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/portraiture-by-pari.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/springville.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Google</h5>
+												<a href="#">www.google.com</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
 						</div>
 					</div>
 				</section>
