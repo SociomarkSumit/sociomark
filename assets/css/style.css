@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 .color1{
-	color: #ff9312!important;
+	color: #ff900b!important;
 }
 .color2{
 	color: #106c97!important;
@@ -1675,7 +1675,7 @@ body > * {
 .one-title .title-sub-container {
   padding-left: 50px;
   margin-bottom: 20px;
-	color: #ff9312;
+	color: #ff900b;
 }
 
 @media only screen and (max-width: 767px) {
@@ -2381,7 +2381,7 @@ body > * {
   right: 0;
   width: 100%;
   height: 2px;
-  background: #ff9312;
+  background: #ff900b;
 }
 
 .preloader .preloader-bar .preloader-progress {
@@ -2808,7 +2808,7 @@ input[type="submit"]:hover::before {
 }
 
 .v-light .link-custom a:before {
-  background-color: #ff9312;
+  background-color: #ff900b;
   color: #fff;
 }
 
@@ -3930,7 +3930,7 @@ body.nav-active .header-top .header-container .menu-icon:hover .text-menu .text-
 
 .nav-content:before, .nav-content:after {
   content: "";
-	background: #ff9312;
+	background: #ff900b;
   position: fixed;
   width: 50%;
   right: 0;
@@ -4702,7 +4702,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .contact-up .c-wapp a .hiring {
-  -webkit-text-stroke: 1px #ff9312;
+  -webkit-text-stroke: 1px #ff900b;
 }
 
 @media only screen and (max-width: 767px) {
@@ -4756,7 +4756,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .contact-up:hover a .hiring {
-  color: #ff9312;
+  color: #ff900b;
 }
 
 .dsn-pagination {
@@ -4798,7 +4798,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .dsn-pagination .page-numbers.current {
-  color:#ff9312;
+  color:#ff900b;
 }
 
 .dsn-pagination .page-numbers:hover {
@@ -5781,7 +5781,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   align-self: flex-start;
   left: 0;
   top: -20px;
-	color:#ff9312;
+	color:#ff900b;
 }
 
 .our-client .client-curs .client-item div:after {
@@ -5790,7 +5790,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   align-self: flex-end;
   right: 0;
   bottom: 0;
-	color:#ff9312;
+	color:#ff900b;
 }
 
 .our-client .client-curs .client-item h5 {
@@ -6941,7 +6941,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   color: transparent;
   border: 0;
   outline: none;
-  background: #ff9312;
+  background: #ff900b;
   -webkit-transform: scaleX(1);
   -ms-transform: scaleX(1);
   transform: scaleX(1);
@@ -7015,7 +7015,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .client-see .inner .bg:after {
-  color: #ff9312;
+  color: #ff900b;
 }
 
 .client-see .inner .left {
@@ -7216,7 +7216,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .client-see .slick-dots li button {
-  background: #ff9312;
+  background: #ff900b;
 }
 
 .our-news {
@@ -7324,7 +7324,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .our-news .item-new .content h5 {
-  color: #ff9312;
+  color: #ff900b;
 }
 
 .our-news .item-new .content p {
@@ -8399,7 +8399,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .our-news .slick-slider .slick-dots li button, .v-light .our-team .slick-slider .slick-dots li button, .v-light [data-dsn-col="2"] .slick-slider .slick-dots li button {
-  background: #ff9312;
+  background: #ff900b;
 }
 
 @media only screen and (max-width: 991px) {
@@ -12348,7 +12348,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .v-light .footer .footer-links .footer-title::after {
-  background-color: #ff9312;
+  background-color: #ff900b;
 }
 
 .footer .footer-links .footer-block.col-menu ul li {
@@ -12377,7 +12377,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .v-light .footer .footer-links .footer-block.col-contact p strong {
-  color: #ff9312;
+  color: #ff900b;
 }
 
 .footer .footer-links .footer-block.col-contact p span {
@@ -12422,7 +12422,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .v-light .footer .footer-links .footer-block .footer-social ul li a {
-	color: #ff9312;
+	color: #ffffff;
 	border: 1px solid #ffffff;
 }
 
@@ -12488,6 +12488,7 @@ footer .copyright-social ul li:last-child {
 
 .footer .footer-links .footer-block .footer-social ul li a i {
   font-size: 12px;
+	font-weight: 100;
 }
 
 .footer .copyright {
