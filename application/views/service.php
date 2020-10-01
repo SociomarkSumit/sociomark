@@ -62,19 +62,19 @@
 								<h2 class="title-main">Create More Awareness</h2>
 							</div>
 							<div class="row">
-								<p style="padding-bottom: 30px">A 360degree approach, facilitating a complete coverage of all possible digital mediums. You know we can mark all possibilities!</p>
+								<p style="padding-bottom: 30px; font-size: 17px">A 360 degree approach, facilitating a complete coverage of all possible digital mediums. You know we can mark all possibilities!</p>
 
 								<div class="col-md-4">
 									<div class="services-item">
 										<div class="corner corner-top"></div>
 										<div class="corner corner-bottom"></div>
 										<div class="icon">
-											<img src="assets/img/services/1-light.png" alt="">
+											<img src="assets/img/services/social-media-marketing.png" alt="">
 										</div>
 										<div class="services-header">
 											<h3>SOCIAL MEDIA MARKETING</h3>
 										</div>
-										<p>Targeting the correct audience at the right time, across social media platforms like Facebook, Instagram, Twitter, YouTube, LinkedIn & Pinterest.</p>
+										<p>Targeting the correct audience at the right time, across all the social media platform.</p>
 									</div>
 								</div>
 
@@ -83,10 +83,10 @@
 										<div class="corner corner-top"></div>
 										<div class="corner corner-bottom"></div>
 										<div class="icon">
-											<img src="assets/img/services/2-light.png" alt="">
+											<img src="assets/img/services/seo-and-sem.png" alt="">
 										</div>
 										<div class="services-header">
-											<h3>SEO & SEM</h3>
+											<h3>SEO & SEM<br><br></h3>
 										</div>
 										<p>Ensuring visibility for the search engine, collaborative efforts that help in brand topping the search list.</p>
 									</div>
@@ -97,7 +97,7 @@
 										<div class="corner corner-top"></div>
 										<div class="corner corner-bottom"></div>
 										<div class="icon">
-											<img src="assets/img/services/3-light.png" alt="">
+											<img src="assets/img/services/website-development.png" alt="">
 										</div>
 										<div class="services-header">
 											<h3>WEBSITE DEVELOPMENT</h3>
@@ -111,7 +111,7 @@
 										<div class="corner corner-top"></div>
 										<div class="corner corner-bottom"></div>
 										<div class="icon">
-											<img src="assets/img/services/2-light.png" alt="">
+											<img src="assets/img/services/affiliate-marketing.png" alt="">
 										</div>
 										<div class="services-header">
 											<h3>AFFILIATE MARKETING</h3>
@@ -125,7 +125,7 @@
 										<div class="corner corner-top"></div>
 										<div class="corner corner-bottom"></div>
 										<div class="icon">
-											<img src="assets/img/services/3-light.png" alt="">
+											<img src="assets/img/services/digital-pr.png" alt="">
 										</div>
 										<div class="services-header">
 											<h3>DIGITAL PR & ASSOCIATIONS</h3>
@@ -139,7 +139,7 @@
 										<div class="corner corner-top"></div>
 										<div class="corner corner-bottom"></div>
 										<div class="icon">
-											<img src="assets/img/services/2-light.png" alt="">
+											<img src="assets/img/services/blogger-and-influencer.png" alt="">
 										</div>
 										<div class="services-header">
 											<h3>INFLUENCER OUTREACH</h3>
@@ -153,7 +153,7 @@
 										<div class="corner corner-top"></div>
 										<div class="corner corner-bottom"></div>
 										<div class="icon">
-											<img src="assets/img/services/3-light.png" alt="">
+											<img src="assets/img/services/creative-thinking.png" alt="">
 										</div>
 										<div class="services-header">
 											<h3>CREATIVE DESIGNING & BRAND COLLATERALS</h3>
@@ -167,7 +167,7 @@
 										<div class="corner corner-top"></div>
 										<div class="corner corner-bottom"></div>
 										<div class="icon">
-											<img src="assets/img/services/2-light.png" alt="">
+											<img src="assets/img/services/online-management.png" alt="">
 										</div>
 										<div class="services-header">
 											<h3>ONLINE REPUTATION MANAGEMENT</h3>
@@ -181,12 +181,12 @@
 										<div class="corner corner-top"></div>
 										<div class="corner corner-bottom"></div>
 										<div class="icon">
-											<img src="assets/img/services/3-light.png" alt="">
+											<img src="assets/img/services/digital-marketing-consultancy.png" alt="">
 										</div>
 										<div class="services-header">
 											<h3>DIGITAL MARKETING CONSULTANCY</h3>
 										</div>
-										<p>With a cumulative experience of 30 years in the field of Content marketing, Affiliate marketing, Brand innovation and Legal, we can assure you that we will never advise something wrong! We consult on everything, whether it is increasing your page engagement or increasing the motivation level of your employees. We are just a call away!</p>
+										<p>With a cumulative experience of 30 years in the field of Content marketing, Affiliate marketing, Brand innovation and Legal, we can assure you that we will never advise something wrong! We consult on everything.</p>
 									</div>
 								</div>
 							</div>

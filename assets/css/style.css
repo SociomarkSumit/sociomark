@@ -12312,8 +12312,8 @@ footer .copyright-social ul li:last-child {
 }
 
 .footer .footer-links {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 50px;
+  padding-bottom: 40px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -12494,7 +12494,7 @@ footer .copyright-social ul li:last-child {
 .footer .copyright {
   padding-top: 30px;
   font-size: 14px;
-  letter-spacing: 2.67px;
+  letter-spacing: 1.75px;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -12503,11 +12503,11 @@ footer .copyright-social ul li:last-child {
 }
 
 .footer .copyright p {
-  text-transform: uppercase;
+
 }
 
 .footer .copyright .copright-text {
-  color: #a7a7a7;
+  color: #ffffff;
   margin-top: 5px;
   font-weight: 500;
 }
@@ -12517,7 +12517,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .v-light .footer .copyright .copright-text a {
-  color: #a7a7a7;
+  color: #ffffff;
 }
 
 .cap {
