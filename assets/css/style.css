@@ -3211,7 +3211,7 @@ body.hamburger-menu .header-top {
   position: absolute;
   width: 100%;
   max-width: 2560px;
-  padding: 22px 50px;
+  padding: 0px 0px;
   margin: auto;
 }
 
@@ -3245,12 +3245,14 @@ body.hamburger-menu .header-top {
 }
 
 .header-top .header-container .menu-icon {
-  position: relative;
-  z-index: 999;
-  float: right;
-  top: 14px;
-  cursor: pointer;
-  margin-right: 50px;
+	position: relative;
+	z-index: 999;
+	float: right;
+	/* top: 14px; */
+	cursor: pointer;
+	/* margin-right: 50px; */
+	background-color: #fff;
+	padding: 20px;
 }
 
 .header-top .header-container .menu-icon .icon-circle {
@@ -5769,8 +5771,8 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   position: absolute;
   line-height: 1;
   height: 40px;
-  background-color: rgba(148, 148, 148, 0.07);
-  opacity: 0.1;
+  /*background-color: rgba(148, 148, 148, 0.07);*/
+  opacity: 0.3;
 }
 
 .our-client .client-curs .client-item div:before {
@@ -5779,6 +5781,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   align-self: flex-start;
   left: 0;
   top: -20px;
+	color:#ff9312;
 }
 
 .our-client .client-curs .client-item div:after {
@@ -5787,6 +5790,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   align-self: flex-end;
   right: 0;
   bottom: 0;
+	color:#ff9312;
 }
 
 .our-client .client-curs .client-item h5 {
@@ -5948,7 +5952,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .brand-client .wapper-client .logo-box .info .content .icon {
-  color: #000;
+  color: #106c97;
 }
 
 .brand-client .wapper-client .logo-box .info .content .entry {
@@ -12195,7 +12199,7 @@ footer p {
   font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 4px;
+  letter-spacing: 2px;
   line-height: 1.6;
   font-variant-numeric: proportional-nums;
   font-family: "Montserrat", sans-serif;

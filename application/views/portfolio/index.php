@@ -57,6 +57,29 @@
 						</div>
 
 						<div class="projects-list gallery">
+
+							<div class="item digital">
+								<a href="<?php echo base_url('portfolio/mastercard/social-media-work/') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="assets/img/project/mastercard.jpg" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Mastercard</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item digital">
+								<a href="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work/') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="assets/img/project/Button-Dabo-Desh-Bano.jpg" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Button Dabao Desh Banao</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/india-forbes/social-media-work/') ?>" class="" data-dsn-ajax="work"
 								   data-dsn-grid="move-up">
@@ -92,6 +115,18 @@
 									</div>
 								</a>
 							</div>
+
+							<div class="item photography">
+								<a href="<?php echo base_url('portfolio/mahindra-first-choice-services/social-media-work/') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="assets/img/project/mfcs.jpg" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Mahindra First Choice Services</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/lime/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/lime-600.jpg') ?>" alt="" />
@@ -147,17 +182,6 @@
 								</a>
 							</div>
 
-							<div class="item photography">
-								<a href="<?php echo base_url('portfolio/mahindra-first-choice-services/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/mfcs.jpg" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>Mahindra First Choice Services</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
-
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/frozen-music/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/fm.jpg" alt="" />
@@ -192,17 +216,6 @@
 							</div>
 
 							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/mastercard/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/mastercard.jpg" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>Mastercard</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
-
-							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/lenovo/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/lenovo.jpg" alt="" />
 									<div class="item-border"></div>
@@ -213,16 +226,6 @@
 								</a>
 							</div>
 
-							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/Button-Dabo-Desh-Bano.jpg" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>Button Dabao Desh Banao</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/tree-house-high-school/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/tree-house-high-school.jpg" alt="" />
@@ -323,21 +326,7 @@
 						</div>
 					</div>
 				</div>
-
-				<section class="contact-up section-margin section-padding">
-					<div class="container">
-						<div class="c-wapp">
-							<a href="contact.html" class="effect-ajax">
-								<span class="hiring">
-									We are hiring
-								</span>
-								<span class="career">
-									Dare and contact us immediately!
-								</span>
-							</a>
-						</div>
-					</div>
-				</section>
+				<?php include(APPPATH.'views\layout\footer.php')?>
 			</div>
 		</div>
 	</main>

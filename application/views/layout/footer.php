@@ -36,10 +36,11 @@
 						<h4 class="footer-title">Navigation</h4>
 						<nav>
 							<ul>
-								<li><a href="#">Portfolio</a>
-								</li>
+								<li><a href="#">Home</a></li>
 								<li><a href="#">About</a></li>
-								<li><a href="#">News</a></li>
+								<li><a href="#">Services</a></li>
+								<li><a href="#">Work</a></li>
+								<li><a href="#">Blog</a></li>
 								<li><a href="#">Contact</a>
 								</li>
 							</ul>
@@ -50,9 +51,9 @@
 				<div class="col-md-3 dsn-col-footer">
 					<div class="footer-block col-contact">
 						<h4 class="footer-title">Contact</h4>
-						<p><strong>T</strong> <span>:</span> +001 225 3351</p>
-						<p><strong>F</strong> <span>:</span>+001 225 3351</p>
-						<p class="over-hidden"><strong>E</strong> <span>:</span><a class="link-hover" data-hover-text="info@dsngrid.com" href="#">info@dsngrid.com</a></p>
+						<p><strong>T</strong> <span>:</span> +919819988640</p>
+<!--						<p><strong>F</strong> <span>:</span>+001 225 3351</p>-->
+						<p class="over-hidden"><strong>E</strong> <span>:</span><a class="link-hover" data-hover-text="info@dsngrid.com" href="#">business@sociomark.in</a></p>
 					</div>
 				</div>
 
