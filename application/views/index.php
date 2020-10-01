@@ -29,17 +29,17 @@
 					<div class="swiper-wrapper">
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
-								<div class="slide-content-inner" style="display: none">
+								<div class="slide-content-inner" style="display: block">
 									<div class="project-metas">
 										<div class="project-meta-box project-work cat">
-											<span>Brands</span>
+											<span>Sociomark</span>
 										</div>
 									</div>
 
 									<div class="title-text-header">
 										<div class="title-text-header-inner">
 											<a href="project-9.html" class="effect-ajax" data-dsn-ajax="slider">
-												Time Tag Watch
+												Our Awards
 											</a>
 										</div>
 									</div>
@@ -66,7 +66,7 @@
 
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
-								<div class="slide-content-inner" style="display: none">
+								<div class="slide-content-inner" style="display: block">
 									<div class="project-metas">
 										<div class="project-meta-box project-work cat">
 											<span>Brands</span>
@@ -104,7 +104,7 @@
 
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
-								<div class="slide-content-inner" style="display: none">
+								<div class="slide-content-inner" style="display: block">
 									<div class="project-metas">
 										<div class="project-meta-box project-work cat">
 											<span>Photography</span>
@@ -142,7 +142,7 @@
 
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
-								<div class="slide-content-inner" style="display: none">
+								<div class="slide-content-inner" style="display: block">
 									<div class="project-metas">
 										<div class="project-meta-box project-work cat">
 											<span>Photography</span>
@@ -181,7 +181,7 @@
 
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
-								<div class="slide-content-inner" style="display: none">
+								<div class="slide-content-inner" style="display: block">
 									<div class="project-metas">
 										<div class="project-meta-box project-work cat">
 											<span>Photography</span>
@@ -615,6 +615,14 @@
 									<h3>WEBSITE DEVELOPMENT</h3>
 								</div>
 								<p>Creating a face for the brand with seamless integration, that helps build a connect with your audience.</p>
+							</div>
+						</div>
+						<div class="col-md-12">
+							<div class="link-custom" style="text-align: center">
+								<a href="project-8.html" class="image-zoom effect-ajax" data-dsn="parallax"
+								   data-dsn-ajax="slider">
+									<span>Know More</span>
+								</a>
 							</div>
 						</div>
 					</div>
