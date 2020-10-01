@@ -137,7 +137,7 @@
 								</a>
 							</div>
 
-							<div class="item photography">
+							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/mahindra-first-choice-services/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="assets/img/project/mfcs.jpg" alt="" />
 									<div class="item-border"></div>
