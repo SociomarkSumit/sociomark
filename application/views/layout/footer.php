@@ -59,8 +59,7 @@
 		<div class="copyright">
 			<div class="text-center">
 				<p>© 2020 Apogee Digitech Pvt Ltd</p>
-				<div class="copright-text over-hidden">Designed by <a class="link-hover"
-																	  data-hover-text="DSN Grid" href="#" target="_blank">Sociomark</a>
+				<div class="copright-text over-hidden">Designed and developed by <a class="link-hover">Sociomark</a>
 				</div>
 			</div>
 		</div>

@@ -478,28 +478,7 @@
 							</div>
 						</div>
 					</div>
-					<ul class="social-network">
-						<li>
-							<a href="#">
-								<i class="fab fa-facebook-f"></i>
-							</a>
-						</li>
-						<li>
-							<a href="#">
-								<i class="fab fa-twitter"></i>
-							</a>
-						</li>
-						<li>
-							<a href="#">
-								<i class="fab fa-instagram"></i>
-							</a>
-						</li>
-						<li>
-							<a href="#">
-								<i class="fab fa-linkedin-in"></i>
-							</a>
-						</li>
-					</ul>
+
 				</div>
 
 				<div class="control-num">
@@ -539,8 +518,8 @@
 
 								<p data-dsn-animate="text">The journey till now has witnessed some good & some bad times, some award-winning moments & the urge to do more! We're more of consultants that want to bring an unmatched social presence.</p>
 
-								<h6 data-dsn-animate="text">SALVADOR DALI</h6>
-								<small data-dsn-animate="text">Digital Artisit</small>
+								<h6 data-dsn-animate="text">THREE YEARS</h6>
+								<small data-dsn-animate="text">The Journey</small>
 
 								<div class="exper">
 									<div class="numb-ex">
@@ -581,24 +560,24 @@
 								<div class="corner corner-top"></div>
 								<div class="corner corner-bottom"></div>
 								<div class="icon">
-									<img src="assets/img/services/1-light.png" alt="">
+									<img src="assets/img/services/social-media-marketing.png" alt="">
 								</div>
 								<div class="services-header">
 									<h3>SOCIAL MEDIA MARKETING</h3>
 								</div>
-								<p>Targeting the correct audience at the right time, across social media platforms like Facebook, Instagram, Twitter, YouTube, LinkedIn & Pinterest.</p>
+								<p>Targeting the correct audience at the right time, across all the social media platforms.</p>
 							</div>
 						</div>
 
 						<div class="col-md-4">
-							<div class="services-item selected">
+							<div class="services-item">
 								<div class="corner corner-top"></div>
 								<div class="corner corner-bottom"></div>
 								<div class="icon">
-									<img src="assets/img/services/2-light.png" alt="">
+									<img src="assets/img/services/seo-and-sem.png" alt="">
 								</div>
 								<div class="services-header">
-									<h3>Search Engine Optimization & SEM</h3>
+									<h3>SEO & SEM<br><br></h3>
 								</div>
 								<p>Ensuring visibility for the search engine, collaborative efforts that help in brand topping the search list.</p>
 							</div>
@@ -609,7 +588,7 @@
 								<div class="corner corner-top"></div>
 								<div class="corner corner-bottom"></div>
 								<div class="icon">
-									<img src="assets/img/services/3-light.png" alt="">
+									<img src="assets/img/services/website-development.png" alt="">
 								</div>
 								<div class="services-header">
 									<h3>WEBSITE DEVELOPMENT</h3>
@@ -723,7 +702,7 @@
 						<div class="left">
 							<h2 class="title" data-dsn-grid="move-section" data-dsn-move="-60"
 								data-dsn-duration="100%" data-dsn-opacity="1" data-dsn-responsive="tablet">
-								<span class="text">Feedback from our clients.</span>
+								<span class="text">Not the same old feedback!</span>
 							</h2>
 						</div>
 
