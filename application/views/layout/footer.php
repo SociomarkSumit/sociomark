@@ -17,7 +17,7 @@
 				<div class="col-md-3 dsn-col-footer">
 					<div class="footer-block">
 						<div class="footer-logo">
-							<a href="#"><img src="<?php echo base_url('assets/img/logo/logo.png')?>" alt=""></a>
+							<a href="#"><img src="<?php echo base_url('assets/img/logo/logo-white.png')?>" alt=""></a>
 						</div>
 						<div class="footer-social">
 							<ul>

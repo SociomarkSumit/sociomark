@@ -6931,13 +6931,13 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   line-height: 0;
   display: block;
   width: 20px;
-  height: 2px;
+  height: 4px;
   padding: 0;
   cursor: pointer;
   color: transparent;
   border: 0;
   outline: none;
-  background: #fff;
+  background: #ff900b;
   -webkit-transform: scaleX(1);
   -ms-transform: scaleX(1);
   transform: scaleX(1);
@@ -8377,7 +8377,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   line-height: 0;
   display: block;
   width: 20px;
-  height: 2px;
+  height: 4px;
   padding: 0;
   cursor: pointer;
   color: transparent;
@@ -8395,7 +8395,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .our-news .slick-slider .slick-dots li button, .v-light .our-team .slick-slider .slick-dots li button, .v-light [data-dsn-col="2"] .slick-slider .slick-dots li button {
-  background: #ff9313;
+  background: #ff900b;
 }
 
 @media only screen and (max-width: 991px) {
@@ -12384,7 +12384,7 @@ footer .copyright-social ul li:last-child {
 
 .footer .footer-links .footer-block .footer-logo {
   width: 200px;
-	background-color: #fff;
+	
 }
 
 .footer .footer-links .footer-block .footer-social {
