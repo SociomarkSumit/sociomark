@@ -154,7 +154,7 @@
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/rts.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
-										<h4>CNBC-diageo</h4>
+										<h4>Diageo</h4>
 										<span><span>View Project</span></span>
 									</div>
 								</a>
@@ -296,7 +296,7 @@
 									<img class="has-top-bottom" src="assets/img/project/suggeston.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
-										<h4>Suggestion</h4>
+										<h4>Suggeston</h4>
 										<span><span>View Project</span></span>
 									</div>
 								</a>

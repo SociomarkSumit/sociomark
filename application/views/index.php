@@ -642,62 +642,71 @@
 							<div class="work-container">
 								<div class="slick-slider">
 									<div class="work-item slick-slide">
-										<img class="has-top-bottom" src="assets/img/project/project3/1.jpg" alt="">
+										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/rts.jpg') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="project-7.html" data-dsn-grid="move-up" class="effect-ajax">
-
-												<h5 class="cat">Photography</h5>
-												<h4>Nile - Kabutha</h4>
+											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+												<h4>Diageo</h4>
 												<span><span>Veiw Project</span></span>
 											</a>
-
 										</div>
 									</div>
 
 									<div class="work-item slick-slide">
-										<img class="has-top-bottom" src="assets/img/project/project6/1.jpg" alt="">
+										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/nodwin-600.jpg') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="project-6.html" data-dsn-grid="move-up" class="effect-ajax">
-
-												<h5 class="cat">Fashion</h5>
-												<h4>Bloawshom</h4>
+											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+												<h4>Nodwin</h4>
 												<span><span>Veiw Project</span></span>
 											</a>
-
 										</div>
 									</div>
 
 									<div class="work-item slick-slide">
-										<img class="has-top-bottom" src="assets/img/project/project4/1.jpg" alt="">
+										<img class="has-top-bottom" src="<?php echo base_url('portfolio/mahindra-first-choice-services/social-media-work/') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="project-4.html" data-dsn-grid="move-up" class="effect-ajax">
-
-												<h5 class="cat">Photography</h5>
-												<h4>Bastian Bux</h4>
+											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+												<h4>Mahindra First Choice Services</h4>
 												<span><span>Veiw Project</span></span>
 											</a>
-
 										</div>
 									</div>
 
 									<div class="work-item slick-slide">
-										<img class="has-top-bottom" src="assets/img/project/project5/1.jpg" alt="">
+										<img class="has-top-bottom" src="<?php echo base_url('portfolio/mastercard/social-media-work/') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="project-5.html" data-dsn-grid="move-up" class="effect-ajax">
-
-												<h5 class="cat">Fashion</h5>
-												<h4>Bloawshom</h4>
+											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+												<h4>Mastercard</h4>
 												<span><span>Veiw Project</span></span>
 											</a>
+										</div>
+									</div>
 
+									<div class="work-item slick-slide">
+										<img class="has-top-bottom" src="<?php echo base_url('portfolio/castrol/social-media-work/') ?>" alt="">
+										<div class="item-border"></div>
+										<div class="item-info">
+											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+												<h4>Castrol</h4>
+												<span><span>Veiw Project</span></span>
+											</a>
+										</div>
+									</div>
+
+									<div class="work-item slick-slide">
+										<img class="has-top-bottom" src="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work/') ?>" alt="">
+										<div class="item-border"></div>
+										<div class="item-info">
+											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+												<h4>Button Dabao Desh Banao</h4>
+												<span><span>Veiw Project</span></span>
+											</a>
 										</div>
 									</div>
 								</div>
-
 							</div>
 						</div>
 					</div>
