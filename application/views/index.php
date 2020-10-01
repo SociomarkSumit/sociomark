@@ -619,7 +619,7 @@
 						</div>
 						<div class="col-md-12">
 							<div class="link-custom" style="text-align: center">
-								<a href="project-8.html" class="image-zoom effect-ajax" data-dsn="parallax"
+								<a href="<?php echo site_url('services') ?>" class="image-zoom effect-ajax" data-dsn="parallax"
 								   data-dsn-ajax="slider">
 									<span>Know More</span>
 								</a>
