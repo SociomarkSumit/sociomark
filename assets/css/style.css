@@ -2198,20 +2198,21 @@ body > * {
   height: 76px;
   z-index: 999999;
   pointer-events: none;
-  background-color: #fff;
+  background-color:#ff900b;
   border-radius: 50%;
   -webkit-transform-origin: left top;
   -ms-transform-origin: left top;
   transform-origin: left top;
-  -webkit-transition: -webkit-transform .35s;
-  transition: -webkit-transform .35s;
-  -o-transition: transform .35s;
-  transition: transform .35s;
-  transition: transform .35s, -webkit-transform .35s;
+  -webkit-transition: -webkit-transform .20s;
+  transition: -webkit-transform .20s;
+  -o-transition: transform .20s;
+  transition: transform .20s;
+  transition: transform .20s, -webkit-transform .20s;
   -webkit-transform: scale(0.3) translate(-50%, -50%);
   -ms-transform: scale(0.3) translate(-50%, -50%);
   transform: scale(0.3) translate(-50%, -50%);
-  mix-blend-mode: exclusion;
+	mix-blend-mode: multiply;
+	opacity: 0.7;
 }
 
 .cursor.cursor-view {
@@ -6572,12 +6573,11 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 
 .v-light .our-services-2 .services-item:hover{
-	background: #f1f1f1;
-	padding-bottom:35px;
-	transition: 0.7s ease-in-out;
-	-webkit-box-shadow: 15px 15px 30px rgba(225, 225, 225, 0.46);
-
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background: #fbfbfb82;
+	padding-bottom: 35px;
+	transition: 0.4s ease-in-out;
+	-webkit-box-shadow: 0px 0px 21px 0px rgb(142 142 142 / 22%);
+	box-shadow: 0px 0px 21px 0px rgb(142 142 142 / 22%);
 }
 
 @media only screen and (max-width: 767px) {
@@ -6602,8 +6602,8 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 .our-services-2 .services-item {
   position: relative;
   text-align: center;
-  padding: 50px 45px;
-	transition: 0.7s ease-in-out;
+  padding: 75px 45px;
+	transition: 0.4s ease-in-out;
 }
 
 @media only screen and (max-width: 991px) {
@@ -9429,8 +9429,8 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .v-light .dsn-slider .link-custom a:before {
-  background-color: #fff;
-  color: #000;
+	background-color: #ff900b;
+	color: #fff;
 }
 
 .dsn-slider .slide-inner {
@@ -10061,7 +10061,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .dsn-slider-content .slide-content .slide-content-inner .link-custom a {
-  border: 1px solid rgba(112, 112, 112, 0.5);
+  border: 1px solid rgb(255 144 11);
 }
 
 .dsn-slider-content .slide-content.dsn-active {
