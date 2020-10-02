@@ -104,7 +104,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/Button-Dabo-Desh-Bano.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/Button-Dabo-Desh-Bano.jpg')?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Button Dabao Desh Banao</h4>
@@ -139,7 +139,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/mahindra-first-choice-services/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/mfcs.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/mfcs.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Mahindra First Choice Services</h4>
@@ -161,7 +161,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/mastercard/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/mastercard.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/mastercard.jpg')?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Mastercard</h4>
@@ -172,7 +172,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/sportz-consult/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/Sportz-Consult.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/Sportz-Consult.jpg')?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Sportz Consult</h4>
@@ -183,7 +183,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/ayushakti/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/ayushakti600.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/ayushakti600.jpg')?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Ayushakti</h4>

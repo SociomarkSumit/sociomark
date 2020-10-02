@@ -664,7 +664,7 @@
 									</div>
 
 									<div class="work-item slick-slide">
-										<img class="has-top-bottom" src="<?php echo base_url('portfolio/mahindra-first-choice-services/social-media-work/') ?>" alt="">
+										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/mfcs.jpg') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
 											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
@@ -675,7 +675,7 @@
 									</div>
 
 									<div class="work-item slick-slide">
-										<img class="has-top-bottom" src="<?php echo base_url('portfolio/mastercard/social-media-work/') ?>" alt="">
+										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/mastercard.jpg')?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
 											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
@@ -686,7 +686,7 @@
 									</div>
 
 									<div class="work-item slick-slide">
-										<img class="has-top-bottom" src="<?php echo base_url('portfolio/castrol/social-media-work/') ?>" alt="">
+										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/castrol600.jpg') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
 											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
@@ -697,7 +697,7 @@
 									</div>
 
 									<div class="work-item slick-slide">
-										<img class="has-top-bottom" src="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work/') ?>" alt="">
+										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/Button-Dabo-Desh-Bano.jpg')?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
 											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
