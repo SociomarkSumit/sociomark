@@ -1,0 +1,157 @@
+.tags span{
+	background: #efefef;
+	color: #808080;
+	font-size: 12px;
+	padding: 5px 20px;
+	display: inline-block;
+	margin: 0px 5px 8px 0;
+}
+
+.tags span b{
+	cursor: pointer;
+	font-size: 14px;
+}
+
+.col_details{
+	padding-top: 7px;
+}
+.col_details:before{
+	content: ": ";
+}
+
+.row_details{
+	border-bottom: 1px dashed #cdcdcd;
+	margin: 0 1%;
+}
+
+.block{
+	margin: 15px 0;
+}
+.block .block_title{
+	background: #8cddcd;
+	padding: 5px 15px;
+	color: #fff;
+	font-weight: 600;
+	font-size: 18px;
+}
+
+
+.user_details .panel{
+	min-height: 280px;
+}
+
+.panel-body .form-group.row{
+	border-bottom: 1px dashed #eaeaea;
+	padding-bottom: 10px;
+}
+
+.count_box{
+	width: 300px;
+    padding: 10% 0;
+    border-right: 1px solid #e6e6e6;
+    margin: 0 auto;
+    display: flex;
+}
+.count_box.last{
+	border-right: unset;
+}
+.count_box .icon{
+	width: 50px;
+	height: 50px;
+	background: #7b6bef;
+	text-align: center;
+	border-radius: 90px;
+	padding: 10px;
+	float: left;
+}
+.count_box .icon img{
+	width: 100%;
+}
+.count_box .title{
+	width: 120px;
+	float: left;
+	padding: 5px 0 0 20px;
+	line-height: 20px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.count_box .value{
+	width: 90px;
+	float: left;
+	font-size: 36px;
+    font-weight: 700;
+}
+
+
+
+
+.loader_overlay{
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,0.5);
+	text-align: center;
+	z-index: 9999;
+}
+.loader_overlay .loader_container{
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+.loader_overlay .loader_img{
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.product_images_box{
+	width: 70px;
+	float: left;
+	padding: 0 0 0 10px;
+}
+.product_images_box .product_image img{
+	width: 100%;
+}
+.product_images_box .remove_image{
+	text-align: center;
+	cursor: pointer;
+}
+.remove_icon{
+	color: #f00;
+	cursor: pointer;
+}
+.form-group .inner_row{
+	width: 40%;
+	padding-bottom: 10px;
+}
+.form-group .inner_row .inner_row_field{
+	width: 90%;
+	float: left;
+}
+.form-group .inner_row .remove_field{
+	width: 10%;
+	float: left;
+	padding: 8px;
+	cursor: pointer;
+}
+.form-group .inner_row .remove_field_new{
+	width: 10%;
+	float: left;
+	padding: 8px;
+	cursor: pointer;
+}
+.select_display_image{
+	text-align: center;
+}
+
+.panel-body-block{
+	border: 5px solid #e8e8e8;
+    padding: 3%;
+    margin: 3% 0;
+}
+
+.panel-body-block.address{
+	height: 300px;
+}
