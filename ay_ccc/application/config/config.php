@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-date_default_timezone_set('Asia/Kolkata');
+//date_default_timezone_set('Asia/Kolkata');
 
 /*
 |--------------------------------------------------------------------------
@@ -25,9 +25,7 @@ date_default_timezone_set('Asia/Kolkata');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/sociomark/ay_ccc/';
-//$config['base_url'] = 'http://103.145.50.9/~ayushakti/public_html/ay_ccc/';
-
+	$config['base_url'] = 'http://localhost/sociomark/ay_ccc/';
 /*
 |--------------------------------------------------------------------------
 | Index File
