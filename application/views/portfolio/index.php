@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-	<?php include(APPPATH.'views\layout\head.php');?>
+	<?php require APPPATH.'views/layout/head.php';?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">
@@ -18,7 +18,7 @@
 		<div class="preloader-progress"></div>
 	</div>
 </div>
-<?php include(APPPATH.'views\layout\header.php');?>
+<?php require APPPATH.'views/layout/header.php';?>
 	<main class="main-root">
 		<div id="dsn-scrollbar">
 			<header>
@@ -60,7 +60,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/cnbc-diageo/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/rts.jpg') ?>" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/rts-600.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Diageo</h4>
@@ -93,7 +93,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/tree-house-high-school/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/tree-house-high-school.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/tree-house-high-school.jpg')?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Tree House High School</h4>
@@ -150,7 +150,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/the-professional-couriers/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/tpc600.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/tpc600.jpg')?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>The Professional Couriers</h4>
@@ -206,7 +206,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/frozen-music/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/fm.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/fm.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Frozen Music</h4>
@@ -217,7 +217,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/hollywood-opticians/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/ho.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/ho.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Hollywood Opticians</h4>
@@ -228,7 +228,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/foresight-opticals/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/fo.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/fo.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Foresight Opticals</h4>
@@ -239,7 +239,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/lenovo/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/lenovo.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/lenovo.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Lenovo</h4>
@@ -250,7 +250,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/grill-box/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/grill-box.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/grill-box') ?>.jpg" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Grill Box</h4>
@@ -261,7 +261,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/inifd-vashi/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/inifd.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/inifd.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>INIFD Vashi</h4>
@@ -272,7 +272,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/alcazar/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/alcazar.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/alcazar.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Alcazar</h4>
@@ -283,7 +283,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/the-united-emperors/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/ue.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/ue.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>United Emperors</h4>
@@ -294,7 +294,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/suggeston/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/suggeston.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/suggeston.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Suggeston</h4>
@@ -305,7 +305,7 @@
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/sociomark/social-media-work/') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/sociomark.jpg" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/sociomark.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Sociomark</h4>
@@ -313,24 +313,13 @@
 									</div>
 								</a>
 							</div>
-
-							<div class="item digital">
-								<a href="#" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="assets/img/project/lenovo.jpg" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>Lenovo</h4>
-										<span><span>Veiw Project</span></span>
-									</div>
-								</a>
-							</div>
 						</div>
 					</div>
 				</div>
-				<?php include(APPPATH.'views\layout\footer.php')?>
+				<?php require APPPATH.'views/layout/footer.php';?>
 			</div>
 		</div>
 	</main>
-<?php include(APPPATH.'views\layout\js.php')?>
+<?php require APPPATH.'views/layout/js.php';?>
 </body>
 </html>
