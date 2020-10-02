@@ -63,8 +63,8 @@ class thumbnail_model extends CI_Model {
 
 
 		$data = array(		
-		'imagefile1'=>$filename1,
-		'title'=>$this->input->post('title')
+			'imagefile1'=>$filename1,
+			'title'=>$this->input->post('title')
 		);
 
 		if($this->input->post('dataId')){

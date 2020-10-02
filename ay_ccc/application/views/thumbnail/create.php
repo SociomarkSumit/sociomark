@@ -60,14 +60,14 @@ $(document).ready(function() {
 
         $.ajax({
             type: "POST",
-            url: "<?php echo base_url(); ?>index.php/media/store",
+            url: "<?php echo base_url('thumbnail/store'); ?>",
             data:  new FormData(this),
             dataType: 'json',
             cache: false,
             contentType: false,
             processData: false,
             success: function(response) {
-                location.href='<?php echo base_url(); ?>index.php/media';
+                location.href="<?php echo base_url('index.php/thumbnail'); ?>";
             },
             error: function(data){
                 var responseData = data.responseJSON;

@@ -19,3 +19,15 @@ ERROR - 2020-10-02 11:00:54 --> Severity: Warning --> Invalid argument supplied 
 ERROR - 2020-10-02 11:02:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sociomark\ay_ccc\application\views\thumbnail\index.php 39
 ERROR - 2020-10-02 11:02:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sociomark\ay_ccc\application\views\thumbnail\index.php 39
 ERROR - 2020-10-02 11:03:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sociomark\ay_ccc\application\views\thumbnail\index.php 39
+ERROR - 2020-10-02 11:06:41 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:07:02 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:07:04 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:07:05 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:07:55 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:08:59 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:10:32 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:26:28 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:34:37 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:37:01 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:41:18 --> The upload path does not appear to be valid.
+ERROR - 2020-10-02 11:41:26 --> The upload path does not appear to be valid.
