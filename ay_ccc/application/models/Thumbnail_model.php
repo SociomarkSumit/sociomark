@@ -31,7 +31,7 @@ class thumbnail_model extends CI_Model {
 	public function store_method(){
 
 		$this->load->library('upload');
-		
+
 		/*Start Imagefile1 Upload*/
 		if($this->input->post('imageexist1')){
 			$filename1=$this->input->post('imageexist1');
@@ -43,7 +43,7 @@ class thumbnail_model extends CI_Model {
 			$max_height='600';
 			$min_width='50';
 			$min_height='50';
-            $conf = $this->set_upload_options($destination,$filename1,$max_size,$max_width,$max_height,$min_width,$min_height);
+			$conf = $this->set_upload_options($destination,$filename1,$max_size,$max_width,$max_height,$min_width,$min_height);
 			$this->upload->initialize($conf);
 
 			if(!$this->upload->do_upload('imagefile1')){
@@ -57,12 +57,12 @@ class thumbnail_model extends CI_Model {
 				$response=array('error'=>$response_array);
 
 				return $response;
-	        }
-		}		
-        /*End Imagefile1 Upload*/
+			}
+		}
+		/*End Imagefile1 Upload*/
 
 
-		$data = array(		
+		$data = array(
 			'imagefile1'=>$filename1,
 			'title'=>$this->input->post('title')
 		);
@@ -73,7 +73,7 @@ class thumbnail_model extends CI_Model {
 
 			$response_array['message'] = 'Successful Updated';
 			$response_array['class'] = 'alert-success';
-			
+
 		}else{
 			$this->db->insert('thumbnail',$data);
 
@@ -85,30 +85,30 @@ class thumbnail_model extends CI_Model {
 		$response=array('success'=>$response_array);
 
 		$this->session->set_flashdata('response', $response);
-		
+
 		return $response;
 	}
 
 
 	public function getDataById_method($dataId){
-		$this->db->select('id,device,imagefile1,alt,url,sort_order,status');	
-		$this->db->where('id',$dataId);		
+		$this->db->select('id,device,imagefile1,alt,url,sort_order,status');
+		$this->db->where('id',$dataId);
 		$query=$this->db->get('thumbnail');
 		return $query->result();
-	}	
+	}
 
 
-	private function set_upload_options($destination,$filename,$max_size,$max_width,$max_height,$min_width,$min_height){   
-	//  upload an image options
+	private function set_upload_options($destination,$filename,$max_size,$max_width,$max_height,$min_width,$min_height){
+		//  upload an image options
 		$config = array();
 		$config['file_name'] = $filename;
 		$config['upload_path'] = FCPATH.'images/uploads/'.$destination.'/';
 		$config['allowed_types'] = 'gif|jpg|png';
 		$config['max_size'] = $max_size;
 		$config['max_width'] = $max_width;
-		$config['max_height'] = $max_height;	
+		$config['max_height'] = $max_height;
 		$config['min_width'] = $min_width;
-		$config['min_height'] = $min_height;	
+		$config['min_height'] = $min_height;
 		$config['overwrite'] = FALSE;
 
 		return $config;
@@ -123,27 +123,27 @@ class thumbnail_model extends CI_Model {
 
 	public function resize_thumb($filename){
 
-		$imagesource1=$_SERVER['DOCUMENT_ROOT'].'/images/thumbnail/'.$filename;
-		$newimagesource1=$_SERVER['DOCUMENT_ROOT'].'/images/thumbnail/thumbs/'.$filename;
-		// Configuration 
-		$config1['image_library'] = 'gd2'; 
-		$config1['source_image'] = $imagesource1; 
-		$config1['new_image'] = $newimagesource1; 
-		$config1['create_thumb'] = TRUE; 
-		$config1['maintain_ratio'] = TRUE; 
-		$config1['width'] = 300; 
-		$config1['height'] = 240; 
+		$imagesource1=FCPATH.'images/thumbnail/'.$filename;
+		$newimagesource1=FCPATH.'images/thumbnail/thumbs/'.$filename;
+		// Configuration
+		$config1['image_library'] = 'gd2';
+		$config1['source_image'] = $imagesource1;
+		$config1['new_image'] = $newimagesource1;
+		$config1['create_thumb'] = TRUE;
+		$config1['maintain_ratio'] = TRUE;
+		$config1['width'] = 300;
+		$config1['height'] = 240;
 
-		// Load the Library 
+		// Load the Library
 		$this->image_lib->initialize($config1);
 
 		// resize image
-		$this->image_lib->resize(); 
+		$this->image_lib->resize();
 
-		// handle if there is any problem 
-		if ( ! $this->image_lib->resize()){ 
-			echo $this->image_lib->display_errors(); 
-		} 
+		// handle if there is any problem
+		if ( ! $this->image_lib->resize()){
+			echo $this->image_lib->display_errors();
+		}
 	}
 
 	public function delete_method(){
@@ -155,18 +155,18 @@ class thumbnail_model extends CI_Model {
 
 			$this->delete_file_method($DataId,$data_field1='imagefile1');
 
-			$this->db->where('id',$DataId); 
+			$this->db->where('id',$DataId);
 			$query=$this->db->delete('thumbnail');
 		}
-	
+
 		$response_array['message'] = 'Successful Deleted';
-		$response_array['class'] = 'alert-success';		
+		$response_array['class'] = 'alert-success';
 		$response=$response_array;
 		$response=array('success'=>$response_array);
 
 		$this->session->set_flashdata('response', $response);
-		return $response;	
-	}	
+		return $response;
+	}
 
 
 	public function delete_file_method($dataId,$data_field1='no_field'){
@@ -177,18 +177,20 @@ class thumbnail_model extends CI_Model {
 		}
 
 		$this->db->select($data_field);
-		$this->db->where('id',$dataId); 
+		$this->db->where('id',$dataId);
 		$query=$this->db->get('thumbnail',1);
-		$row=$query->row();		
+		$row=$query->row();
 
 		$data=array($data_field=>'no_file');
 		$this->db->where('id',$dataId);
 		if($this->db->update('media',$data)){
-			unlink(WEBSITEPATH.'/images/thumbnail/'.$row->$data_field);
+			unlink(FCPATH.'images/uploads/thumbnail/'.$row->$data_field);
+			unlink(FCPATH.'images/thumbnail/'.$row->$data_field);
+			unlink(FCPATH.'images/thumbnail/thumbs/'.$row->$data_field);
 		}
 
 		$response_array['message'] = 'Successful Deleted';
-		$response_array['class'] = 'alert-success';		
+		$response_array['class'] = 'alert-success';
 		$response=$response_array;
 		$response=array('success'=>$response_array);
 		return $response;
