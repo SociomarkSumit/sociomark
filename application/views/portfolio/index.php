@@ -314,6 +314,7 @@
 								</a>
 							</div>
 						</div>
+						<div class="section-margin"></div>
 					</div>
 				</div>
 				<?php require APPPATH.'views/layout/footer.php';?>
