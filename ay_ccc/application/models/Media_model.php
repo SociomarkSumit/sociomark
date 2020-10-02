@@ -102,7 +102,7 @@ class media_model extends CI_Model {
 	//  upload an image options
 		$config = array();
 		$config['file_name'] = $filename;
-		$config['upload_path'] = $_SERVER['DOCUMENT_ROOT'].'/images/uploads/'.$destination.'/';
+		$config['upload_path'] = FCPATH.'images/uploads/'.$destination.'/';
 		$config['allowed_types'] = 'gif|jpg|png';
 		$config['max_size'] = $max_size;
 		$config['max_width'] = $max_width;
