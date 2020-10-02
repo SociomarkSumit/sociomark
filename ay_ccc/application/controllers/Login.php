@@ -21,6 +21,7 @@ class Login extends CI_Controller {
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('username','Username','trim|required|xss_clean');
 		$this->form_validation->set_rules('passcode','Password','trim|required|xss_clean');
+		
 		if($this->form_validation->run()==FALSE){
 			$this->statusCode=400;
 

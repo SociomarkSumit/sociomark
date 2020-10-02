@@ -61,8 +61,9 @@ $route['portfolio'] ='work';
 $route['case-study'] ='case_study';
 $route['careers'] ='careers';
 
-$route['blog'] ='blog';
-$route['blog/instagram-for-businesses'] ='blog/blog1';
+$route['blog'] ='home/blogs';
+$route['blog/(:any)'] ='blog/index/$1';
+//$route['blog/instagram-for-businesses'] ='blog/blog1';
 
 $route['portfolio/india-forbes/social-media-work/'] ='work/india_forbes';
 $route['portfolio/icici/social-media-work/'] ='work/icici';

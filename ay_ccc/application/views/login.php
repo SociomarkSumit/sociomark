@@ -84,13 +84,14 @@ $(document).ready(function() {
 
 	    $.ajax({
 	        type: "POST",
-	        url: "<?php echo base_url();?>index.php/login/authentication",
+	        url: "<?php echo base_url();?>login/authentication",
 	        data:  new FormData(this),
 	        dataType: 'json',
 	        cache: false,
 	        contentType: false,
 	        processData: false,
-	        success: function(result) {            
+	        success: function(result) {    
+	            console.log(result);
 	            $("#form_login_notification").addClass('form_login_success');
 	            $("#form_login_notification").html("Login successful");
 	            location.href="<?php echo base_url();?>index.php/posts";

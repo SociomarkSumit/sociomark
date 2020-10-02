@@ -78,11 +78,11 @@ $(document).ready(function() {
     if (confirm('Are you sure you want to delete these records?')) {
         $.ajax({
             type: "POST",
-            url: '<?php echo base_url(); ?>media/delete',
+            url: "<?php echo base_url('media/delete'); ?>",
             data: {dataId:dataId},
             dataType: 'json',
             success: function(response) {
-				location.href='<?php echo base_url(); ?>index.php/media';
+				location.href="<?php echo base_url('media'); ?>";
             }
         });
     }

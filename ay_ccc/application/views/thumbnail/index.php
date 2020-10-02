@@ -38,9 +38,9 @@
                         </tr>
                         <?php foreach($result as $row){ ?>
                         <tr>
-                            <td><img src="<?php echo base_url('images/uploads/media/'.$row->imagefile1) ?>" width="100"></td>
+                            <td><img src="../images/uploads/thumbnail/<?php echo $row->imagefile1; ?>" width="100"></td>
                             <td><?php echo $row->title; ?></td>
-                            <td>images/uploads/media/<?php echo $row->imagefile1; ?></td>
+                            <td>images/uploads/thumbnail/<?php echo $row->imagefile1; ?></td>
                             <td>
                                 <span class="checkbox">
                                     <input name="dataId" class="styled" type="checkbox" value="<?php echo $row->id; ?>">
@@ -82,7 +82,7 @@ $(document).ready(function() {
             data: {dataId:dataId},
             dataType: 'json',
             success: function(response) {
-				location.href='<?php echo base_url(); ?>index.php/thumbnail';
+				location.href="<?php echo base_url('thumbnail'); ?>";
             }
         });
     }

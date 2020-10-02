@@ -44,6 +44,7 @@ class Posts extends CI_Controller {
 		$this->form_validation->set_rules('meta_title','Meta title','trim|required|max[180]|xss_clean');
 		$this->form_validation->set_rules('meta_description','Meta Description','trim|required|xss_clean');
 		$this->form_validation->set_rules('meta_keywords','Meta keywords','trim|required|xss_clean');
+		$this->form_validation->set_rules('tags','tags','trim|required|xss_clean');
 
 		if($this->form_validation->run()==FALSE){
 			$this->statusCode=400;
@@ -52,7 +53,8 @@ class Posts extends CI_Controller {
 				'content'=>form_error('content','<span>','</span>'),
 				'meta_title'=>form_error('meta_title','<span>','</span>'),
 				'meta_description'=>form_error('meta_description','<span>','</span>'),
-				'meta_keywords'=>form_error('meta_keywords','<span>','</span>')
+				'meta_keywords'=>form_error('meta_keywords','<span>','</span>'),
+				'tags'=>form_error('tags','<span>','</span>')
 			);
 
 			$response_array['error_type'] = 'form';

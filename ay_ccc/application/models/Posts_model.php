@@ -58,6 +58,7 @@ class posts_model extends CI_Model {
 		'meta_title'=>$this->input->post('meta_title'),
 		'meta_description'=>$this->input->post('meta_description'),
 		'meta_keywords'=>$this->input->post('meta_keywords'),
+		'tags'=>$this->input->post('tags'),
 		'display_on_home'=>$this->input->post('display_on_home'),		
 		'slug'=>$slug,
 		'status'=>$this->input->post('status'),
@@ -196,7 +197,7 @@ class posts_model extends CI_Model {
 
 		$this->db->where('id',$dataId);
 		if($this->db->update('posts',array($data_field => 'unset'))){
-			unlink(WEBSITEPATH.'/images/posts/'.$row->$data_field);
+			unlink('../images/posts/'.$row->$data_field);
 		}
 
 		$response_array['message'] = 'Successful Deleted';
