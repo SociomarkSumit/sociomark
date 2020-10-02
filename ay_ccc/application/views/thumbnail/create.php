@@ -20,7 +20,7 @@
                     <form action="" method="POST" id="data_form" enctype="multipart/form-data">						
                         
                         <div class="form-group row">
-                            <label class="col-sm-2 col-form-label">Image (800x600)</label>
+                            <label class="col-sm-2 col-form-label">Image (670x500)</label>
                             <div class="col-sm-10">
                               <div class="error form_error" id="form-error-imagefile1"></div>
                               <input type="file" name="imagefile1">

@@ -12,7 +12,7 @@
                 <div class="panel-heading">
                     <div class="col-sm-8">Records</div>
                     <div class="col-sm-4 buttons_panel float-right">
-                        <?php echo anchor('media/create','<button class="btn btn-primary">Add New</button>');?>
+                        <?php echo anchor('thumbnail/create','<button class="btn btn-primary">Add New</button>');?>
                         <?php echo '<button type="button" class="btn btn-primary" id="delete_records">Delete</button>';?>
                     </div>
                     <div class="clr"></div>

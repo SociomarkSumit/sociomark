@@ -38,9 +38,9 @@ class thumbnail_model extends CI_Model {
 		}else{
 			$destination='thumbnail';
 			$filename1=str_replace(' ', '', date('Ymdhis').'_'.$_FILES['imagefile1']['name']);
-			$max_size='500';
-			$max_width='1600';
-			$max_height='950';
+			$max_size='600';
+			$max_width='700';
+			$max_height='600';
 			$min_width='50';
 			$min_height='50';
             $conf = $this->set_upload_options($destination,$filename1,$max_size,$max_width,$max_height,$min_width,$min_height);

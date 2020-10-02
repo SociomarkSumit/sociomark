@@ -30,7 +30,7 @@
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label class="col-sm-2 col-form-label">Image (1600x600)</label>
+                            <label class="col-sm-2 col-form-label">Image (1200X655)</label>
                             <div class="col-sm-10">
                                 <div class="error form_error" id="form-error-imagefile1"></div>
                                 <?php
