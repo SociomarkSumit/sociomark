@@ -57,6 +57,9 @@ $route['about'] ='home/about';
 $route['services'] ='home/services';
 $route['contact-us'] ='home/contact';
 
+$route['terms-and-conditions'] ='home/terms';
+$route['privacy-and-policy'] ='home/privacy';
+
 $route['portfolio'] ='work';
 $route['case-study'] ='case_study';
 $route['careers'] ='careers';

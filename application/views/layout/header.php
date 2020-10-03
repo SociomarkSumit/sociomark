@@ -5,9 +5,9 @@
 			<div class="inner-header">
 				<div class="main-logo">
 					<a href="<?php echo site_url('home') ?>">
-						<img class="dark-logo" src="<?php echo base_url('assets/img/logo/sociomark.png') ?>" width="95px" alt="" />
-						<img class="light-logo" src="<?php echo base_url('assets/img/logo/sociomark.png') ?>" width="95px" alt="" />
-<!--						<img class="light-logo" src="--><?php //echo base_url('assets/img/logo/logo-white.png') ?><!--" alt="" />-->
+						<img class="dark-logo" src="<?php echo base_url('assets/img/logo/sociomark.png') ?>" alt="" />
+<!--						<img class="light-logo" src="--><?php //echo base_url('assets/img/logo/sociomark.png') ?><!--" width="95px" alt="" />-->
+						<img class="light-logo" src="<?php echo base_url('assets/img/logo/sociomark-white.png') ?>" alt="" />
 					</a>
 				</div>
 			</div>
@@ -25,10 +25,10 @@
 	<div class="header-top header-top-hamburger">
 		<div class="header-container">
 			<div class="logo main-logo">
-				<a href="<?php echo site_url('home') ?>">
+				<a href="<?php echo base_url('') ?>">
 					<img class="dark-logo" src="<?php echo base_url('assets/img/logo/sociomark.png') ?>" width="95px" alt="" />
-					<img class="light-logo" src="<?php echo base_url('assets/img/logo/sociomark.png') ?>" width="95px" alt="" />
-<!--					<img class="light-logo" src="--><?php //echo base_url('assets/img/logo/logo-white.png') ?><!--" alt="" />-->
+<!--					<img class="light-logo" src="--><?php //echo base_url('assets/img/logo/sociomark.png') ?><!--" width="95px" alt="" />-->
+					<img class="light-logo" src="<?php echo base_url('assets/img/logo/sociomark-white.png') ?>" alt="" />
 				</a>
 			</div>
 
@@ -67,12 +67,13 @@
 						<span style="padding-top:10px">+919819988640</span>
 						<div class="social-links">
 							<ul>
-								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								<li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-								<li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
+								<li><a href="https://www.facebook.com/Sociomarkin" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="#https://twitter.com/sociomarkin" target="_blank"><i class="fab fa-twitter"></i></a></li>
+								<li><a href="https://www.instagram.com/sociomarkin/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+								<li><a href="https://www.linkedin.com/company/sociomark/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+								<li><a href="https://www.youtube.com/channel/UC5K7iFe0uiOjL5hpGoHFrhQ" target="_blank"><i class="fab fa-youtube"></i></a></li>
+								<li><a href="https://in.pinterest.com/Sociomarkin/" target="_blank"><i class="fab fa-pinterest"></i></a></li>
+								<li><a href="https://api.whatsapp.com/send?phone=919819988640&text=Hello!%20I%20just%20came%20across%20your%20website.%20I%20am%20very%20much%20impressed%20by%20the%20services%20you%20provide.%20I%20want%20to%20know%20more%20about%20your%20services%20as%20I%20am%20interested%20in%20working%20with%20you%20for%20the%20growth%20of%20my%20business." target="_blank"><i class="fab fa-whatsapp"></i></a></li>
 							</ul>
 						</div>
 					</address>

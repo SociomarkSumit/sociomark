@@ -2564,7 +2564,7 @@ textarea, .v-light
 .form-control, .v-light
 .form-box input, .v-light
 .form-box textarea {
-  color: #0009;
+  color: #fff;
 }
 
 @media only screen and (max-width: 767px) {
@@ -2682,7 +2682,7 @@ input[type="submit"] {
   position: relative;
   width: auto;
   color: #fff;
-  background-color: #090909;
+  background-color: #ff900b;
   -moz-appearance: none;
   border: none;
   -webkit-appearance: none;
@@ -2690,12 +2690,12 @@ input[type="submit"] {
   display: inline-block;
   font-size: 14px;
   font-weight: 500;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   line-height: 14px;
   text-transform: uppercase;
   cursor: pointer;
-  border-radius: 0;
-  padding: 20px 41px;
+  border-radius: 10px;
+  padding: 15px 20px;
   margin-top: 0;
   -webkit-transition: background 0.3s, color 0.3s;
   -o-transition: background 0.3s, color 0.3s;
@@ -8418,12 +8418,12 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 .dsn-effect-scroll:not(.dsn-mobile) #dsn-scrollbar .scrollbar-track, .sidebar-single .scrollbar-track, .dsn-work-scrollbar .scrollbar-track {
   background: none;
-  width: 5px;
+  width: 8px;
 }
 
 .dsn-effect-scroll:not(.dsn-mobile) #dsn-scrollbar .scrollbar-track .scrollbar-thumb, .sidebar-single .scrollbar-track .scrollbar-thumb, .dsn-work-scrollbar .scrollbar-track .scrollbar-thumb {
-  background: #424242;
-  width: 5px;
+  background: #106c97;
+  width: 8px;
 }
 
 .admin-bar.dsn-effect-scroll:not(.dsn-mobile) #dsn-scrollbar, .sidebar-single, .dsn-work-scrollbar {
@@ -12389,7 +12389,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .footer .footer-links .footer-block .footer-logo {
-  width: 200px;
+
 	
 }
 
@@ -12401,6 +12401,7 @@ footer .copyright-social ul li:last-child {
   display: inline-block;
   list-style: none;
   margin-right: 5px;
+	padding-bottom:8px;
 }
 
 .footer .footer-links .footer-block .footer-social ul li:last-child {
@@ -12490,7 +12491,7 @@ footer .copyright-social ul li:last-child {
 }
 
 .footer .footer-links .footer-block .footer-social ul li a i {
-  font-size: 12px;
+  font-size: 14px;
 	font-weight: 100;
 }
 

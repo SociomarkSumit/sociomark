@@ -29,7 +29,7 @@
 					<div class="swiper-wrapper">
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
-								<div class="slide-content-inner" style="display: block">
+								<div class="slide-content-inner" style="display: none">
 									<div class="project-metas">
 										<div class="project-meta-box project-work cat">
 											<span>Sociomark</span>
@@ -66,7 +66,7 @@
 
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
-								<div class="slide-content-inner" style="display: block">
+								<div class="slide-content-inner" style="display: none">
 									<div class="project-metas">
 										<div class="project-meta-box project-work cat">
 											<span>Brands</span>
@@ -95,16 +95,16 @@
 								</div>
 							</div>
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="assets/img/banner/nodwin.jpg"
+								<div class="image-bg cover-bg" data-image-src="assets/img/banner/website-development.jpg"
 									 data-overlay="0">
-									<img src="assets/img/banner/nodwin.jpg" alt="">
+									<img src="assets/img/banner/website-development.jpg" alt="">
 								</div>
 							</div>
 						</div>
 
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
-								<div class="slide-content-inner" style="display: block">
+								<div class="slide-content-inner" style="display: none">
 									<div class="project-metas">
 										<div class="project-meta-box project-work cat">
 											<span>Photography</span>
@@ -133,16 +133,16 @@
 								</div>
 							</div>
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="assets/img/banner/castrol.jpg"
+								<div class="image-bg cover-bg" data-image-src="assets/img/banner/appealing-ideas.jpg"
 									 data-overlay="6">
-									<img src="assets/img/banner/castrol.jpg" alt="">
+									<img src="assets/img/banner/appealing-ideas.jpg" alt="">
 								</div>
 							</div>
 						</div>
 
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
-								<div class="slide-content-inner" style="display: block">
+								<div class="slide-content-inner" style="display: none">
 									<div class="project-metas">
 										<div class="project-meta-box project-work cat">
 											<span>Photography</span>
@@ -171,9 +171,9 @@
 							</div>
 
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="assets/img/banner/rts.jpg"
+								<div class="image-bg cover-bg" data-image-src="assets/img/banner/creativity.jpg"
 									 data-overlay="2">
-									<img src="assets/img/banner/rts.jpg" alt="">
+									<img src="assets/img/banner/creativity.jpg" alt="">
 								</div>
 
 							</div>
@@ -181,7 +181,7 @@
 
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
-								<div class="slide-content-inner" style="display: block">
+								<div class="slide-content-inner" style="display: none">
 									<div class="project-metas">
 										<div class="project-meta-box project-work cat">
 											<span>Photography</span>
@@ -382,7 +382,7 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="image-container">
-							<div class="image-bg cover-bg" data-image-src="assets/img/banner/nodwin.jpg"
+							<div class="image-bg cover-bg" data-image-src="assets/img/banner/website-development.jpg"
 								 data-overlay="2">
 							</div>
 						</div>
@@ -393,7 +393,7 @@
 
 					<div class="swiper-slide">
 						<div class="image-container">
-							<div class="image-bg cover-bg" data-image-src="assets/img/banner/castrol.jpg"
+								<div class="image-bg cover-bg" data-image-src="assets/img/banner/appealing-ideas.jpg"
 								 data-overlay="2">
 							</div>
 						</div>
@@ -404,7 +404,7 @@
 
 					<div class="swiper-slide">
 						<div class="image-container">
-							<div class="image-bg cover-bg" data-image-src="assets/img/banner/rts.jpg"
+							<div class="image-bg cover-bg" data-image-src="assets/img/banner/creativity.jpg"
 								 data-overlay="2">
 							</div>
 						</div>
@@ -516,7 +516,7 @@
 									Hello, we are, <br /> Sociomark
 								</h2>
 
-								<p data-dsn-animate="text">The journey till now has witnessed some good & some bad times, some award-winning moments & the urge to do more! We're more of consultants that want to bring an unmatched social presence.</p>
+								<p data-dsn-animate="text">The idea to make people aware, bring their attention towards the brand, through minimalistic & quirky creativity, that has been our objective of making a significant mark. The journey till now has witnessed some ups and downs, some award-winning moments & the urge to do more!</p>
 
 								<h6 data-dsn-animate="text">THREE YEARS</h6>
 								<small data-dsn-animate="text">The Journey</small>
@@ -538,7 +538,7 @@
 					<div class="img-box">
 						<div class="img-cent" data-dsn-grid="move-up">
 							<div class="img-container">
-								<img data-dsn-y="30%" src="assets/img/sociomark.jpg" alt="">
+								<img data-dsn-y="30%" src="assets/img/about-us-digital-marketing-banner.jpg" alt="">
 							</div>
 						</div>
 					</div>
@@ -547,7 +547,7 @@
 
 			<section class="our-services-2 section-margin">
 				<div class="container">
-					<div class="one-title" data-dsn-animate="up">
+					<div class="one-title" data-dsn-animate="up" >
 						<div class="title-sub-container">
 							<p class="title-sub">WHAT WE DO</p>
 						</div>
@@ -728,54 +728,29 @@
 							<div class="slick-slider">
 								<div class="item">
 									<div class="quote">
-										<p>"The Brief team has been sincerely committed to
-											designing great communication around our projects. Our customers love
-											their
-											creative work - and so do we!"</p>
+										<p>"Sociomark team is absolutely very professional in their work yet bring in high flexibility in terms of ownership in delivery. all the tasks and works are delivered with utmost commitment and dedication and on time. they never said no and always valued and worked on our feedbacks	we have had a long term engagement with them and they are an absolute pleasure to work with!"</p>
 									</div>
 									<div class="bottom">
-										<div class="avatar">
-											<img src="assets/img/avatar/1.jpg" alt="">
-										</div>
+
 										<div class="label">
-											<div class="cell">- Helen Ginsberg, CEO of Treasure Island</div>
+											<div class="cell">- Siju Thomas, CEO - The Professional Couriers</div>
 										</div>
 									</div>
 								</div>
 
 								<div class="item">
 									<div class="quote">
-										<p>"Stage direction, music, ballet, workshops, backstage, the GTG presents
-											the
-											first
-											episode of the series “Les Indes galantes en création"</p>
+										<p>"Its a pleasure working with Sociomark for social media marketing of our brand GrillBox through Facebook and Instagram. Sociomark  helped us to reach many users through their creative contents. They were easy to work with and were flexible with meeting our needs."</p>
 									</div>
 									<div class="bottom">
-										<div class="avatar">
-											<img src="assets/img/avatar/2.jpg" alt="">
-										</div>
+
 										<div class="label">
-											<div class="cell">- Helen Ginsberg, CEO of Treasure Island</div>
+											<div class="cell">- Shafeeq Mareen, Founder - GrillBox</div>
 										</div>
 									</div>
 								</div>
 
-								<div class="item">
-									<div class="quote">
-										<p>"The Brief team has been sincerely committed to
-											designing great communication around our projects. Our customers love
-											their
-											creative work - and so do we!"</p>
-									</div>
-									<div class="bottom">
-										<div class="avatar">
-											<img src="assets/img/avatar/3.jpg" alt="">
-										</div>
-										<div class="label">
-											<div class="cell">- Helen Ginsberg, CEO of Treasure Island</div>
-										</div>
-									</div>
-								</div>
+
 							</div>
 						</div>
 					</div>

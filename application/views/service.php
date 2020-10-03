@@ -156,7 +156,7 @@
 											<img src="assets/img/services/creative-thinking.png" alt="">
 										</div>
 										<div class="services-header">
-											<h3>CREATIVE DESIGNING & BRAND COLLATERALS</h3>
+											<h3>CREATIVE DESIGNING</h3>
 										</div>
 										<p>The creative approach is to go out of the box & always be appealing to the customer, as per brand requirements. Building a unique brand identity is the main objective of our every communication.</p>
 									</div>
@@ -186,7 +186,7 @@
 										<div class="services-header">
 											<h3>DIGITAL MARKETING CONSULTANCY</h3>
 										</div>
-										<p>With a cumulative experience of 30 years in the field of Content marketing, Affiliate marketing, Brand innovation and Legal, we can assure you that we will never advise something wrong! We consult on everything.</p>
+										<p>Whether it is increasing your page engagement or building a new face for the brand through a website, we consult on everything! With our collective knowledge, the team can surely make an impact on your brand awareness. We are just a call away!</p>
 									</div>
 								</div>
 							</div>
@@ -210,11 +210,7 @@
 									</div>
 									<h6 data-dsn-animate="up">Sociomark’s team adds great value to each project by bringing in a cumulative experience of 30 years.</h6>
 									<p data-dsn-animate="up">Targeting the correct audience, getting you to the top of the search rankings & consistently put out more engaging, minimalistic, quirky & appealing content, are the key factors for setting us apart!</p>
-									<div class="link-custom" data-dsn-animate="up">
-										<a class="image-zoom" href="<?php echo base_url('about'); ?>" data-dsn="parallax">
-											<span>Learn More</span>
-										</a>
-									</div>
+
 								</div>
 							</div>
 
