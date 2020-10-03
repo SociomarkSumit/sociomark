@@ -208,26 +208,20 @@
 							<div class="client-item">
 								<div>
 									<p>
-										Dave & his team at Blacksmith Agency were incredible partners
-										at a critical time for our company. Day in & day out, they
-										were there for us every step of the way delivering results for
-										us & our high profile corporate partner.
+										"Sociomark team is absolutely very professional in their work yet bring in high flexibility in terms of ownership in delivery. all the tasks and works are delivered with utmost commitment and dedication and on time. they never said no and always valued and worked on our feedbacks	we have had a long term engagement with them and they are an absolute pleasure to work with!"
 									</p>
-									<h5>Brandon Barbello</h5>
-									<span>Vivalnk Inc | Google IO</span>
+									<h5>The Professional Couriers</h5>
+									<span>Siju Thomas, CEO</span>
 								</div>
 							</div>
 
 							<div class="client-item">
 								<div>
 									<p>
-										Dave & his team at Blacksmith Agency were incredible partners
-										at a critical time for our company. Day in & day out, they
-										were there for us every step of the way delivering results for
-										us & our high profile corporate partner.
+										"Its a pleasure working with Sociomark for social media marketing of our brand GrillBox through Facebook and Instagram. Sociomark  helped us to reach many users through their creative contents. They were easy to work with and were flexible with meeting our needs."
 									</p>
-									<h5>Brandon Barbello</h5>
-									<span>Vivalnk Inc | Google IO</span>
+									<h5>GrillBox</h5>
+									<span>Shafeeq Mareen, Founder</span>
 								</div>
 							</div>
 						</div>
@@ -645,7 +639,6 @@
 								</div>
 							</div>
 
-
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/smita-naram.png'); ?>" alt="">
 								<div class="info">
@@ -736,7 +729,6 @@
 								</div>
 							</div>
 
-
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/talk-tales.png'); ?>" alt="">
 								<div class="info">
@@ -790,7 +782,6 @@
 									</div>
 								</div>
 							</div>
-
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/frozen music.png'); ?>" alt="">
@@ -864,7 +855,6 @@
 								</div>
 							</div>
 
-
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/today-royal-group.png'); ?>" alt="">
 								<div class="info">
@@ -900,7 +890,6 @@
 									</div>
 								</div>
 							</div>
-
 
 							<div class="logo-box">
 								<img src="<?php echo base_url('assets/img/clients/tgv.png'); ?>" alt="">
@@ -1063,15 +1052,14 @@
 									</div>
 								</div>
 							</div>
-
-
 						</div>
 					</div>
 				</section>
-			<?php include('layout/footer.php')?>
+
+				<?php include('layout/footer.php')?>
 		</div>
 	</div>
-
+</main>
 <?php include('layout/js.php')?>
 </body>
 </html>

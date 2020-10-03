@@ -22,38 +22,36 @@
 <script src="js/sb-admin-2.js"></script>
 
 <!--Textarea Toolbar-->
-<script type="text/javascript" src="js/tinymce/tinymce.min.js"></script>
+	<script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
 
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script>
-tinymce.init({
-    selector: "textarea.toolbar",
-    menubar:false,
-    statusbar: false,
-    theme: "modern",
-    height: 200,
-    relative_urls : true,
-    document_base_url : "<?php echo str_replace('ay_ccc/', '', base_url()); ?>",
-    remove_script_host : false,
-    convert_urls : true,
-    plugins: [
-         "advlist autolink link image lists charmap print preview hr anchor pagebreak spellchecker",
-         "searchreplace wordcount visualblocks visualchars code fullscreen insertdatetime media nonbreaking",
-         "save table contextmenu directionality emoticons template paste textcolor"
-    ],
-    content_css: "css/content.css",
-    toolbar: "insertfile undo redo | styleselect | bold italic | bullist numlist | link image code | forecolor backcolor", 
-    style_formats: [
-        {title: 'Bold text', inline: 'b'},
-        {title: 'Red text', inline: 'span', styles: {color: '#ff0000'}},
-        {title: 'Red header', block: 'h1', styles: {color: '#ff0000'}},
-        {title: 'Example 1', inline: 'span', classes: 'example1'},
-        {title: 'Example 2', inline: 'span', classes: 'example2'},
-        {title: 'Table styles'},
-        {title: 'Table row 1', selector: 'tr', classes: 'tablerow1'}
-    ]
- }); 
-
+	tinymce.init({
+		selector: "textarea.toolbar",
+		menubar:false,
+		statusbar: false,
+		theme: "modern",
+		height: 200,
+		relative_urls : true,
+		remove_script_host : false,
+		convert_urls : false,
+		plugins: [
+			"advlist autolink link image lists charmap print preview hr anchor pagebreak spellchecker",
+			"searchreplace wordcount visualblocks visualchars code fullscreen insertdatetime media nonbreaking",
+			"save table contextmenu directionality emoticons template paste textcolor"
+		],
+		content_css: "css/content.css",
+		toolbar: "insertfile undo redo | styleselect | bold italic | bullist numlist | link image code | forecolor backcolor",
+		style_formats: [
+			{title: 'Bold text', inline: 'b'},
+			{title: 'Red text', inline: 'span', styles: {color: '#ff0000'}},
+			{title: 'Red header', block: 'h1', styles: {color: '#ff0000'}},
+			{title: 'Example 1', inline: 'span', classes: 'example1'},
+			{title: 'Example 2', inline: 'span', classes: 'example2'},
+			{title: 'Table styles'},
+			{title: 'Table row 1', selector: 'tr', classes: 'tablerow1'}
+		]
+	});
 </script>
 
 <!--Start calender -->

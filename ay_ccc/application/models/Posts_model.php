@@ -53,16 +53,16 @@ class posts_model extends CI_Model {
         $slug = $this->string_filter($this->input->post('meta_title'));
 
 		$data = array(
-		'title'=>$this->input->post('title'),
-		'content'=>$this->input->post('content'),
-		'meta_title'=>$this->input->post('meta_title'),
-		'meta_description'=>$this->input->post('meta_description'),
-		'meta_keywords'=>$this->input->post('meta_keywords'),
-		'tags'=>$this->input->post('tags'),
-		'display_on_home'=>$this->input->post('display_on_home'),		
-		'slug'=>$slug,
-		'status'=>$this->input->post('status'),
-		'created_at'=>date('Y-m-d H:i:s')
+			'title'=>$this->input->post('title'),
+			'content'=>$this->input->post('content'),
+			'meta_title'=>$this->input->post('meta_title'),
+			'meta_description'=>$this->input->post('meta_description'),
+			'meta_keywords'=>$this->input->post('meta_keywords'),
+			'tags'=>$this->input->post('tags'),
+			'display_on_home'=>$this->input->post('display_on_home'),
+			'slug'=>$slug,
+			'status'=>$this->input->post('status'),
+			'created_at'=>date('Y-m-d H:i:s')
 		);
 
 		if($this->input->post('dataId')){
@@ -116,7 +116,7 @@ class posts_model extends CI_Model {
 
 
 	private function set_upload_options($destination,$filename,$max_size,$max_width,$max_height,$min_width,$min_height){   
-	//  upload an image options
+		//  upload an image options
 		$config = array();
 		$config['file_name'] = $filename;
 		$config['upload_path'] = '../images/'.$destination.'/';
@@ -133,9 +133,7 @@ class posts_model extends CI_Model {
 
 	public function imageresize($filename, $destination, $resize_width, $resize_height){
 		$this->load->library('image_lib');
-
 		$this->resize_thumb($filename, $destination, $resize_width, $resize_height);
-
 	}
 
 	public function resize_thumb($filename, $destination, $resize_width, $resize_height){

@@ -56,15 +56,15 @@ $route['translate_uri_dashes'] = FALSE;
 $route['about'] ='home/about';
 $route['services'] ='home/services';
 $route['contact-us'] ='home/contact';
+$route['careers'] ='home/careers';
 
 $route['terms-and-conditions'] ='home/terms';
 $route['privacy-and-policy'] ='home/privacy';
 
 $route['portfolio'] ='work';
 $route['case-study'] ='case_study';
-$route['careers'] ='careers';
 
-$route['blog'] ='home/blogs';
+$route['blog'] ='home/blog';
 $route['blog/(:any)'] ='blog/index/$1';
 //$route['blog/instagram-for-businesses'] ='blog/blog1';
 

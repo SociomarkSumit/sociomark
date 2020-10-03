@@ -44,7 +44,7 @@
 								?>
 								<article class="post-list-item">
 									<figure>
-										<a class="image-zoom effect-ajax" href="post.html" data-dsn-animate="up">
+										<a class="image-zoom effect-ajax" href="<?php echo base_url("blog/".$value['slug']) ?>" data-dsn-animate="up">
 											<img src="<?php echo base_url('images/uploads/media/'.$value['imagefile1'])?>" alt="">
 										</a>
 									</figure>
@@ -57,10 +57,10 @@
 											</div>
 										</div>
 										<h3>
-											<a href="#" class="color2" ><?php echo strtoupper($value['title']) ?></a>
+											<a href="<?php echo base_url("blog/".$value['slug']) ?>" class="color2" ><?php echo strtoupper($value['title']) ?></a>
 										</h3>
 										<div class="link-custom" data-dsn-animate="up">
-											<a class="image-zoom effect-ajax" href="<?php echo site_url("blog/".$value['slug']) ?>" data-dsn="parallax">
+											<a class="image-zoom effect-ajax" href="<?php echo base_url("blog/".$value['slug']) ?>" data-dsn="parallax">
 												<span>Read More</span>
 											</a>
 										</div>
