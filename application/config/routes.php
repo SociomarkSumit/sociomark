@@ -68,12 +68,16 @@ $route['blog'] ='home/blog';
 $route['blog/(:any)'] ='blog/index/$1';
 //$route['blog/instagram-for-businesses'] ='blog/blog1';
 
+
+$route['portfolio/road-to-safety/social-media-work'] ='work/road_safety';
+$route['portfolio/castrol/social-media-work'] ='work/castrol';
+$route['portfolio/nodwin/social-media-work'] ='work/nodwin';
+$route['portfolio/real-estate-awards/social-media-work'] ='work/rea';
+$route['portfolio/button-dabao-desh-banao/social-media-work'] ='work/bddb';
+
 $route['portfolio/india-forbes/social-media-work/'] ='work/india_forbes';
 $route['portfolio/icici/social-media-work/'] ='work/icici';
-$route['portfolio/castrol/social-media-work/'] ='work/castrol';
 $route['portfolio/lime/social-media-work/'] ='work/lime';
-$route['portfolio/nodwin/social-media-work/'] ='work/nodwin';
-$route['portfolio/road-to-safety/social-media-work'] ='work/road_safety';
 $route['portfolio/the-professional-couriers/social-media-work/'] ='work/the_professional_couriers';
 $route['portfolio/ayushakti/social-media-work/'] ='work/ayushakti';
 $route['portfolio/mahindra-first-choice-services/social-media-work/'] ='work/mahindra_first_choice_services';
@@ -82,7 +86,6 @@ $route['portfolio/hollywood-opticians/social-media-work/'] ='work/hollywood_opti
 $route['portfolio/foresight-opticals/social-media-work/'] ='work/foresight_opticals';
 $route['portfolio/mastercard/social-media-work/'] ='work/mastercard';
 $route['portfolio/lenovo/social-media-work/'] ='work/lenovo';
-$route['portfolio/button-dabao-desh-banao/social-media-work/'] ='work/button_dabao_desh_banao';
 $route['portfolio/tree-house-high-school/social-media-work/'] ='work/tree_house_high_school';
 $route['portfolio/grill-box/social-media-work/'] ='work/grill_box';
 $route['portfolio/sportz-consult/social-media-work/'] ='work/sportz_consult';

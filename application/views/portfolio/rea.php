@@ -10,7 +10,7 @@
 	<div class="preloader-after"></div>
 	<div class="preloader-before"></div>
 	<div class="preloader-block">
-		<div class="title">Road To Safety</div>
+		<div class="title">Real Estate Awards</div>
 		<div class="percent">0</div>
 		<div class="loading">loading...</div>
 	</div>
@@ -30,8 +30,6 @@
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
 								<div class="slide-content-inner" style="display: none">
-
-
 									<div class="title-text-header">
 										<div class="title-text-header-inner">
 											<a href="#" class="effect-ajax" data-dsn-ajax="slider">
@@ -43,11 +41,11 @@
 								</div>
 							</div>
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/rts/1.jpg');?>"
+								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/real-estate-awards/1.jpg');?>"
 									 data-overlay="5">
-									<img src="<?php echo base_url('assets/img/work/rts/1.jpg');?>" alt="">
+									<img src="<?php echo base_url('assets/img/work/real-estate-awards/1.jpg');?>" alt="">
 									<div class="cap">
-										<span>Road To Safety</span>
+										<span>Real Estate Awards</span>
 									</div>
 								</div>
 							</div>
@@ -66,11 +64,11 @@
 								</div>
 							</div>
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/rts/2.jpg');?>"
+								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/real-estate-awards/2.jpg');?>"
 									 data-overlay="0">
-									<img src="<?php echo base_url('assets/img/work/rts/2.jpg');?>" alt="">
+									<img src="<?php echo base_url('assets/img/work/real-estate-awards/2.jpg');?>" alt="">
 									<div class="cap">
-										<span>Road to Safety</span>
+										<span>Real Estate Awards</span>
 									</div>
 								</div>
 							</div>
@@ -92,11 +90,11 @@
 								</div>
 							</div>
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/rts/3.jpg');?>"
+								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/real-estate-awards/3.jpg');?>"
 									 data-overlay="6">
-									<img src="<?php echo base_url('assets/img/work/rts/3.jpg');?>" alt="">
+									<img src="<?php echo base_url('assets/img/work/real-estate-awards/3.jpg');?>" alt="">
 									<div class="cap">
-										<span>Road to Safety</span>
+										<span>Real Estate Awards</span>
 									</div>
 								</div>
 							</div>
@@ -118,11 +116,11 @@
 							</div>
 
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/rts/4.jpg');?>"
+								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/real-estate-awards/4.jpg');?>"
 									 data-overlay="2">
-									<img src="<?php echo base_url('assets/img/work/rts/4.jpg');?>" alt="">
+									<img src="<?php echo base_url('assets/img/work/real-estate-awards/4.jpg');?>" alt="">
 									<div class="cap">
-										<span>Road to Safety</span>
+										<span>Real Estate Awards</span>
 									</div>
 								</div>
 
@@ -144,11 +142,11 @@
 								</div>
 							</div>
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/rts/5.jpg');?>"
+								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/real-estate-awards/5.jpg');?>"
 									 data-overlay="6">
-									<img src="<?php echo base_url('assets/img/work/rts/5.jpg');?>" alt="">
+									<img src="<?php echo base_url('assets/img/work/real-estate-awards/5.jpg');?>" alt="">
 									<div class="cap">
-										<span>Road to Safety</span>
+										<span>Real Estate Awards</span>
 									</div>
 								</div>
 							</div>
@@ -186,19 +184,18 @@
 				<div class="container">
 					<div class="one-title">
 
-						<h2 class="title-main work-title">Diageo & Network 18 Presents’ Road to Safety</h2>
+						<h2 class="title-main work-title">RR Kabel & CNBC-Awaaz Presents’ Real Estate Awards</h2>
 					</div>
 				</div>
 				<div class="container">
-					<p class="item-client"><strong>About the campaign:</strong> Diageo is a multinational beverage company that comes up with the unique collections of brands across spirit and beer. Diageo in association with Network18 initiates a road to safety campaign that educates the crowd to safe driving. This initiative hopes to inculcate the importance of Road to Safety practices and to contribute in saving lives by educating the citizens.</p>
-					<p class="item-client"><strong>Services Offered:</strong> Complete Marketing Strategy (Online + Offline), Social Media Management, ORM, Content Writing, Search Engine Optimization(SEO),Social media Ads, Googles Ads, Influencer Activity, Twitter Trending, OOH& Print Design, Website Management.</p>
+					<p class="item-client"><strong>About the Brand:</strong> To boost the real estate enthusiasm in India, and reward it’s excellent performances, CNBC-AWAAZ, presents the 13th Real Estate Awards 2018-19 presented by RR Kabel. These awards identify and honor professionals who have envisioned and created marvels in the real estate industry.</p>
+					<p class="item-client"><strong>Services Offered:</strong> Complete Marketing Strategy (Online + Offline), Social Media Management, Print Design, ORM, Content Writing, Social media Ads, Googles Ads,  Website Development & Management, Search Engine Optimization(SEO), Twitter Trending.</p>
 
 					<div class="social-links">
 						<ul><strong>Page Link :</strong>
-							<li><a href="https://www.facebook.com/DiageoRTS18" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="https://twitter.com/DiageoRTS18" target="_blank"><i class="fab fa-twitter"></i></a></li>
-							<li><a href="https://www.instagram.com/diageorts18/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-							<li><a href="https://www.linkedin.com/company/road-to-safety-initiative/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+							<li><a href="https://www.facebook.com/CNBCAWAAZREA" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+							<li><a href="https://twitter.com/CNBCAWAAZREA" target="_blank"><i class="fab fa-twitter"></i></a></li>
+							<li><a href="https://www.linkedin.com/company/cnbc-awaaz-real-estate-awards/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
 
 						</ul>
 					</div>

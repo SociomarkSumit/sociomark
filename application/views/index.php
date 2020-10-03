@@ -654,7 +654,7 @@
 										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/nodwin-600.jpg') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+											<a href="<?php echo base_url('portfolio/nodwin/social-media-work');?>" data-dsn-grid="move-up" class="effect-ajax">
 												<h4>Nodwin</h4>
 												<span><span>Veiw Project</span></span>
 											</a>
@@ -665,7 +665,7 @@
 										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/mfcs.jpg') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+											<a href="<?php echo base_url('portfolio/mahindra-first-choice-services/social-media-work');?>" data-dsn-grid="move-up" class="effect-ajax">
 												<h4>Mahindra First Choice Services</h4>
 												<span><span>Veiw Project</span></span>
 											</a>
@@ -676,7 +676,7 @@
 										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/mastercard.jpg')?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+											<a href="<?php echo base_url('portfolio/Mastercard/social-media-work');?>" data-dsn-grid="move-up" class="effect-ajax">
 												<h4>Mastercard</h4>
 												<span><span>Veiw Project</span></span>
 											</a>
@@ -687,7 +687,7 @@
 										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/castrol600.jpg') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+											<a href="<?php echo base_url('portfolio/castrol/social-media-work');?>" data-dsn-grid="move-up" class="effect-ajax">
 												<h4>Castrol</h4>
 												<span><span>Veiw Project</span></span>
 											</a>
@@ -698,7 +698,7 @@
 										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/Button-Dabo-Desh-Bano.jpg')?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
+											<a href="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work');?>" data-dsn-grid="move-up" class="effect-ajax">
 												<h4>Button Dabao Desh Banao</h4>
 												<span><span>Veiw Project</span></span>
 											</a>

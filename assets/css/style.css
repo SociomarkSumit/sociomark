@@ -1739,6 +1739,9 @@ body > * {
   line-height: 1.2;
   letter-spacing: 0.01em;
 }
+.work-title {
+	font-size:35px !important;
+}
 
 @media only screen and (max-width: 767px) {
   .one-title .title-main {
@@ -3079,6 +3082,7 @@ a:hover, a:active {
 .main-logo .light-logo {
   display: block;
 }
+
 
 
 .v-light.menu-light .main-logo .light-logo {

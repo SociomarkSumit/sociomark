@@ -15,6 +15,24 @@ class Work extends CI_Controller{
 	{
 		$this->load->view('portfolio/road-to-safety');
 	}
+	public function castrol()
+	{
+		$this->load->view('portfolio/castrol');
+	}
+	public function nodwin()
+	{
+		$this->load->view('portfolio/nodwin');
+	}
+
+	public function rea()
+	{
+		$this->load->view('portfolio/rea');
+	}
+
+	public function bddb()
+	{
+		$this->load->view('portfolio/bddb');
+	}
 
 }
 ?>
