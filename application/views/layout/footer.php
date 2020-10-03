@@ -1,5 +1,5 @@
-</div>
 
+</div>
 <footer class="footer">
 	<div class="container">
 		<div class="footer-links p-relative">
@@ -42,7 +42,7 @@
 								<li><a href="<?php echo base_url('portfolio')?>">Work</a></li>
 								<li><a href="<?php echo base_url('contact-us')?>">Contact</a>
 								<li><a href="<?php echo base_url('privacy-and-policy')?>">Privacy and Policy</a></li>
-								</li>
+
 							</ul>
 						</nav>
 					</div>

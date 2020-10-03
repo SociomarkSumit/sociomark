@@ -26,7 +26,7 @@
 			<header>
 				<div class="headefr-fexid" data-dsn-header="project">
 					<div class="bg w-100" id="dsn-hero-parallax-img" data-dsn-ajax="img">
-						<div class="bg-image  cover-bg" data-overlay="4" data-image-src="assets/img/project/project5/1.jpg"></div>
+						<div class="bg-image  cover-bg" data-overlay="4" data-image-src="assets/img/services.jpg"></div>
 					</div>
 
 					<div class="scroll" data-dsn-animate="ajax">

@@ -1559,6 +1559,11 @@ body > * {
   padding-bottom: 120px;
 }
 
+.section-padding-keywords {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
 @media only screen and (max-width: 991px) {
   .section-padding {
     padding-top: 80px;
@@ -1845,6 +1850,10 @@ body > * {
   font-size: 14px;
   line-height: 1.5;
   font-weight: 500;
+
+}
+.item-client{
+	padding-bottom:20px;
 }
 
 .item-descr .main-link {
@@ -3057,6 +3066,7 @@ a:hover, a:active {
   display: block;
 }
 
+
 .v-light.menu-light .main-logo .light-logo {
   display: none;
 }
@@ -3965,9 +3975,13 @@ body.nav-active .header-top .header-container .menu-icon:hover .text-menu .text-
   overflow: inherit;
   color: #fff;
   width: 100%;
-  text-align: left;
-	padding-left: 20%;
+  text-align: center;
+	padding-left: 5%;
+	padding-right: 5%;
 
+}
+.quote{
+	color:#ffffff !important;
 }
 
 .nav-content address span {
@@ -9475,7 +9489,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 .dsn-slider .slide-inner .slide-item .image-container .image-bg:after {
   content: "";
   width: 100%;
-  height: 60%;
+  height: 30%;
   position: absolute;
   bottom: 0;
   left: 0;

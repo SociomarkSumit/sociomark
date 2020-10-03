@@ -26,6 +26,20 @@
 		<div class="wrapper">
 			<section class="our-services-2 section-margin">
 				<div class="container">
+					<style>
+						h3,h4{
+							padding-top:20px;
+							padding-bottom:10px;
+						}
+						p{
+							padding-bottom: 10px;
+						}
+						li{
+							padding-bottom: 10px;
+							list-style-type: disc;
+							margin-left: 20px;
+						}
+					</style>
 
 			<h3>Privacy Policy for Sociomark</h3>
 

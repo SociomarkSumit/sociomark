@@ -46,18 +46,11 @@
 				<div class="box-seat box-seat-full">
 					<div class="container-fluid">
 						<div class="inner-img" data-dsn-grid="move-up">
-							<img src="<?php echo base_url('assets/img/about.jpg'); ?>" alt="" data-dsn-y="30%" data-dsn-scale="1">
+							<img src="<?php echo base_url('assets/img/about-sociomark.jpg'); ?>" alt="" data-dsn-y="30%" data-dsn-scale="1">
 						</div>
 						<div class="pro-text">
-							<h3 data-dsn-animate="up">Hello we are, <br> Dsn Grid.</h3>
-							<p data-dsn-animate="up">Founded in 2000, Dsn Grid has become one of the best
-								Digital
-								Agency in
-								ThemeForest.
-								Blue money going forward, but deploy to production. C-suite. First-order optimal
-								strategies build on a culture of contribution and inclusion so those options
-
-							</p>
+							<h3 data-dsn-animate="up">Hello, we are, <br> Sociomark.</h3>
+							<p data-dsn-animate="up">The idea to make people aware, bring their attention towards the brand, through minimalistic & quirky creativity, that has been our objective of making a significant mark. The journey till now has witnessed some ups and downs, some award-winning moments & the urge to do more!</p>
 						</div>
 					</div>
 				</div>
@@ -207,27 +200,17 @@
 						<div class="client-curs">
 							<div class="client-item">
 								<div>
-									<p>
-										Dave & his team at Blacksmith Agency were incredible partners
-										at a critical time for our company. Day in & day out, they
-										were there for us every step of the way delivering results for
-										us & our high profile corporate partner.
-									</p>
-									<h5>Brandon Barbello</h5>
-									<span>Vivalnk Inc | Google IO</span>
+									<p>"Sociomark team is absolutely very professional in their work yet bring in high flexibility in terms of ownership in delivery. all the tasks and works are delivered with utmost commitment and dedication and on time. they never said no and always valued and worked on our feedbacks	we have had a long term engagement with them and they are an absolute pleasure to work with!"</p>
+									<h5>- Siju Thomas, CEO </h5>
+									<span>- The Professional Couriers</span>
 								</div>
 							</div>
 
 							<div class="client-item">
 								<div>
-									<p>
-										Dave & his team at Blacksmith Agency were incredible partners
-										at a critical time for our company. Day in & day out, they
-										were there for us every step of the way delivering results for
-										us & our high profile corporate partner.
-									</p>
-									<h5>Brandon Barbello</h5>
-									<span>Vivalnk Inc | Google IO</span>
+									<p>"Its a pleasure working with Sociomark for social media marketing of our brand GrillBox through Facebook and Instagram. Sociomark  helped us to reach many users through their creative contents. They were easy to work with and were flexible with meeting our needs."</p>
+									<h5>- Shafeeq Mareen, Founder</h5>
+									<span>- GrillBox</span>
 								</div>
 							</div>
 						</div>
