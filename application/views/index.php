@@ -643,8 +643,8 @@
 										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/rts-600.jpg') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
-												<h4>Diageo</h4>
+											<a href="<?php echo base_url('portfolio/road-to-safety/social-media-work');?>" data-dsn-grid="move-up" class="effect-ajax">
+												<h4>Road To Safety</h4>
 												<span><span>Veiw Project</span></span>
 											</a>
 										</div>

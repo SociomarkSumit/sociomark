@@ -11,7 +11,7 @@ class Work extends CI_Controller{
 		$this->load->view('portfolio/index');
 	}
 
-	public function cnbc_diageo()
+	public function road_safety()
 	{
 		$this->load->view('portfolio/road-to-safety');
 	}
