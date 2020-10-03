@@ -60,7 +60,7 @@
 								<li><a href="<?php echo base_url('careers')?>">Careers</a></li>
 								<li><a href="<?php echo base_url('blog')?>">Blogs</a></li>
 								<li><a href="<?php echo base_url('case-study')?>">Case Study</a></li>
-								<li><a href="<?php echo base_url('terms-and-conditions')?>">Terms and conditions</a>
+								<li><a href="<?php echo base_url('terms-and-conditions')?>">Terms and Conditions</a>
 								</li>
 							</ul>
 						</nav>
@@ -74,9 +74,9 @@
 
 					<div class="footer-block col-contact">
 
-						<p><strong>T</strong> <span>:</span><a class="link-hover" href="#"> +919819988640</a></p>
-						<p class="over-hidden"><strong>E</strong> <span>:</span><a class="link-hover" href="#">business@sociomark.in</a></p>
-						<p><a class="link-hover" href="#"><strong>A</strong> : 225, NBC Complex, CBD Belapur, Navi Mumbai, Maharashtra 400614</a></p>
+						<p><strong>T</strong> <span>:</span><a class="link-hover" href="tel:9819988640"> +919819988640</a></p>
+						<p class="over-hidden"><strong>E</strong> <span>:</span><a class="link-hover" href="mailto:business@sociomark.in">business@sociomark.in</a></p>
+						<p><a class="link-hover" href="https://www.google.co.in/maps/place/Sociomark+Digital+Marketing+Agency/@19.0188906,73.0287094,15z/data=!4m5!3m4!1s0x0:0xf839749e6fda79fc!8m2!3d19.0167202!4d73.0393302" target="_blank"><strong>A</strong> : 225, NBC Complex, CBD Belapur, Navi Mumbai, Maharashtra 400614</a></p>
 
 					</div>
 				</div>
@@ -85,7 +85,7 @@
 
 		<div class="copyright">
 			<div class="text-center">
-				<div class="copright-text over-hidden">© 2020 Apogee Digitech Pvt Ltd | Designed and developed by <a class="link-hover">Sociomark</a> </div>
+				<div class="copright-text over-hidden">© 2020 Apogee Digitech Pvt Ltd | Designed and Developed by <a class="link-hover">Sociomark</a> </div>
 			</div>
 		</div>
 	</div>
