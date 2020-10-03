@@ -42,7 +42,7 @@
 								<li><a href="<?php echo base_url('')?>">Home</a></li>
 								<li><a href="<?php echo base_url('about')?>">About Us</a></li>
 								<li><a href="<?php echo base_url('services')?>">Services</a></li>
-								<li><a href="<?php echo base_url('portfolio')?>">Work</a></li>
+
 								<li><a href="<?php echo base_url('contact-us')?>">Contact</a>
 								<li><a href="<?php echo base_url('privacy-and-policy')?>">Privacy and Policy</a></li>
 
@@ -56,11 +56,10 @@
 						<h4 class="footer-title">Navigation</h4>
 						<nav>
 							<ul>
+								<li><a href="<?php echo base_url('portfolio')?>">Work</a></li>
 								<li><a href="<?php echo base_url('careers')?>">Careers</a></li>
 								<li><a href="<?php echo base_url('blog')?>">Blogs</a></li>
 								<li><a href="<?php echo base_url('case-study')?>">Case Study</a></li>
-								<li><a href="#">Services</a></li>
-								<li><a href="#">Work</a></li>
 								<li><a href="<?php echo base_url('terms-and-conditions')?>">Terms and conditions</a>
 								</li>
 							</ul>
@@ -77,7 +76,8 @@
 
 						<p><strong>T</strong> <span>:</span><a class="link-hover" href="#"> +919819988640</a></p>
 						<p class="over-hidden"><strong>E</strong> <span>:</span><a class="link-hover" href="#">business@sociomark.in</a></p>
-						<p class="over-hidden"><strong>A</strong> <span>:</span><a class="link-hover" href="#"> 225, NBC Complex, CBD Belapur, Navi Mumbai, Maharashtra 400614</a></p>
+						<p><a class="link-hover" href="#"><strong>A</strong> : 225, NBC Complex, CBD Belapur, Navi Mumbai, Maharashtra 400614</a></p>
+
 					</div>
 				</div>
 			</div>

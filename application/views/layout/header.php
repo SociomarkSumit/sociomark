@@ -62,7 +62,7 @@
 
 				<div class="inner-content">
 					<address class="v-middle">
-						<h3 class="quote">"Creativity is experimenting, growing, taking risks, breaking rules, making mistakes & having fun"</h3>
+						<h3 class="main-quote">"Creativity is experimenting, growing, taking risks, breaking rules, making mistakes & having fun"</h3>
 
 <!--						<div class="social-links">-->
 <!--							<ul>-->
