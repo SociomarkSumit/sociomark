@@ -11,7 +11,15 @@ class blog_model extends CI_Model{
 		$this->db->select('p.id,p.title,p.content,p.slug,p.created_at,m.imagefile1');
 		$this->db->from('posts p');
 		$this->db->join('media m','m.title = p.title');
-		$this->db->order_by('p.created_at','DESC');
+		$this->db->order_by('p.id','DESC');
+		return $this->db->get()->result_array();
+	}
+
+	public function get_all_blogs_thumbnail(){
+		$this->db->select('p.id,p.title,p.content,p.slug,p.created_at,t.imagefile1');
+		$this->db->from('posts p');
+		$this->db->join('thumbnail t','t.title = p.title');
+		$this->db->order_by('p.id','DESC');
 		return $this->db->get()->result_array();
 	}
 

@@ -640,7 +640,7 @@
 							<div class="work-container">
 								<div class="slick-slider">
 									<div class="work-item slick-slide">
-										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/rts.jpg') ?>" alt="">
+										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/rts-600.jpg') ?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
 											<a href="#" data-dsn-grid="move-up" class="effect-ajax">
@@ -748,7 +748,6 @@
 									</div>
 								</div>
 
-
 							</div>
 						</div>
 					</div>
@@ -765,56 +764,34 @@
 					</div>
 					<div class="custom-container">
 						<div class="slick-slider">
-							<div class="item-new slick-slide">
-								<div class="image" data-overlay="5">
-									<img src="assets/img/blog/1.jpg" alt="">
-								</div>
-								<div class="content">
-									<div class="background"></div>
-									<h5>Web , Brand</h5>
 
-									<div class="cta">
-										<a href="#">Digital Photography Tips</a>
+							<?php
+								foreach ($blogs as $key => $value){
+								?>
+									<div class="item-new slick-slide">
+										<div class="image" data-overlay="5">
+											<img src="<?php echo base_url('images/uploads/thumbnail/'.$value['imagefile1'])?>" alt="">
+										</div>
+										<div class="content">
+											<div class="background"></div>
+											<h5><?php echo date('d-M-Y',strtotime($value['created_at'])); ?></h5>
+
+											<div class="cta">
+												<a href="<?php echo base_url("blog/".$value['slug']) ?>">Digital Photography Tips</a>
+											</div>
+
+											<p>
+												<?php
+													echo (strlen($value['content']) > 200 ? substr($value['content'],0,200)."..." : $value['content'] );
+												?>
+
+											</p>
+										</div>
 									</div>
 
-									<p>Simple point-and-shoot digital cameras can give surprising quality when they
-										have the right lenses and sensors.</p>
-
-								</div>
-							</div>
-
-							<div class="item-new slick-slide">
-								<div class="image" data-overlay="5">
-									<img src="assets/img/blog/2.jpg" alt="">
-								</div>
-								<div class="content">
-									<div class="background"></div>
-									<h5>Web , Brand</h5>
-
-									<div class="cta">
-										<a href="#">Digital Photography Tips</a>
-									</div>
-
-									<p>Simple point-and-shoot digital cameras can give surprising quality when they
-										have the right lenses and sensors.</p>
-								</div>
-							</div>
-
-							<div class="item-new slick-slide">
-								<div class="image" data-overlay="5">
-									<img src="assets/img/blog/3.jpg" alt="">
-								</div>
-								<div class="content">
-									<div class="background"></div>
-									<h5>Web , Brand</h5>
-									<div class="cta">
-										<a href="#">Digital Photography Tips</a>
-									</div>
-									<p>Simple point-and-shoot digital cameras can give surprising quality when they
-										have the right lenses and sensors.</p>
-								</div>
-							</div>
-
+								<?php
+								}
+							?>
 						</div>
 					</div>
 				</div>

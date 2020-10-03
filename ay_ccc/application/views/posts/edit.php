@@ -24,7 +24,7 @@
                             <label class="col-sm-2 col-form-label">Title</label>
                             <div class="col-sm-10">
                                 <div class="error form_error" id="form-error-title"></div>
-                                <input type="text" name="title" id="title" class="form-control" placeholder="Title" value="<?php echo $result[0]->title; ?>">
+                                <input type="text" name="title" id="title" class="form-control" placeholder="Title" value='<?php echo str_replace('\'','\'',$result[0]->title) ; ?>'>
                             </div>
                         </div>
                         <div class="form-group row">
