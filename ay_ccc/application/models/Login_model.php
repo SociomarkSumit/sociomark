@@ -35,7 +35,7 @@ class Login_model extends CI_Model {
 				$response_array['class'] = 'alert-success';
 				$response=$response_array;
 				$response=array('success'=>$response_array);
-
+               
 				return $response;
 			}
 		}

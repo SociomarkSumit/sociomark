@@ -60,7 +60,7 @@
 
 				<div class="inner-content">
 					<address class="v-middle">
-						<h3>"Creativity is experimenting, growing, taking risks,<br> breaking rules, making mistakes & having fun"</h3><br><br>
+						<h3><span>"Creativity is experimenting, growing, taking risks,</span><span>breaking rules, making mistakes & having fun"</span></h3><br><br>
 						<span>225, NBC Complex, Sector 11, CBD Belapur,</span>
 						<span>Navi Mumbai, Maharashtra 400614</span>
 						<span style="padding-top:10px">business@sociomark.in</span>

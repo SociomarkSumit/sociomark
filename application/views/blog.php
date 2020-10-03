@@ -37,58 +37,38 @@
 			<div class="wrapper">
 				<div class="root-blog">
 					<div class="container">
-						<article class="post-list-item">
-							<figure>
-								<a class="image-zoom effect-ajax" href="post.html" data-dsn-animate="up">
-									<img src="<?php echo base_url('assets/img/blog/instagram-for-businesses.jpg')?>" alt="">
-								</a>
-							</figure>
-							<div class="post-list-item-content">
-								<div class="post-info-top">
-									<div class="post-info-date">
-										<span class="color1" >08 July 2020</span>
+						<?php
+
+							foreach($blogs as $key => $value){
+
+								?>
+								<article class="post-list-item">
+									<figure>
+										<a class="image-zoom effect-ajax" href="post.html" data-dsn-animate="up">
+											<img src="<?php echo base_url('images/uploads/media/'.$value['imagefile1'])?>" alt="">
+										</a>
+									</figure>
+									<div class="post-list-item-content">
+										<div class="post-info-top">
+											<div class="post-info-date">
+												<span class="color1" ><?php
+													echo date('d-M-Y',strtotime($value['created_at']));
+													?></span>
+											</div>
+										</div>
+										<h3>
+											<a href="#" class="color2" ><?php echo strtoupper($value['title']) ?></a>
+										</h3>
+										<div class="link-custom" data-dsn-animate="up">
+											<a class="image-zoom effect-ajax" href="<?php echo site_url("blog/".$value['slug']) ?>" data-dsn="parallax">
+												<span>Read More</span>
+											</a>
+										</div>
 									</div>
-								</div>
-								<h3>
-									<a href="#" class="color2" >INSTAGRAM FOR BUSINESSES</a>
-								</h3>
-
-								<div class="link-custom" data-dsn-animate="up">
-									<a class="image-zoom effect-ajax" href="<?php echo site_url('blog/instagram-for-businesses') ?>" data-dsn="parallax">
-										<span>Read More</span>
-									</a>
-								</div>
-							</div>
-						</article>
-
-						<article class="post-list-item">
-							<figure>
-								<a class="image-zoom effect-ajax" href="post.html" data-dsn-animate="up">
-									<img src="assets/img/blog/4.jpg" alt="">
-								</a>
-							</figure>
-							<div class="post-list-item-content">
-								<div class="post-info-top">
-									<div class="post-info-date">
-										<span class="color1" >2 september, 2019</span>
-									</div>
-
-									<div class="post-info-category">
-										<a href="#" class="color2" >Design</a>
-									</div>
-								</div>
-								<h3>
-									<a href="#" class="color2" >interview with Communication Arts about Jayasom website</a>
-								</h3>
-
-								<div class="link-custom" data-dsn-animate="up">
-									<a class="image-zoom effect-ajax" href="post.html" data-dsn="parallax">
-										<span>Read More</span>
-									</a>
-								</div>
-							</div>
-						</article>
-
+								</article>
+								<?php
+							}
+						?>
 						<div class="dsn-pagination">
 							<span class="page-numbers current ">
 								<span class="dsn-numbers">

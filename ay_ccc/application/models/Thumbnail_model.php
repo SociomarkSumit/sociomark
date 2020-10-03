@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class media_model extends CI_Model {
+class thumbnail_model extends CI_Model {
 
 	public function __construct(){
 		parent::__construct();
@@ -9,14 +9,14 @@ class media_model extends CI_Model {
 	}
 
 	public function record_count() {
-		return  $this->db->get("media")->num_rows();
+		return  $this->db->get("thumbnail")->num_rows();
 	}
 
 	public function getData_method($limit, $start){
 		$this->db->select('id,imagefile1,title');
 		$this->db->order_by('id','desc');
 		$this->db->limit($limit, $start);
-		$query=$this->db->get('media');
+		$query=$this->db->get('thumbnail');
 
 		if ($query->num_rows() > 0) {
 			foreach ($query->result() as $row) {
@@ -36,11 +36,11 @@ class media_model extends CI_Model {
 		if($this->input->post('imageexist1')){
 			$filename1=$this->input->post('imageexist1');
 		}else{
-			$destination='media';
+			$destination='thumbnail';
 			$filename1=str_replace(' ', '', date('Ymdhis').'_'.$_FILES['imagefile1']['name']);
 			$max_size='600';
-			$max_width='1300';
-			$max_height='750';
+			$max_width='700';
+			$max_height='600';
 			$min_width='50';
 			$min_height='50';
             $conf = $this->set_upload_options($destination,$filename1,$max_size,$max_width,$max_height,$min_width,$min_height);
@@ -63,19 +63,19 @@ class media_model extends CI_Model {
 
 
 		$data = array(		
-		'imagefile1'=>$filename1,
-		'title'=>$this->input->post('title')
+			'imagefile1'=>$filename1,
+			'title'=>$this->input->post('title')
 		);
 
 		if($this->input->post('dataId')){
 			$this->db->where('id',$this->input->post('dataId'));
-			$this->db->update('media',$data);
+			$this->db->update('thumbnail',$data);
 
 			$response_array['message'] = 'Successful Updated';
 			$response_array['class'] = 'alert-success';
 			
 		}else{
-			$this->db->insert('media',$data);
+			$this->db->insert('thumbnail',$data);
 
 			$response_array['message'] = 'Successful Added';
 			$response_array['class'] = 'alert-success';
@@ -93,7 +93,7 @@ class media_model extends CI_Model {
 	public function getDataById_method($dataId){
 		$this->db->select('id,device,imagefile1,alt,url,sort_order,status');	
 		$this->db->where('id',$dataId);		
-		$query=$this->db->get('media');
+		$query=$this->db->get('thumbnail');
 		return $query->result();
 	}	
 
@@ -110,7 +110,7 @@ class media_model extends CI_Model {
 		$config['min_width'] = $min_width;
 		$config['min_height'] = $min_height;	
 		$config['overwrite'] = FALSE;
-       
+
 		return $config;
 	}
 
@@ -123,9 +123,8 @@ class media_model extends CI_Model {
 
 	public function resize_thumb($filename){
         $this->load->library('image_lib');
-        
-		$imagesource1='../images/media/'.$filename;
-		$newimagesource1='../images/media/thumbs/'.$filename;
+		$imagesource1='../images/thumbnail/'.$filename;
+		$newimagesource1='../images/thumbnail/thumbs/'.$filename;
 		// Configuration 
 		$config1['image_library'] = 'gd2'; 
 		$config1['source_image'] = $imagesource1; 
@@ -134,7 +133,7 @@ class media_model extends CI_Model {
 		$config1['maintain_ratio'] = TRUE; 
 		$config1['width'] = 300; 
 		$config1['height'] = 240; 
-        
+
 		// Load the Library 
 		$this->image_lib->initialize($config1);
 
@@ -157,7 +156,7 @@ class media_model extends CI_Model {
 			$this->delete_file_method($DataId,$data_field1='imagefile1');
 
 			$this->db->where('id',$DataId); 
-			$query=$this->db->delete('media');
+			$query=$this->db->delete('thumbnail');
 		}
 	
 		$response_array['message'] = 'Successful Deleted';
@@ -179,15 +178,15 @@ class media_model extends CI_Model {
 
 		$this->db->select($data_field);
 		$this->db->where('id',$dataId); 
-		$query=$this->db->get('media',1);
+		$query=$this->db->get('thumbnail',1);
 		$row=$query->row();		
 
 		$data=array($data_field=>'no_file');
 		$this->db->where('id',$dataId);
-		if($this->db->update('media',$data)){
-			unlink('../images/uploads/media/'.$row->$data_field);
-			unlink('../images/media/'.$row->$data_field);
-			unlink('../images/media/thumbs/'.$row->$data_field);
+		if($this->db->update('thumbnail',$data)){
+			unlink('../images/uploads/thumbnail/'.$row->$data_field);
+			unlink('../images/thumbnail/'.$row->$data_field);
+			unlink('../images/thumbnail/thumbs/'.$row->$data_field);
 		}
 
 		$response_array['message'] = 'Successful Deleted';

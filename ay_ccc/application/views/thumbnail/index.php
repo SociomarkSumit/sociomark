@@ -12,7 +12,7 @@
                 <div class="panel-heading">
                     <div class="col-sm-8">Records</div>
                     <div class="col-sm-4 buttons_panel float-right">
-                        <?php echo anchor('media/create','<button class="btn btn-primary">Add New</button>');?>
+                        <?php echo anchor('thumbnail/create','<button class="btn btn-primary">Add New</button>');?>
                         <?php echo '<button type="button" class="btn btn-primary" id="delete_records">Delete</button>';?>
                     </div>
                     <div class="clr"></div>
@@ -38,9 +38,9 @@
                         </tr>
                         <?php foreach($result as $row){ ?>
                         <tr>
-                            <td><img src="../images/uploads/media/<?php echo $row->imagefile1; ?>" width="100"></td>
+                            <td><img src="../images/uploads/thumbnail/<?php echo $row->imagefile1; ?>" width="100"></td>
                             <td><?php echo $row->title; ?></td>
-                            <td>images/uploads/media/<?php echo $row->imagefile1; ?></td>
+                            <td>images/uploads/thumbnail/<?php echo $row->imagefile1; ?></td>
                             <td>
                                 <span class="checkbox">
                                     <input name="dataId" class="styled" type="checkbox" value="<?php echo $row->id; ?>">
@@ -78,11 +78,11 @@ $(document).ready(function() {
     if (confirm('Are you sure you want to delete these records?')) {
         $.ajax({
             type: "POST",
-            url: "<?php echo base_url('media/delete'); ?>",
+            url: "<?php echo base_url('thumbnail/delete'); ?>",
             data: {dataId:dataId},
             dataType: 'json',
             success: function(response) {
-				location.href="<?php echo base_url('media'); ?>";
+				location.href="<?php echo base_url('thumbnail'); ?>";
             }
         });
     }

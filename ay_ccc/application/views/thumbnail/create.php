@@ -20,7 +20,7 @@
                     <form action="" method="POST" id="data_form" enctype="multipart/form-data">						
                         
                         <div class="form-group row">
-                            <label class="col-sm-2 col-form-label">Image (1200X655)</label>
+                            <label class="col-sm-2 col-form-label">Image (670x500)</label>
                             <div class="col-sm-10">
                               <div class="error form_error" id="form-error-imagefile1"></div>
                               <input type="file" name="imagefile1">
@@ -60,14 +60,14 @@ $(document).ready(function() {
 
         $.ajax({
             type: "POST",
-            url: "<?php echo base_url(); ?>index.php/media/store",
+            url: "<?php echo base_url('thumbnail/store'); ?>",
             data:  new FormData(this),
             dataType: 'json',
             cache: false,
             contentType: false,
             processData: false,
             success: function(response) {
-                location.href='<?php echo base_url(); ?>index.php/media';
+                location.href="<?php echo base_url('index.php/thumbnail'); ?>";
             },
             error: function(data){
                 var responseData = data.responseJSON;

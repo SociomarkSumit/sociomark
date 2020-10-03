@@ -55,6 +55,7 @@
                                 <ul class="nav nav-second-level">
                                     <li <?php if($selected_menu=='posts'){ echo 'class="active"'; } ?>><?php echo anchor('posts','Posts');?></li>
                                     <li <?php if($selected_menu=='media'){ echo 'class="active"'; } ?>><?php echo anchor('media','Media');?></li>
+									<li <?php if($selected_menu=='thumbnail'){ echo 'class="active"'; } ?>><?php echo anchor('thumbnail','Thumbnail');?></li>
                                 </ul>
                             </li>
                         <?php } ?>

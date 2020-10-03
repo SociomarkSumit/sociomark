@@ -56,6 +56,13 @@
                             </div>
                         </div>
                         <div class="form-group row">
+                            <label class="col-sm-2 col-form-label">Tags</label>
+                            <div class="col-sm-10">
+                                <div class="error form_error" id="form-error-tags"></div>
+                                <textarea type="text" name="tags" id="tags" placeholder="example tag1,tag2,tag3" class="form-control"><?php echo $result[0]->tags; ?></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group row">
                             <label class="col-sm-2 col-form-label">Display on Home?</label>
                             <div class="col-sm-10">
                                 <div class="error form_error" id="form-error-display_on_home"></div>
