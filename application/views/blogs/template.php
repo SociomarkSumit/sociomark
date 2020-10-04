@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-	<?php include(APPPATH.'views\layout\head.php');?>
+	<?php require APPPATH.'views/layout/head.php';?>
 	<style type="text/css">
 		ul{
 			margin: 6px 0px;
@@ -33,7 +33,7 @@
 		</div>
 	</div>
 
-	<?php include(APPPATH.'views\layout\header.php');?>
+	<?php require APPPATH.'views/layout/header.php';?>
 	<main class="main-root">
 		<div id="dsn-scrollbar">
 
@@ -108,10 +108,10 @@
 						</div>
 					</div>
 				</section>
-				<?php include(APPPATH.'views\layout\footer.php')?>
+				<?php require APPPATH.'views/layout/footer.php';?>
 			</div>
 		</div>
 	</main>
-<?php include(APPPATH.'views\layout\js.php')?>
+<?php require APPPATH.'views/layout/js.php';?>
 </body>
 </html>

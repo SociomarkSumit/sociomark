@@ -62,12 +62,14 @@ $route['terms-and-conditions'] ='home/terms';
 $route['privacy-and-policy'] ='home/privacy';
 
 $route['portfolio'] ='work';
-$route['case-study'] ='case_study';
+
+$route['case-study'] ='case_study/index';
+$route['case-study/real-estate-awards'] ='case_study/real_estate_awards';
+$route['case-study/button-dabao-desh-banao'] ='case_study/button_dabao_desh_banao';
+$route['case-study/road-to-safety-initiative'] ='case_study/road_to_safety_initiative';
 
 $route['blog'] ='home/blog';
 $route['blog/(:any)'] ='blog/index/$1';
-//$route['blog/instagram-for-businesses'] ='blog/blog1';
-
 
 $route['portfolio/road-to-safety/social-media-work'] ='work/road_safety';
 $route['portfolio/castrol/social-media-work'] ='work/castrol';

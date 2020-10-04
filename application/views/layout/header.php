@@ -58,13 +58,9 @@
 				</div>
 			</div>
 			<div class="nav-content">
-
-
-
 				<div class="inner-content">
 					<address class="v-middle">
-						<h3 class="main-quote">"Creativity is experimenting, growing, taking risks, breaking rules, making mistakes & having fun"</h3>
-
+						<h3 class="main-quote"><span>"Creativity is experimenting, growing, taking risks, breaking rules, making mistakes & having fun"</span></h3>
 <!--						<div class="social-links">-->
 <!--							<ul>-->
 <!--								<li><a href="https://www.facebook.com/Sociomarkin" target="_blank"><i class="fab fa-facebook-f"></i></a></li>-->

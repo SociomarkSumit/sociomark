@@ -10930,8 +10930,8 @@ body.dsn-show-work .dsn-all-work .list-main:nth-of-type(20) .work-item {
 
 .root-work .projects-list .item a img {
   display: block;
-  -o-object-fit: cover;
-  object-fit: cover;
+  -o-object-fit: contain;
+  object-fit: contain;
 }
 
 .root-work .projects-list .item a .item-info {

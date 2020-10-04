@@ -233,7 +233,6 @@
 								</div>
 							</div>
 						</div>
-
 						<!--<div class="slide-item swiper-slide">
 							<div class="slide-content">
 								<div class="slide-content-inner">
@@ -378,13 +377,11 @@
 								</div>
 							</div>
 						</div>-->
-
 					</div>
 				</div>
 			</div>
 
 			<div class="dsn-slider-content"></div>
-
 
 			<div class="nav-slider">
 				<div class="swiper-wrapper" role="navigation">
@@ -411,7 +408,7 @@
 
 					<div class="swiper-slide">
 						<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="assets/img/banner/appealing-ideas.jpg"
+							<div class="image-bg cover-bg" data-image-src="assets/img/banner/appealing-ideas.jpg"
 								 data-overlay="2">
 							</div>
 						</div>
@@ -508,7 +505,7 @@
 		</div>
 
 		<div class="wrapper">
-<!--about section-->
+			<!--about section-->
 			<section class="intro-about section-margin">
 				<div class="container">
 					<div class="row">
@@ -772,31 +769,28 @@
 						<div class="slick-slider">
 
 							<?php
-								foreach ($blogs as $key => $value){
+							foreach ($blogs as $key => $value){
 								?>
-									<div class="item-new slick-slide">
-										<div class="image" data-overlay="5">
-											<img src="<?php echo base_url('images/uploads/thumbnail/'.$value['imagefile1'])?>" alt="">
-										</div>
-										<div class="content">
-											<div class="background"></div>
-											<h5><?php echo date('d-M-Y',strtotime($value['created_at'])); ?></h5>
-
-											<div class="cta">
-												<a href="<?php echo base_url("blog/".$value['slug']) ?>">Digital Photography Tips</a>
-											</div>
-
-											<p>
-												<?php
-													echo (strlen($value['content']) > 200 ? substr($value['content'],0,200)."..." : $value['content'] );
-												?>
-
-											</p>
-										</div>
+								<div class="item-new slick-slide">
+									<div class="image" data-overlay="5">
+										<img src="<?php echo base_url('images/uploads/thumbnail/'.$value['imagefile1'])?>" alt="">
 									</div>
+									<div class="content">
+										<div class="background"></div>
+										<h5><?php echo date('d-M-Y',strtotime($value['created_at'])); ?></h5>
+
+										<div class="cta">
+											<a href="<?php echo base_url("blog/".$value['slug']) ?>"><?php echo $value['title'] ?></a>
+										</div>
+
+										<p>
+											<a href="<?php echo base_url("blog/".$value['slug']) ?>">Read More..</a>
+										</p>
+									</div>
+								</div>
 
 								<?php
-								}
+							}
 							?>
 						</div>
 					</div>
@@ -813,15 +807,15 @@
 					</div>
 				</div>
 			</section>
+
 			<section class="section-padding-keywords">
 				<div class="container">
 					<p>Social Media Marketing | Website Development | Website Designing | Search Engine Marketing | Search Engine Optomization | Brochure Designing | Leaflet/Flyers Designing | Content Marketing | Blog Management | google adwords management | Company Profile | Brand and Corporate Identity | Logo Designing | Tagline Creation | Stationary Designing | 	Web Application Developement | Saas Application Developement | Web Banners Designing | pay Per Click Advertising | Facebook Campaign Management | Powerpoint Presentation Designing</p>
 				</div>
 			</section>
-		<?php include('layout/footer.php')?>
-	</div>
-</main>
-
+			<?php include('layout/footer.php')?>
+		</div>
+	</main>
 <?php include('layout/js.php')?>
 </body>
 </html>
