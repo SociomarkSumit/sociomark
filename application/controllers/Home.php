@@ -37,5 +37,14 @@ class Home extends CI_Controller
 	{
 		$this->load->view('careers');
 	}
+
+	public function terms()
+	{
+		$this->load->view('terms-and-conditions');
+	}
+	public function privacy()
+	{
+		$this->load->view('privacy-and-policy');
+	}
 }
 ?>
