@@ -682,7 +682,7 @@
 										<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/mastercard.jpg')?>" alt="">
 										<div class="item-border"></div>
 										<div class="item-info">
-											<a href="<?php echo base_url('portfolio/Mastercard/social-media-work');?>" data-dsn-grid="move-up" class="effect-ajax">
+											<a href="<?php echo base_url('portfolio/team-cashless-india/social-media-work');?>" data-dsn-grid="move-up" class="effect-ajax">
 												<h4>Mastercard</h4>
 												<span><span>Veiw Project</span></span>
 											</a>
