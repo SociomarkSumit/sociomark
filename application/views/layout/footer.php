@@ -27,7 +27,7 @@
 									<div class="entry" style="margin-bottom: 15px;">
 										<input type="email" class="subscribeInput" placeholder="Email"  style="padding-left: 20px;margin-top: 20px;">
 									</div>
-									<button style="width: 100%" >Subcribe</button>
+									<button style="width: 100%" >Subscribe</button>
 								</div>
 							</form>
 						</div>
