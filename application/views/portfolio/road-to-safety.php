@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-	<?php require APPPATH.'views\layout\head.php';?>
+	<?php
+	$title="";
+	$description="";
+	$url="";
+	$keywords="";
+	$image="";
+	require APPPATH.'views/layout/head.php';?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">
@@ -19,7 +25,7 @@
 	</div>
 </div>
 
-<?php require APPPATH.'views\layout\header.php';?>
+<?php require APPPATH.'views/layout/header.php';?>
 
 <main class="main-root">
 	<div id="dsn-scrollbar">
@@ -206,10 +212,10 @@
 				</div>
 			</section>
 
-			<?php require APPPATH.'views\layout\footer.php';?>
+			<?php require APPPATH.'views/layout/footer.php';?>
 		</div>
 </main>
 
-<?php require APPPATH.'views\layout\js.php';?>
+<?php require APPPATH.'views/layout/js.php';?>
 </body>
 </html>

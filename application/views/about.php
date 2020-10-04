@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-	<?php include('layout/head.php');?>
+	<?php
+	$title="";
+	$description="";
+	$url="";
+	$keywords="";
+	$image="";
+	include('layout/head.php');?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">
@@ -357,7 +363,7 @@
 							</div>
 
 							<div class="logo-box">
-								<img src="<?php echo base_url('assets/img/clients/ayushakti.png'); ?>" alt="">
+								<img src="<?php echo base_url('assets/img/clients/ayushakti.php.png'); ?>" alt="">
 								<div class="info">
 									<div class="content">
 										<div class="icon">

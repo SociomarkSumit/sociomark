@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-	<?php require APPPATH.'views/layout/head.php';?>
+	<?php
+	$title="";
+	$description="";
+	$url="";
+	$keywords="";
+	$image="";
+	require APPPATH.'views/layout/head.php';?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">
@@ -182,7 +188,7 @@
 							</div>
 
 							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/ayushakti/social-media-work/') ?>" data-dsn-grid="move-up">
+								<a href="<?php echo base_url('portfolio/ayushakti.php/social-media-work/') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/ayushakti600.jpg')?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">

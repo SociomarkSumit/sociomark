@@ -3,7 +3,13 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-	<?php include('layout/head.php');?>
+	<?php
+	$title="";
+	$description="";
+	$url="";
+	$keywords="";
+	$image="";
+	include('layout/head.php');?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">
