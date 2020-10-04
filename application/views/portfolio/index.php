@@ -319,6 +319,105 @@
 									</div>
 								</a>
 							</div>
+
+							<div class="item website">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/ayushakti-usa.jpg') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Ayushakti USA</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item website">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/dr-smita-naram.jpg') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Dr Smita Naram</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+						<div class="itq`	@em website">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/kolkatarolls.png') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Kolkata Rolls</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item website">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/aainos.png') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Aainos</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item website">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/theunitedemperors.png') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>The United Emperors</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item website">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/portraiturebypari.png') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Portraiture by pari</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item website">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/thegrandlegacy.png') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>The grand legacy</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item website">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/springville.png') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Spring Ville</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item website">
+								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/sincerelyfinance.png') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Sincerely Finance</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
 						</div>
 						<div class="section-margin"></div>
 					</div>
