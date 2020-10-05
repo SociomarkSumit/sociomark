@@ -1576,6 +1576,11 @@ body > * {
   margin-bottom: 120px;
 }
 
+.section-margin-website {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
 @media only screen and (max-width: 991px) {
   .section-margin {
     margin-top: 80px;

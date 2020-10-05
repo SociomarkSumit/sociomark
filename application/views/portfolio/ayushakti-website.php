@@ -31,44 +31,50 @@
 <main class="main-root">
 	<div id="dsn-scrollbar">
 
-
 		<div class="wrapper">
 
-			<section class="our-work work-under-header  section-margin" data-dsn-col="3">
-				<div class="container">
+			<section class="our-work work-under-header  section-margin-website" data-dsn-col="3">
+					<div class="container">
+						<img class="mac" src="<?php echo base_url('assets/img/work/websites/mac.png');?>">
 
-					<div class="img-wrapper">
-						<img class="extrem-height-image" src="<?php echo base_url('assets/img/work/websites/ayushakti.png');?>">
+						<div class="img-wrapper">
+
+							<img class="extrem-height-image" src="<?php echo base_url('assets/img/work/websites/ayushakti.png');?>">
+						</div>
+
+						<style>
+							.mac{
+								width: 750px;
+							}
+							.img-wrapper
+							{
+								overflow: hidden;
+								position: absolute;
+								float: left;
+								top: 42px;
+								left:178px;
+								height: 375px;
+								width: 650px;
+
+								border-radius: 5px 5px 5px 5px;
+							}
+
+							.extrem-height-image
+							{
+								position: absolute;
+								top: 0;
+								width: 800px;
+								height: auto;
+								transition: top 10s ease-out 0s;
+							}
+
+							.extrem-height-image:hover
+							{
+								top: -1795px;
+							}
+						</style>
+
 					</div>
-
-					<style>
-						.img-wrapper
-						{
-							overflow: hidden;
-							position: relative;
-							float: left;
-							height: 500px;
-							width: 800px;
-							border:5px solid #BBB;
-							border-radius: 5px 5px 5px 5px;
-						}
-
-						.extrem-height-image
-						{
-							position: absolute;
-							top: 0;
-							width: 800px;
-							height: auto;
-							transition: top 8s ease-out 0s;
-						}
-
-						.extrem-height-image:hover
-						{
-							top: -2200px;
-						}
-					</style>
-
-				</div>
 			</section>
 
 			<?php require APPPATH.'views/layout/footer.php';?>
