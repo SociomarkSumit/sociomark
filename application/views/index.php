@@ -227,9 +227,9 @@
 								</div>
 							</div>
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="assets/img/banner/lenovo.jpg"
+								<div class="image-bg cover-bg" data-image-src="assets/img/banner/humour-and-stability.jpg"
 									 data-overlay="6">
-									<img src="assets/img/banner/lenovo.jpg" alt="">
+									<img src="assets/img/banner/humour-and-stability.jpg" alt="">
 								</div>
 							</div>
 						</div>
@@ -430,7 +430,7 @@
 
 					<div class="swiper-slide">
 						<div class="image-container">
-							<div class="image-bg cover-bg" data-image-src="assets/img/banner/lenovo.jpg"
+							<div class="image-bg cover-bg" data-image-src="assets/img/banner/humour-and-stability.jpg"
 								 data-overlay="2">
 							</div>
 						</div>
