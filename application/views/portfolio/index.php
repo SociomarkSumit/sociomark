@@ -97,16 +97,16 @@
 								</a>
 							</div>
 
-							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/tree-house-high-school/social-media-work') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/tree-house-high-school.jpg')?>" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>Tree House High School</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
+<!--							<div class="item digital">-->
+<!--								<a href="--><?php //echo base_url('portfolio/tree-house-high-school/social-media-work') ?><!--" data-dsn-grid="move-up">-->
+<!--									<img class="has-top-bottom" src="--><?php //echo base_url('assets/img/project/tree-house-high-school.jpg')?><!--" alt="" />-->
+<!--									<div class="item-border"></div>-->
+<!--									<div class="item-info">-->
+<!--										<h4>Tree House High School</h4>-->
+<!--										<span><span>View Project</span></span>-->
+<!--									</div>-->
+<!--								</a>-->
+<!--							</div>-->
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work') ?>" data-dsn-grid="move-up">
@@ -125,7 +125,7 @@
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/castrol600.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
-										<h4>Castrol</h4>
+										<h4>Protect India's Engine</h4>
 										<span><span>View Project</span></span>
 									</div>
 								</a>
@@ -138,6 +138,42 @@
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Mission Insure India</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item digital">
+								<a href="<?php echo base_url('portfolio/real-estate-awards/social-media-work') ?>" class="" data-dsn-ajax="work"
+								   data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/real-estate-awards.jpg') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Real Estate Awards</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item digital">
+								<a href="<?php echo base_url('portfolio/cosplay-genie/social-media-work') ?>" class="" data-dsn-ajax="work"
+								   data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/cosplay-genie.jpg') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Cosplay Genie</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item digital">
+								<a href="<?php echo base_url('portfolio/smart-cities-of-india/social-media-work') ?>" class="" data-dsn-ajax="work"
+								   data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/smart-cities-of-india.jpg') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Smart Cities of India</h4>
 										<span><span>View Project</span></span>
 									</div>
 								</a>
@@ -211,15 +247,48 @@
 							</div>
 
 							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/frozen-music/social-media-work') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/fm.jpg') ?>" alt="" />
+								<a href="<?php echo base_url('portfolio/smarter-india/social-media-work') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/lenovo.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
-										<h4>Frozen Music</h4>
+										<h4>Smarter India</h4>
 										<span><span>View Project</span></span>
 									</div>
 								</a>
 							</div>
+
+							<div class="item digital">
+								<a href="<?php echo base_url('portfolio/grill-box/social-media-work') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/grill-box.jpg') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Grill Box</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item digital">
+								<a href="<?php echo base_url('portfolio/kolkata-rolls/social-media-work') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/kolkata-rolls.jpg') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Kolkata Rolls</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+<!--							<div class="item digital">-->
+<!--								<a href="--><?php //echo base_url('portfolio/frozen-music/social-media-work') ?><!--" data-dsn-grid="move-up">-->
+<!--									<img class="has-top-bottom" src="--><?php //echo base_url('assets/img/project/fm.jpg') ?><!--" alt="" />-->
+<!--									<div class="item-border"></div>-->
+<!--									<div class="item-info">-->
+<!--										<h4>Frozen Music</h4>-->
+<!--										<span><span>View Project</span></span>-->
+<!--									</div>-->
+<!--								</a>-->
+<!--							</div>-->
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/hollywood-opticians/social-media-work') ?>" data-dsn-grid="move-up">
@@ -243,27 +312,9 @@
 								</a>
 							</div>
 
-							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/smarter-india/social-media-work') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/lenovo.jpg') ?>" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>Smarter India</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
 
-							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/grill-box/social-media-work') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/grill-box') ?>.jpg" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>Grill Box</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
+
+
 
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/inifd-vashi/social-media-work') ?>" data-dsn-grid="move-up">
@@ -276,49 +327,49 @@
 								</a>
 							</div>
 
-							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/alcazar/social-media-work') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/alcazar.jpg') ?>" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>Alcazar</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
+<!--							<div class="item digital">-->
+<!--								<a href="--><?php //echo base_url('portfolio/alcazar/social-media-work') ?><!--" data-dsn-grid="move-up">-->
+<!--									<img class="has-top-bottom" src="--><?php //echo base_url('assets/img/project/alcazar.jpg') ?><!--" alt="" />-->
+<!--									<div class="item-border"></div>-->
+<!--									<div class="item-info">-->
+<!--										<h4>Alcazar</h4>-->
+<!--										<span><span>View Project</span></span>-->
+<!--									</div>-->
+<!--								</a>-->
+<!--							</div>-->
 
-							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/the-united-emperors/social-media-work') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/ue.jpg') ?>" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>United Emperors</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
+<!--							<div class="item digital">-->
+<!--								<a href="--><?php //echo base_url('portfolio/the-united-emperors/social-media-work') ?><!--" data-dsn-grid="move-up">-->
+<!--									<img class="has-top-bottom" src="--><?php //echo base_url('assets/img/project/ue.jpg') ?><!--" alt="" />-->
+<!--									<div class="item-border"></div>-->
+<!--									<div class="item-info">-->
+<!--										<h4>United Emperors</h4>-->
+<!--										<span><span>View Project</span></span>-->
+<!--									</div>-->
+<!--								</a>-->
+<!--							</div>-->
 
-							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/suggeston/social-media-work') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/suggeston.jpg') ?>" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>Suggeston</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
-
-							<div class="item digital">
-								<a href="<?php echo base_url('portfolio/sociomark/social-media-work') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/sociomark.jpg') ?>" alt="" />
-									<div class="item-border"></div>
-									<div class="item-info">
-										<h4>Sociomark</h4>
-										<span><span>View Project</span></span>
-									</div>
-								</a>
-							</div>
+<!--							<div class="item digital">-->
+<!--								<a href="--><?php //echo base_url('portfolio/suggeston/social-media-work') ?><!--" data-dsn-grid="move-up">-->
+<!--									<img class="has-top-bottom" src="--><?php //echo base_url('assets/img/project/suggeston.jpg') ?><!--" alt="" />-->
+<!--									<div class="item-border"></div>-->
+<!--									<div class="item-info">-->
+<!--										<h4>Suggeston</h4>-->
+<!--										<span><span>View Project</span></span>-->
+<!--									</div>-->
+<!--								</a>-->
+<!--							</div>-->
+<!---->
+<!--							<div class="item digital">-->
+<!--								<a href="--><?php //echo base_url('portfolio/sociomark/social-media-work') ?><!--" data-dsn-grid="move-up">-->
+<!--									<img class="has-top-bottom" src="--><?php //echo base_url('assets/img/project/sociomark.jpg') ?><!--" alt="" />-->
+<!--									<div class="item-border"></div>-->
+<!--									<div class="item-info">-->
+<!--										<h4>Sociomark</h4>-->
+<!--										<span><span>View Project</span></span>-->
+<!--									</div>-->
+<!--								</a>-->
+<!--							</div>-->
 
 							<div class="item website">
 								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
@@ -342,7 +393,7 @@
 								</a>
 							</div>
 
-						<div class="itq`	@em website">
+						<div class="item website">
 								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/kolkatarolls.png') ?>" alt="" />
 									<div class="item-border"></div>

@@ -10896,6 +10896,10 @@ body.dsn-show-work .dsn-all-work .list-main:nth-of-type(20) .work-item {
 }
 
 .root-work .projects-list .item:nth-child(2) {
+	margin-top: 160px;
+}
+
+.root-work .projects-list .item:nth-child(23) {
   margin-top: 160px;
 }
 
@@ -10903,6 +10907,11 @@ body.dsn-show-work .dsn-all-work .list-main:nth-of-type(20) .work-item {
   .root-work .projects-list .item:nth-child(2) {
     margin-top: 50px;
   }
+
+	.root-work .projects-list .item:nth-child(23) {
+		margin-top: 50px;
+	}
+
 }
 
 .root-work .projects-list .item a {

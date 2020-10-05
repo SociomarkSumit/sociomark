@@ -112,5 +112,10 @@ class Work extends CI_Controller{
 	{
 		$this->load->view('portfolio/the-professional-couriers');
 	}
+
+	public function ayushakti_website()
+	{
+		$this->load->view('portfolio/ayushakti-website');
+	}
 }
 ?>

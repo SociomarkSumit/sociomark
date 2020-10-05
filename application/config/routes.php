@@ -93,10 +93,16 @@ $route['portfolio/mission-insure-india/social-media-work'] ='work/mission_insure
 $route['portfolio/the-professional-couriers/social-media-work'] ='work/the_professional_couriers';
 $route['portfolio/cosplay-genie/social-media-work'] ='work/cosplay_genie';
 
+
+
 $route['portfolio/frozen-music/social-media-work'] ='work/frozen_music';
 $route['portfolio/tree-house-high-school/social-media-work'] ='work/tree_house_high_school';
 $route['portfolio/alcazar/social-media-work'] ='work/alcazar';
 $route['portfolio/the-united-emperors/social-media-work'] ='work/the_united_emperors';
 $route['portfolio/suggeston/social-media-work'] ='work/suggeston';
 $route['portfolio/sociomark/social-media-work'] ='work/sociomark';
+
+$route['portfolio/ayushakti/webiste-work'] ='work/ayushakti_website';
+
+
 
