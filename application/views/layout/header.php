@@ -28,7 +28,7 @@
 		<div class="header-container">
 			<div class="logo main-logo">
 				<a class="logo-change" href="<?php echo base_url('') ?>">
-					<img class="dark-logo" src="<?php echo base_url('assets/img/logo/sociomark.png') ?>" width="95px" alt="" />
+					<img class="dark-logo" src="<?php echo base_url('assets/img/logo/sociomark-white.png') ?>" width="95px" alt="" />
 
 					<img class="light-logo" src="<?php echo base_url('assets/img/logo/sociomark-white.png') ?>" alt="" />
 
