@@ -148,12 +148,12 @@
 							<div class="slick-slider">
 								<div class="team-item slick-slide">
 									<div class="box-img">
-										<img src="<?php echo base_url('assets/img/team/1.png'); ?>" alt="">
+										<img src="<?php echo base_url('assets/img/team/vishal.png'); ?>" alt="">
 									</div>
 
 									<div class="box-content">
-										<h4>Blake Hamilton</h4>
-										<p>Project manager</p>
+										<h4>Vishal Desale</h4>
+										<p>Sr. Software Developer</p>
 									</div>
 								</div>
 
