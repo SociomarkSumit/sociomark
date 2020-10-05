@@ -158,7 +158,7 @@
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/cosplay-genie/social-media-work') ?>" class="" data-dsn-ajax="work"
 								   data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/cosplay-genie.jpg') ?>" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/cosplaygienie-600-x-600.jpg') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
 										<h4>Cosplay Genie</h4>
@@ -312,10 +312,6 @@
 								</a>
 							</div>
 
-
-
-
-
 							<div class="item digital">
 								<a href="<?php echo base_url('portfolio/inifd-vashi/social-media-work') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/inifd.jpg') ?>" alt="" />
@@ -393,7 +389,7 @@
 								</a>
 							</div>
 
-						<div class="item website">
+							<div class="item website">
 								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/kolkatarolls.png') ?>" alt="" />
 									<div class="item-border"></div>
@@ -406,10 +402,10 @@
 
 							<div class="item website">
 								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/aainos.png') ?>" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/portraiturebypari.png') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
-										<h4>Aainos</h4>
+										<h4>Portraiture by pari</h4>
 										<span><span>View Project</span></span>
 									</div>
 								</a>
@@ -428,10 +424,10 @@
 
 							<div class="item website">
 								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
-									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/portraiturebypari.png') ?>" alt="" />
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/aainos.png') ?>" alt="" />
 									<div class="item-border"></div>
 									<div class="item-info">
-										<h4>Portraiture by pari</h4>
+										<h4>Aainos</h4>
 										<span><span>View Project</span></span>
 									</div>
 								</a>

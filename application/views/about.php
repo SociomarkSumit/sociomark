@@ -244,8 +244,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>ICICI</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -263,8 +263,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Network 18</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -281,8 +281,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Mahindra First Choice</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -299,8 +299,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>The Professional Couriers  </h5>
+												<a href="<?php echo base_url('portfolio/the-professional-couriers/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -318,8 +318,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Nodwin Gaming</h5>
+												<a href="<?php echo base_url('portfolio/nodwin/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -336,8 +336,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Landor</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -354,8 +354,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Sportz Consult</h5>
+												<a href="<?php echo base_url('portfolio/sportz-consult/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -363,7 +363,7 @@
 							</div>
 
 							<div class="logo-box">
-								<img src="<?php echo base_url('assets/img/clients/ayushakti.php.png'); ?>" alt="">
+								<img src="<?php echo base_url('assets/img/clients/ayushakti.png'); ?>" alt="">
 								<div class="info">
 									<div class="content">
 										<div class="icon">
@@ -372,8 +372,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Ayushakti Ayurved</h5>
+												<a href="<?php echo base_url('portfolio/ayushakti/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -390,8 +390,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Road To Safety</h5>
+												<a href="<?php echo base_url('portfolio/road-to-safety/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -408,8 +408,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Team Cashless India</h5>
+												<a href="<?php echo base_url('portfolio/team-cashless-india/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -426,8 +426,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Button Dabao Desh Banao</h5>
+												<a href="<?php echo base_url('portfolio/button-dabao-desh-banao/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -444,8 +444,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Lenovo</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -462,8 +462,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Real Estate Awards</h5>
+												<a href="<?php echo base_url('portfolio/real-estate-awards/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -480,8 +480,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>LIME</h5>
+												<a href="<?php echo base_url('portfolio/lime/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -498,8 +498,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Mission Insure India</h5>
+												<a href="<?php echo base_url('portfolio/mission-insure-india/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -518,26 +518,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="logo-box">
-								<img src="<?php echo base_url('assets/img/clients/cnbc-tv18.png'); ?>" alt="">
-								<div class="info">
-									<div class="content">
-										<div class="icon">
-											<i class="fas fa-plus"></i>
-										</div>
-
-										<div class="entry">
-											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Protect India's Engine</h5>
+												<a href="<?php echo base_url('portfolio/castrol/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -554,8 +536,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Smarter India</h5>
+												<a href="<?php echo base_url('portfolio/smarter-india/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -572,8 +554,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>AI Awards</h5>
+												<a href="<?php echo base_url('portfolio/ai-awards/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -590,8 +572,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Commodity Experts Ki Pathshala</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -608,8 +590,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Building Cognitive Exterprises</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -626,81 +608,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-
-							<div class="logo-box">
-								<img src="<?php echo base_url('assets/img/clients/smita-naram.png'); ?>" alt="">
-								<div class="info">
-									<div class="content">
-										<div class="icon">
-											<i class="fas fa-plus"></i>
-										</div>
-
-										<div class="entry">
-											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="logo-box">
-								<img src="<?php echo base_url('assets/img/clients/kolkata-rolls.png'); ?>" alt="">
-								<div class="info">
-									<div class="content">
-										<div class="icon">
-											<i class="fas fa-plus"></i>
-										</div>
-
-										<div class="entry">
-											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="logo-box">
-								<img src="<?php echo base_url('assets/img/clients/the-grand-legacy.png'); ?>" alt="">
-								<div class="info">
-									<div class="content">
-										<div class="icon">
-											<i class="fas fa-plus"></i>
-										</div>
-
-										<div class="entry">
-											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="logo-box">
-								<img src="<?php echo base_url('assets/img/clients/treehouse.png'); ?>" alt="">
-								<div class="info">
-									<div class="content">
-										<div class="icon">
-											<i class="fas fa-plus"></i>
-										</div>
-
-										<div class="entry">
-											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Young Turks</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -717,8 +626,80 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Grill Box</h5>
+												<a href="<?php echo base_url('portfolio/grill-box/social-media-work') ?>">View Project</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/kolkata-rolls.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Kolkata Rolls</h5>
+												<a href="<?php echo base_url('portfolio/kolkata-rolls/social-media-work') ?>">View Project</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/the-grand-legacy.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>The Grand Legacy</h5>
+												<a href="#">View Project</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/treehouse.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Tree House</h5>
+												<a href="#">View Project</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="logo-box">
+								<img src="<?php echo base_url('assets/img/clients/smita-naram.png'); ?>" alt="">
+								<div class="info">
+									<div class="content">
+										<div class="icon">
+											<i class="fas fa-plus"></i>
+										</div>
+
+										<div class="entry">
+											<div>
+												<h5>Dr. Smita Naram</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -736,8 +717,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Talk Tales</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -754,8 +735,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Foresight Opticals</h5>
+												<a href="<?php echo base_url('portfolio/foresight-opticals/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -772,8 +753,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>INIFD Vashi</h5>
+												<a href="<?php echo base_url('portfolio/inifd-vashi/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -791,8 +772,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Frozen Music</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -809,8 +790,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Hollywood Opticians</h5>
+												<a href="<?php echo base_url('portfolio/hollywood-opticians/social-media-work') ?>">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -827,8 +808,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Suggeston</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -845,8 +826,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Joshbro</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -864,8 +845,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Today Royal Group</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -882,8 +863,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>United Emperor</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -901,8 +882,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>TGV Reima</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -919,8 +900,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Sincere Finance</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -937,8 +918,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Rossa</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -955,8 +936,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>IEC</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -973,8 +954,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Stone Papper Scissor</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -991,8 +972,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Agarwals</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -1009,8 +990,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Alcazar</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -1027,8 +1008,8 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Portraiture By Pari</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
@@ -1045,15 +1026,13 @@
 
 										<div class="entry">
 											<div>
-												<h5>Google</h5>
-												<a href="#">www.google.com</a>
+												<h5>Spring Ville</h5>
+												<a href="#">View Project</a>
 											</div>
 										</div>
 									</div>
 								</div>
 							</div>
-
-
 						</div>
 					</div>
 				</section>

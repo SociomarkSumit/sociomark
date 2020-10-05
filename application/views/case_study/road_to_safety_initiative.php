@@ -46,7 +46,7 @@
 		<header>
 			<div class="header-single-post" data-dsn-header="project">
 				<div class="post-parallax-wrapper" data-overlay="3">
-					<img id="dsn-hero-parallax-img" class="w-100 has-top-bottom" src="<?php echo base_url('assets/img/case-study/rts.jpg')?>" alt="Road to Safety Initiative" data-dsn-header="blog" data-dsn-ajax="img">
+					<img id="dsn-hero-parallax-img" class="w-100 has-top-bottom" src="<?php echo base_url('assets/img/case-study/rts.png')?>" alt="Road to Safety Initiative" data-dsn-header="blog" data-dsn-ajax="img">
 				</div>
 				<div class="container">
 					<div class="inner-box m-section">

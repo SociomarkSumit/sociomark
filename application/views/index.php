@@ -714,43 +714,29 @@
 				</div>
 			</section>
 
-			<section class="client-see section-margin">
+			<section class="our-client section-margin">
 				<div class="container">
-					<div class="inner">
-						<div class="left">
-							<h2 class="title" data-dsn-grid="move-section" data-dsn-move="-60"
-								data-dsn-duration="100%" data-dsn-opacity="1" data-dsn-responsive="tablet">
-								<span class="text">Not the same old feedback!</span>
-							</h2>
+					<div class="one-title" data-dsn-animate="up">
+						<div class="title-sub-container">
+							<p class="title-sub">Clientele</p>
+						</div>
+						<h2 class="title-main">Not the same old feedback!</h2>
+					</div>
+
+					<div class="client-curs">
+						<div class="client-item">
+							<div>
+								<p>"Sociomark team is absolutely very professional in their work yet bring in high flexibility in terms of ownership in delivery. all the tasks and works are delivered with utmost commitment and dedication and on time. they never said no and always valued and worked on our feedbacks	we have had a long term engagement with them and they are an absolute pleasure to work with!"</p>
+								<h5>- Siju Thomas, CEO </h5>
+								<span>- The Professional Couriers</span>
+							</div>
 						</div>
 
-						<div class="items">
-							<div class="bg"></div>
-							<div class="slick-slider">
-								<div class="item">
-									<div class="quote">
-										<p>"Sociomark team is absolutely very professional in their work yet bring in high flexibility in terms of ownership in delivery. all the tasks and works are delivered with utmost commitment and dedication and on time. they never said no and always valued and worked on our feedbacks	we have had a long term engagement with them and they are an absolute pleasure to work with!"</p>
-									</div>
-									<div class="bottom">
-
-										<div class="label">
-											<div class="cell">- Siju Thomas, CEO - The Professional Couriers</div>
-										</div>
-									</div>
-								</div>
-
-								<div class="item">
-									<div class="quote">
-										<p>"Its a pleasure working with Sociomark for social media marketing of our brand GrillBox through Facebook and Instagram. Sociomark  helped us to reach many users through their creative contents. They were easy to work with and were flexible with meeting our needs."</p>
-									</div>
-									<div class="bottom">
-
-										<div class="label">
-											<div class="cell">- Shafeeq Mareen, Founder - GrillBox</div>
-										</div>
-									</div>
-								</div>
-
+						<div class="client-item">
+							<div>
+								<p>"Its a pleasure working with Sociomark for social media marketing of our brand GrillBox through Facebook and Instagram. Sociomark  helped us to reach many users through their creative contents. They were easy to work with and were flexible with meeting our needs."</p>
+								<h5>- Shafeeq Mareen, Founder</h5>
+								<span>- GrillBox</span>
 							</div>
 						</div>
 					</div>

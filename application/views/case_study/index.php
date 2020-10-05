@@ -42,23 +42,12 @@
 			<header>
 				<div class="headefr-fexid" data-dsn-header="project">
 					<div class="bg w-100" id="dsn-hero-parallax-img" data-dsn-ajax="img">
-						<div class="bg-image  cover-bg" data-overlay="4" data-image-src="assets/img/services.jpg"></div>
+						<div class="bg-image  cover-bg" data-overlay="4" data-image-src="assets/img/case-study/Case-Study.jpg"></div>
 					</div>
 
 					<div class="scroll" data-dsn-animate="ajax">
 						<span class="background"></span>
 						<span class="triangle"></span>
-					</div>
-					<div class="project-title" id="dsn-hero-parallax-title">
-						<div class="title-text-header">
-							<span class="title-text-header-inner">
-								<span data-dsn-animate="ajax">Case Study</span>
-							</span>
-						</div>
-
-						<div class="sub-text-header" data-dsn-animate="ajax">
-							<span>We believe in ideas that bring the change in people's thinking rather than only fulfilling the client's needs!</span>
-						</div>
 					</div>
 				</div>
 			</header>
@@ -80,7 +69,7 @@
 									<a href="<?php echo base_url('case-study/real-estate-awards') ?>">
 										<div class="wapper-client">
 											<div class="logo-box">
-												<img src="<?php echo base_url('assets/img/case-study/rea.jpg'); ?>" alt="">
+												<img src="<?php echo base_url('assets/img/case-study/rea.png'); ?>" alt="">
 											</div>
 										</div>
 										<div class="info section-padding-keywords">
@@ -97,7 +86,7 @@
 									<a href="<?php echo base_url('case-study/button-dabao-desh-banao') ?>">
 										<div class="wapper-client">
 											<div class="logo-box">
-												<img src="<?php echo base_url('assets/img/case-study/bddb.jpg'); ?>" alt="">
+												<img src="<?php echo base_url('assets/img/case-study/bddb.png'); ?>" alt="">
 											</div>
 										</div>
 										<div class="info section-padding-keywords">
@@ -114,7 +103,7 @@
 									<a href="<?php echo base_url('case-study/road-to-safety-initiative') ?>">
 										<div class="wapper-client">
 											<div class="logo-box">
-												<img src="<?php echo base_url('assets/img/case-study/rts.jpg'); ?>" alt="">
+												<img src="<?php echo base_url('assets/img/case-study/rts.png'); ?>" alt="">
 											</div>
 										</div>
 										<div class="info section-padding-keywords">
