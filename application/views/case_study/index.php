@@ -58,10 +58,7 @@
 					<section class="our-services section-margin">
 						<div class="container">
 							<div class="one-title" data-dsn-animate="up">
-								<div class="title-sub-container">
-									<p class="title-sub">AGENCY LIFE</p>
-								</div>
-								<h2 class="title-main">Content is Everywhere</h2>
+								<h2 class="title-main">Ideas that have made a mark!</h2>
 							</div>
 
 							<div class="row">
