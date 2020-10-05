@@ -80,6 +80,7 @@ $route['portfolio/mahindra-first-choice-services/social-media-work'] ='work/mfcs
 $route['portfolio/sportz-consult/social-media-work'] ='work/sportz_consult';
 $route['portfolio/team-cashless-india/social-media-work'] ='work/team_cashless_india';
 $route['portfolio/smarter-india/social-media-work'] ='work/smarter_india';
+$route['portfolio/smart-cities-of-india/social-media-work'] ='work/smart_cities_of_india';
 $route['portfolio/hollywood-opticians/social-media-work'] ='work/hollywood_opticians';
 $route['portfolio/foresight-opticals/social-media-work'] ='work/foresight_opticals';
 $route['portfolio/lime/social-media-work'] ='work/lime';
@@ -92,10 +93,16 @@ $route['portfolio/mission-insure-india/social-media-work'] ='work/mission_insure
 $route['portfolio/the-professional-couriers/social-media-work'] ='work/the_professional_couriers';
 $route['portfolio/cosplay-genie/social-media-work'] ='work/cosplay_genie';
 
-$route['portfolio/frozen-music/social-media-work/'] ='work/frozen_music';
-$route['portfolio/tree-house-high-school/social-media-work/'] ='work/tree_house_high_school';
-$route['portfolio/alcazar/social-media-work/'] ='work/alcazar';
-$route['portfolio/the-united-emperors/social-media-work/'] ='work/the_united_emperors';
-$route['portfolio/suggeston/social-media-work/'] ='work/suggeston';
-$route['portfolio/sociomark/social-media-work/'] ='work/sociomark';
+
+
+$route['portfolio/frozen-music/social-media-work'] ='work/frozen_music';
+$route['portfolio/tree-house-high-school/social-media-work'] ='work/tree_house_high_school';
+$route['portfolio/alcazar/social-media-work'] ='work/alcazar';
+$route['portfolio/the-united-emperors/social-media-work'] ='work/the_united_emperors';
+$route['portfolio/suggeston/social-media-work'] ='work/suggeston';
+$route['portfolio/sociomark/social-media-work'] ='work/sociomark';
+
+$route['portfolio/ayushakti/webiste-work'] ='work/ayushakti_website';
+
+
 

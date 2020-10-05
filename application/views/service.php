@@ -80,7 +80,7 @@
 										<div class="services-header">
 											<h3>SOCIAL MEDIA MARKETING</h3>
 										</div>
-										<p>Targeting the correct audience at the right time, across all the social media platform.</p>
+										<p>Targeting the correct audience at the right time, across all the social media platforms.</p>
 									</div>
 								</div>
 

@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="INIFD Vashi";
+	$title="Cosplay Genie";
 	$description="";
 	$url="";
 	$keywords="";
@@ -16,7 +16,7 @@
 	<div class="preloader-after"></div>
 	<div class="preloader-before"></div>
 	<div class="preloader-block">
-		<div class="title">INIFD Vashi</div>
+		<div class="title">Cosplay Genie</div>
 		<div class="percent">0</div>
 		<div class="loading">loading...</div>
 	</div>
@@ -47,11 +47,11 @@
 								</div>
 							</div>
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/inifd-vashi/1.jpg');?>"
+								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/cosplay-genie/1.jpg');?>"
 									 data-overlay="5">
-									<img src="<?php echo base_url('assets/img/work/inifd-vashi/1.jpg');?>" alt="">
+									<img src="<?php echo base_url('assets/img/work/cosplay-genie/1.jpg');?>" alt="">
 									<div class="cap">
-										<span>INIFD Vashi</span>
+										<span>Cosplay Genie</span>
 									</div>
 								</div>
 							</div>
@@ -70,11 +70,11 @@
 								</div>
 							</div>
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/inifd-vashi/2.jpg');?>"
+								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/cosplay-genie/2.jpg');?>"
 									 data-overlay="0">
-									<img src="<?php echo base_url('assets/img/work/inifd-vashi/2.jpg');?>" alt="">
+									<img src="<?php echo base_url('assets/img/work/cosplay-genie/2.jpg');?>" alt="">
 									<div class="cap">
-										<span>INIFD Vashi</span>
+										<span>Cosplay Genie</span>
 									</div>
 								</div>
 							</div>
@@ -96,67 +96,16 @@
 								</div>
 							</div>
 							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/inifd-vashi/3.jpg');?>"
+								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/cosplay-genie/3.jpg');?>"
 									 data-overlay="6">
-									<img src="<?php echo base_url('assets/img/work/inifd-vashi/3.jpg');?>" alt="">
+									<img src="<?php echo base_url('assets/img/work/cosplay-genie/3.jpg');?>" alt="">
 									<div class="cap">
-										<span>INIFD Vashi</span>
+										<span>Cosplay Genie</span>
 									</div>
 								</div>
 							</div>
 						</div>
 
-						<div class="slide-item swiper-slide">
-							<div class="slide-content">
-								<div class="slide-content-inner" style="display: none">
-
-									<div class="title-text-header">
-										<div class="title-text-header-inner">
-											<a href="#" class="effect-ajax" data-dsn-ajax="slider">
-											</a>
-										</div>
-									</div>
-
-
-								</div>
-							</div>
-
-							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/inifd-vashi/4.jpg');?>"
-									 data-overlay="2">
-									<img src="<?php echo base_url('assets/img/work/inifd-vashi/4.jpg');?>" alt="">
-									<div class="cap">
-										<span>INIFD Vashi</span>
-									</div>
-								</div>
-
-							</div>
-						</div>
-
-						<div class="slide-item swiper-slide">
-							<div class="slide-content">
-								<div class="slide-content-inner" style="display: none">
-
-									<div class="title-text-header">
-										<div class="title-text-header-inner">
-											<a href="#" class="effect-ajax" data-dsn-ajax="slider">
-											</a>
-										</div>
-									</div>
-
-
-								</div>
-							</div>
-							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/inifd-vashi/5.jpg');?>"
-									 data-overlay="6">
-									<img src="<?php echo base_url('assets/img/work/inifd-vashi/5.jpg');?>" alt="">
-									<div class="cap">
-										<span>INIFD Vashi</span>
-									</div>
-								</div>
-							</div>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -190,17 +139,17 @@
 				<div class="container">
 					<div class="one-title">
 
-						<h2 class="title-main work-title">INIFD Vashi</h2>
+						<h2 class="title-main work-title">Cosplay Genie</h2>
 					</div>
 				</div>
 				<div class="container">
-					<p class="item-client"><strong>About the Brand:</strong> An exclusive digitized design institution catering to guiding you through all the aspects of fashion and interior designing.</p>
-					<p class="item-client"><strong>Services Offered:</strong> Social media Management, Content Writing, Graphic Designs with 2D Animated Videos, ORM, Google Ads, Search Engine Optimization(SEO).</p>
+					<p class="item-client"><strong>About the Brand:</strong> CosplayGenie is your one-stop-site to the magical realm of Cosplay. It’s a unique art form about the characters, the craft and your favorite cosplayers!</p>
+					<p class="item-client"><strong>Services Offered:</strong> Social media Management Content Writing, Script Writing, Graphic Designs with 2D Animated Videos, ORM.</p>
 
 					<div class="social-links">
 						<ul><strong>Page Link :</strong>
-							<li><a href="https://www.facebook.com/inifdvashifd" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="https://www.instagram.com/inifdvashi/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+							<li><a href="https://www.facebook.com/cosplaygenie" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+							<li><a href="https://www.instagram.com/officialcosplaygenie/" target="_blank"><i class="fab fa-instagram"></i></a></li>
 
 						</ul>
 					</div>

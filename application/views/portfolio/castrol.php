@@ -92,7 +92,6 @@
 										</div>
 									</div>
 
-
 								</div>
 							</div>
 							<div class="image-container">
@@ -106,57 +105,6 @@
 							</div>
 						</div>
 
-						<div class="slide-item swiper-slide">
-							<div class="slide-content">
-								<div class="slide-content-inner" style="display: none">
-
-									<div class="title-text-header">
-										<div class="title-text-header-inner">
-											<a href="#" class="effect-ajax" data-dsn-ajax="slider">
-											</a>
-										</div>
-									</div>
-
-
-								</div>
-							</div>
-
-							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/castrol/4.jpg');?>"
-									 data-overlay="2">
-									<img src="<?php echo base_url('assets/img/work/castrol/4.jpg');?>" alt="">
-									<div class="cap">
-										<span>Castrol</span>
-									</div>
-								</div>
-
-							</div>
-						</div>
-
-						<div class="slide-item swiper-slide">
-							<div class="slide-content">
-								<div class="slide-content-inner" style="display: none">
-
-									<div class="title-text-header">
-										<div class="title-text-header-inner">
-											<a href="#" class="effect-ajax" data-dsn-ajax="slider">
-											</a>
-										</div>
-									</div>
-
-
-								</div>
-							</div>
-							<div class="image-container">
-								<div class="image-bg cover-bg" data-image-src="<?php echo base_url('assets/img/work/castrol/5.jpg');?>"
-									 data-overlay="6">
-									<img src="<?php echo base_url('assets/img/work/castrol/5.jpg');?>" alt="">
-									<div class="cap">
-										<span>Castrol</span>
-									</div>
-								</div>
-							</div>
-						</div>
 					</div>
 				</div>
 			</div>
