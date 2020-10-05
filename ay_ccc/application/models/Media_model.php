@@ -61,7 +61,6 @@ class media_model extends CI_Model {
 		}
 		/*End Imagefile1 Upload*/
 
-
 		$data = array(
 			'imagefile1'=>$filename1,
 			'title'=>$this->input->post('title')

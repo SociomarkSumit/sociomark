@@ -342,7 +342,7 @@
 								</a>
 							</div>
 
-						<div class="itq`	@em website">
+							<div class="item website">
 								<a href="<?php echo base_url('') ?>" data-dsn-grid="move-up">
 									<img class="has-top-bottom" src="<?php echo base_url('assets/img/website/kolkatarolls.png') ?>" alt="" />
 									<div class="item-border"></div>

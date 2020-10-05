@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-	<?php require APPPATH.'views/layout/head.php';?>
+	<?php
+	$title="Case Studies | Most Successful Campaigns & Projects By Sociomark";
+	$description="Get detailed insights of some of our most successful campaigns & projects! Read our case studies to know how we are excellent when it comes to marketing.";
+	$url="http://www.sociomark.in/case-study/";
+	$keywords="Sociomark, Sociomark Digital Marketing, Digital Marketing Agency In Navi Mumbai, Digital Marketing Company In Navi Mumbai, Internet Marketing Agency In Navi Mumbai, Internet Marketing Company In Navi Mumbai, Digital Advertising Company In Navi Mumbai, Internet Advertising Company In Navi Mumbai, Digital Advertising Agency In Navi Mumbai, Internet Advertising Agency In Navi Mumbai, Real Estate Digital Marketing Agency In Navi Mumbai, SEO Agency In Navi Mumbai, Website Design Agency In Navi Mumbai, Website Development Agency In Navi Mumbai, E-Commerce Website Development Agency In Navi Mumbai";
+	$image="http://www.sociomark.in/images/sociomark.png";
+	require APPPATH.'views/layout/head.php';?>
 	<style type="text/css" >
 		.subtitle{
 			width: 100%;

@@ -2549,7 +2549,7 @@ body > * {
 }
 
 .view-demo .overlay-bg .black {
-  background-color: #110f10;
+  background-color: #106c97;
 }
 
 .view-demo .overlay-bg .white {
@@ -3079,11 +3079,15 @@ a:hover, a:active {
   display: block;
 }
 
+.logo-a .logo-c{
+	/*display: none!important;*/
+}
+.logo-a .logo-b{
+	/*display: block;*/
+}
 .main-logo .light-logo {
   display: block;
 }
-
-
 
 .v-light.menu-light .main-logo .light-logo {
   display: none;
@@ -3095,6 +3099,9 @@ body.hamburger-menu .site-header {
 
 body.hamburger-menu .header-top {
   display: block;
+}
+.large-logo{
+	display: none;
 }
 
 /* -------------------------------------------------------

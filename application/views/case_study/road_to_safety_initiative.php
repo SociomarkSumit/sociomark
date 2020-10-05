@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-	<?php require APPPATH.'views/layout/head.php';?>
+	<?php
+	$title="Case Study | Road To Safety Initiative | Diageo - Network18 Campaign";
+	$description="Detailed analysis of 'Road To Safety' campaign strategized by Sociomark for Diageo & Network18 to encourage Indians to drive responsibly & be safe on roads.";
+	$url="http://www.sociomark.in/case-study/road-to-safety-initiative/";
+	$keywords="Case Study, Road To Safety Initiative, Road To Safety";
+	$image="http://www.sociomark.in/case-study/images/rts.jpg";
+	require APPPATH.'views/layout/head.php';?>
 	<style type="text/css">
 		.post-content ul{
 			margin: 6px 0px;

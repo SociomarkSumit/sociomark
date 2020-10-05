@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-	<?php require APPPATH.'views/layout/head.php';?>
+	<?php
+	$title="Case Study | RR Kabel Presents CNBC AWAAZ Real Estate Awards";
+	$description="Here's a detailed case study of the social media marketing campaign strategized by the Sociomark Digital Marketing Agency for RR Kabel & CNBC Awaaz Real Estate Awards.";
+	$url="http://www.sociomark.in/case-study/real-estate-awards/";
+	$keywords="Case Study, Real Estate Awards, Social Media Campaigns, Successful Marketing Campaigns, Marketing Campaigns";
+	$image="http://www.sociomark.in/case-study/images/rea.jpg";
+	require APPPATH.'views/layout/head.php';?>
 	<style type="text/css">
 		.post-content ul{
 			margin: 6px 0px;

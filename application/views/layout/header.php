@@ -5,9 +5,8 @@
 			<div class="inner-header">
 				<div class="main-logo">
 					<a href="<?php echo site_url('home') ?>">
-						<img class="dark-logo" src="<?php echo base_url('assets/img/logo/sociomark.png') ?>" alt="" />
-<!--						<img class="light-logo" src="--><?php //echo base_url('assets/img/logo/sociomark.png') ?><!--" width="95px" alt="" />-->
-						<img class="light-logo" src="<?php echo base_url('assets/img/logo/sociomark-white.png') ?>" alt="" />
+						<img class="dark-logo logo-c" src="<?php echo base_url('assets/img/logo/sc-colored.png') ?>" alt="" />
+						<img class="light-logo logo-c" src="<?php echo base_url('assets/img/logo/sc-white.png') ?>" alt="" />
 					</a>
 				</div>
 			</div>
@@ -27,11 +26,11 @@
 	<div class="header-top header-top-hamburger">
 		<div class="header-container">
 			<div class="logo main-logo">
-				<a class="logo-change" href="<?php echo base_url('') ?>">
-					<img class="dark-logo" src="<?php echo base_url('assets/img/logo/sociomark.png') ?>" width="95px" alt="" />
+				<a class="logo-change logo-a" href="<?php echo base_url('') ?>">
+					<img class="dark-logo logo-c" src="<?php echo base_url('assets/img/logo/sc-colored.png') ?>" alt="" />
 
-					<img class="light-logo" src="<?php echo base_url('assets/img/logo/sociomark-white.png') ?>" alt="" />
-
+					<img class="light-logo logo-c" src="<?php echo base_url('assets/img/logo/sc-white.png') ?>" alt="" />
+<!--					<img class="light-logo logo-c large-logo" src="--><?php //echo base_url('assets/img/logo/sc-white-horizontal.png') ?><!--" alt="" />-->
 				</a>
 			</div>
 

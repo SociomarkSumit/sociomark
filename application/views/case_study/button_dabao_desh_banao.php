@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-	<?php require APPPATH.'views/layout/head.php';?>
+	<?php
+	$title="Case Study | Button Dabao Desh Banao | Lok Sabha Elections Campaign";
+	$description="Detailed analysis of 'BDDB' campaign strategized by Sociomark for Network18 to encourage Indian voters to cast their vote in 2019 Lok Sabha Elections.";
+	$url="http://www.sociomark.in/case-study/button-dabao-desh-banao/";
+	$keywords="Case Study, Button Dabao Desh Banao";
+	$image="http://www.sociomark.in/case-study/images/bddb.jpg";
+	require APPPATH.'views/layout/head.php';?>
 	<style type="text/css">
 		.post-content ul{
 			margin: 6px 0px;
