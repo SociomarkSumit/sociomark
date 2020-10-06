@@ -29,7 +29,7 @@ $(document).ready(function(){
 
 	$('.display-showreel').on('click',function(){
 		$('.display-showreel').fadeOut('slow',function(){
-			$('.display-showreel').css("display","none");
+			$(this).css("display","none");
 			var src= '';
 			$('.showreel-video').attr('src',src);
 			var src= 'https://www.youtube.com/embed/OBEli5cFYDI';

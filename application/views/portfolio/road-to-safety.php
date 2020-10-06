@@ -205,7 +205,12 @@
 
 						</ul>
 					</div>
-
+					<div class="clearfix" ></div>
+					<div class="row" style="margin-top: 30px;">
+						<button>
+							<a href="<?php echo base_url('case-study/road-to-safety-initiative') ?>">Read our Case Study</a>
+						</button>
+					</div>
 				</div>
 			</section>
 

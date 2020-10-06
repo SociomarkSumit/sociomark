@@ -3,8 +3,8 @@
 <head>
 	<?php
 		$title="Best Digital Marketing Agency in Mumbai &amp; Navi Mumbai| Sociomark";
-		$description="Sociomark is the best digital marketing agency in Navi Mumbai providing services like SEO, SMM, SEM, Website Development &amp; many more. Get the best quote";
-		$url="https://www.sociomark.in/";
+		$description="Sociomark is the best digital marketing agency in Navi Mumbai providing services like SMM, SEO, SEM, Website Development &amp; many more. Get the best quote";
+		$url=base_url();
 		$keywords="best digital marketing agency in Navi Mumbai, digital marketing agency in Navi Mumbai, digital marketing company in navi Mumbai, best digital marketing company in navi Mumbai, digital marketing agency in Mumbai, digital marketing company in Mumbai, best digital marketing agency in Mumbai, website development company in navi Mumbai";
 		$image=base_url('assets/img/banner/award.jpg');
 		include('layout/head.php');
@@ -614,13 +614,14 @@
 				<div class="container-fluid">
 					<div class="inner-img showreel" data-dsn-grid="move-up">
 						<img data-dsn-scale="1" data-dsn-y="30%" src="assets/img/banner/Showreel-Thumbnail.jpg" alt="">
-					</div>
 
+					</div>
 					<div class="display-showreel">
 						<div class="showreel-container">
-							<iframe class="showreel-video" width="100%" height="100%" src="https://www.youtube.com/embed/OBEli5cFYDI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe class="showreel-video" width="100%" height="100%" src="https://www.youtube.com/embed/fUcECL2KLeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
+
 				</div>
 			</div>
 
@@ -767,7 +768,7 @@
 								<div class="vertical-title">
 									<h2 data-dsn-animate="up">MEET OUR FOUNDERS</h2>
 								</div>
-								<h6 data-dsn-animate="up">Mr. Vivek Baandal & Mrs. Heta Desai Baandal share the same entrepreneurial spirit & strives towards establishing an unmatched social presence for your business.</h6>
+								<h6 data-dsn-animate="up">Mr. Vivek Baandal & Mrs. Heta Desai Baandal share the same entrepreneurial spirit & trives towards establishing an unmatched social presence for your business.</h6>
 								<p data-dsn-animate="up">The journey from being college partners to life partners & now business partners, it's been a dream spell of building an award-winning result-oriented marketing agency within a short period.</p>
 
 							</div>

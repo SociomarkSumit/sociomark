@@ -3265,11 +3265,11 @@ body.hamburger-menu .header-top {
 
 @media only screen and (max-width: 575px) {
   .header-top .header-container {
-    padding: 20px 15px;
-	  background: #106c9714;
+    padding: 10px 15px;
+	  background: #106c976e;
   }
 	.logo-change{
-		height: auto!important;
+		height: 60px!important;
 	}
 }
 
@@ -3286,7 +3286,7 @@ body.hamburger-menu .header-top {
   display: none;
 }
 .logo-change{
-	height: auto;
+	height: 60px;
 	display: block;
 }
 .lg-logo-wh,.lg-logo-cl{
@@ -6640,9 +6640,13 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
     padding: 0;
   }
   .intro-about .img-box .img-cent {
-    height: 80vh;
+    height: 50vh;
     margin: 30px 0 0 0;
   }
+	.box-seat .inner-img{
+		height: auto;
+		position: relative;
+	}
 }
 
 .our-services-2 {
@@ -8425,8 +8429,12 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 @media only screen and (max-width: 400px) {
   .our-team .team-item, .work-under-header .work-item {
-    margin-right: 0;
+    	margin-right: 0;
+	  	height: 60vh;
   }
+	.showreel-container{
+		height: 40vw;
+	}
 }
 
 @media only screen and (max-width: 400px) {
@@ -9568,7 +9576,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 @media only screen and (max-width: 767px) {
 	.dsn-slider .slide-inner .slide-item .image-container .image-bg {
 		position: absolute;
-		top: 100px;
+		top: 82px;
 		left: 0;
 		width: 100%;
 		height: 200px;

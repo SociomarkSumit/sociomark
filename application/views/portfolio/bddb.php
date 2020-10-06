@@ -200,6 +200,12 @@
 
 
 				</div>
+				<div class="clearfix" ></div>
+				<div class="row" style="margin-top: 30px;">
+					<button>
+						<a href="<?php echo base_url('case-study/button-dabao-desh-banao') ?>">Read our Case Study</a>
+					</button>
+				</div>
 			</section>
 
 			<?php require APPPATH.'views/layout/footer.php';?>
