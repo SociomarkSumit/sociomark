@@ -104,5 +104,9 @@ $route['portfolio/sociomark/social-media-work'] ='work/sociomark';
 
 $route['portfolio/ayushakti/webiste-work'] ='work/ayushakti_website';
 
+$route['portfolio/profinet/branding-work'] ='work/profinet_branding';
+$route['portfolio/hollywood-opticians/branding-work'] ='work/hollywood_opticians_branding';
+$route['portfolio/foresight-opticals/branding-work'] ='work/foresight_opticals_branding';
+
 
 

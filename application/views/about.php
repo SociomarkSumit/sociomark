@@ -149,47 +149,148 @@
 							<div class="slick-slider">
 								<div class="team-item slick-slide">
 									<div class="box-img">
-										<img src="<?php echo base_url('assets/img/team/vishal.png'); ?>" alt="">
+										<img src="<?php echo base_url('assets/img/team/vivek.jpg'); ?>" alt="">
+									</div>
+
+									<div class="box-content">
+										<h4>Vivek Baandal</h4>
+										<p>CEO, Creative Director</p>
+									</div>
+								</div>
+
+								<div class="team-item slick-slide">
+									<div class="box-img">
+										<img src="<?php echo base_url('assets/img/team/heta.jpg'); ?>" alt="">
+									</div>
+
+									<div class="box-content">
+										<h4>Heta Desai Baandal</h4>
+										<p>Managing Director</p>
+									</div>
+								</div>
+
+								<div class="team-item slick-slide">
+									<div class="box-img">
+										<img src="<?php echo base_url('assets/img/team/vishal.jpg'); ?>" alt="">
 									</div>
 
 									<div class="box-content">
 										<h4>Vishal Desale</h4>
-										<p>Sr. Software Developer</p>
+										<p>Chief Technical Officer</p>
 									</div>
 								</div>
 
 								<div class="team-item slick-slide">
 									<div class="box-img">
-										<img src="<?php echo base_url('assets/img/team/2.png'); ?>" alt="">
+										<img src="<?php echo base_url('assets/img/team/kuldeep.jpg'); ?>" alt="">
 									</div>
 
 									<div class="box-content">
-										<h4>Ahmed Shawky</h4>
-										<p>Web Designer</p>
+										<h4>Kuldeep Kumpawat</h4>
+										<p>Design Head</p>
 									</div>
 								</div>
 
 								<div class="team-item slick-slide">
 									<div class="box-img">
-										<img src="<?php echo base_url('assets/img/team/3.png'); ?>" alt="">
+										<img src="<?php echo base_url('assets/img/team/deepak.jpg'); ?>" alt="">
 									</div>
 
 									<div class="box-content">
-										<h4>John Doe</h4>
-										<p>Engineer</p>
+										<h4>Deepak Nagre</h4>
+										<p>Sr. Content Writer, Strategist</p>
 									</div>
 								</div>
 
 								<div class="team-item slick-slide">
 									<div class="box-img">
-										<img src="<?php echo base_url('assets/img/team/4.png'); ?>" alt="">
+										<img src="<?php echo base_url('assets/img/team/juilee.png'); ?>" alt="">
 									</div>
 
 									<div class="box-content">
-										<h4>Hesham Megahed</h4>
-										<p>Founder</p>
+										<h4>Juilee Koli</h4>
+										<p>Social Media Expert</p>
 									</div>
 								</div>
+
+								<div class="team-item slick-slide">
+									<div class="box-img">
+										<img src="<?php echo base_url('assets/img/team/vidisha.jpg'); ?>" alt="">
+									</div>
+
+									<div class="box-content">
+										<h4>Vidisha Dholkedia</h4>
+										<p>Social Media Expert</p>
+									</div>
+								</div>
+
+								<div class="team-item slick-slide">
+									<div class="box-img">
+										<img src="<?php echo base_url('assets/img/team/mrunal.jpg'); ?>" alt="">
+									</div>
+
+									<div class="box-content">
+										<h4>Mrunal Karmele</h4>
+										<p>Sr. Motion Graphic Designer</p>
+									</div>
+								</div>
+
+								<div class="team-item slick-slide">
+									<div class="box-img">
+										<img src="<?php echo base_url('assets/img/team/murtaza.jpg'); ?>" alt="">
+									</div>
+
+									<div class="box-content">
+										<h4>Murtaza Patanwala</h4>
+										<p>Sr. Motion Graphic Designer and Illustrator</p>
+									</div>
+								</div>
+
+								<div class="team-item slick-slide">
+									<div class="box-img">
+										<img src="<?php echo base_url('assets/img/team/karan.jpg'); ?>" alt="">
+									</div>
+
+									<div class="box-content">
+										<h4>Karan Krishanmurthy</h4>
+										<p>SEO Expert</p>
+									</div>
+								</div>
+
+								<div class="team-item slick-slide">
+									<div class="box-img">
+										<img src="<?php echo base_url('assets/img/team/chetna.jpg'); ?>" alt="">
+									</div>
+
+									<div class="box-content">
+										<h4>Chetna Medh</h4>
+										<p>Social Media Expert</p>
+									</div>
+								</div>
+
+								<div class="team-item slick-slide">
+									<div class="box-img">
+										<img src="<?php echo base_url('assets/img/team/sumit.jpg'); ?>" alt="">
+									</div>
+
+									<div class="box-content">
+										<h4>Sumit Yewale</h4>
+										<p>Sr. Web Developer</p>
+									</div>
+								</div>
+
+								<div class="team-item slick-slide">
+									<div class="box-img">
+										<img src="<?php echo base_url('assets/img/team/animesh.jpg'); ?>" alt="">
+									</div>
+
+									<div class="box-content">
+										<h4>Animesh Pendre</h4>
+										<p>Motion Graphic Designer and Photographer</p>
+									</div>
+								</div>
+
+
 							</div>
 						</div>
 					</div>
@@ -205,6 +306,17 @@
 						</div>
 
 						<div class="client-curs">
+							<div class="client-item">
+								<div>
+									<p>"Working with SocioMark for about 3 years now. Lovely people to work with. They have hardly ever missed any deadlines.
+										The best part about them is that they no longer feel like an external agency but someone who is a part of Network18 group.
+										We know whenever we are in trouble or that late night call for an urgent creative SocioMark will always be there.
+										They have set benchmarks for others by their creative work done for the Road to safety campaign. Best of luck Sociomark!"</p>
+									<h5>- Apurva shah, AGM, Marketing </h5>
+									<span>- Network18</span>
+								</div>
+							</div>
+
 							<div class="client-item">
 								<div>
 									<p>"Sociomark team is absolutely very professional in their work yet bring in high flexibility in terms of ownership in delivery. all the tasks and works are delivered with utmost commitment and dedication and on time. they never said no and always valued and worked on our feedbacks	we have had a long term engagement with them and they are an absolute pleasure to work with!"</p>

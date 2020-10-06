@@ -466,6 +466,40 @@
 									</div>
 								</a>
 							</div>
+
+							<div class="item branding">
+								<a href="<?php echo base_url('portfolio/profinet/branding-work') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/sincerelyfinance.png') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Profinet Business Solutions</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item branding">
+								<a href="<?php echo base_url('portfolio/hollywood-opticians/branding-work') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/ho.jpg') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Hollywood Opticians</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
+							<div class="item branding">
+								<a href="<?php echo base_url('portfolio/foresight-opticals/branding-work') ?>" data-dsn-grid="move-up">
+									<img class="has-top-bottom" src="<?php echo base_url('assets/img/project/fo.jpg') ?>" alt="" />
+									<div class="item-border"></div>
+									<div class="item-info">
+										<h4>Foresight Opticals</h4>
+										<span><span>View Project</span></span>
+									</div>
+								</a>
+							</div>
+
 						</div>
 						<div class="section-margin"></div>
 					</div>

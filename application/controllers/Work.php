@@ -117,5 +117,20 @@ class Work extends CI_Controller{
 	{
 		$this->load->view('portfolio/ayushakti-website');
 	}
+
+	public function profinet_branding()
+	{
+		$this->load->view('portfolio/profinet-branding');
+	}
+
+	public function hollywood_opticians_branding()
+	{
+		$this->load->view('portfolio/hollywood-opticians-branding');
+	}
+
+	public function foresight_opticals_branding()
+	{
+		$this->load->view('portfolio/foresight-opticals-branding');
+	}
 }
 ?>

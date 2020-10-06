@@ -722,6 +722,17 @@
 					<div class="client-curs">
 						<div class="client-item">
 							<div>
+								<p>"Working with SocioMark for about 3 years now. Lovely people to work with. They have hardly ever missed any deadlines.
+									The best part about them is that they no longer feel like an external agency but someone who is a part of Network18 group.
+									We know whenever we are in trouble or that late night call for an urgent creative SocioMark will always be there.
+									They have set benchmarks for others by their creative work done for the Road to safety campaign. Best of luck Sociomark!"</p>
+								<h5>- Apurva shah, AGM, Marketing </h5>
+								<span>- Network18</span>
+							</div>
+						</div>
+
+						<div class="client-item">
+							<div>
 								<p>"Sociomark team is absolutely very professional in their work yet bring in high flexibility in terms of ownership in delivery. all the tasks and works are delivered with utmost commitment and dedication and on time. they never said no and always valued and worked on our feedbacks	we have had a long term engagement with them and they are an absolute pleasure to work with!"</p>
 								<h5>- Siju Thomas, CEO </h5>
 								<span>- The Professional Couriers</span>
@@ -738,6 +749,35 @@
 					</div>
 				</div>
 			</section>
+
+
+			<div class=" box-gallery-vertical section-margin section-padding" >
+				<div class="mask-bg"></div>
+				<div class="container">
+					<div class="row align-items-center h-100">
+						<div class="col-lg-6 ">
+							<div class="box-im" data-dsn-grid="move-up">
+								<img class="has-top-bottom" src="assets/img/founders (1).jpg" alt=""
+									 data-dsn-move="20%">
+							</div>
+						</div>
+
+						<div class="col-lg-6">
+							<div class="box-info">
+								<div class="vertical-title">
+									<h2 data-dsn-animate="up">MEET OUR FOUNDERS</h2>
+								</div>
+								<h6 data-dsn-animate="up">Mr. Vivek Baandal & Mrs. Heta Desai Baandal share the same entrepreneurial spirit & strives towards establishing an unmatched social presence for your business.</h6>
+								<p data-dsn-animate="up">The journey from being college partners to life partners & now business partners, it's been a dream spell of building an award-winning result-oriented marketing agency within a short period.</p>
+
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+
+
 
 			<section class="our-news section-margin">
 				<div class="container">
