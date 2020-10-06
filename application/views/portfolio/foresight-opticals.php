@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="Foresight Opticals";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Foresight Opticals | Sociomark Client";
+		$description="Foresight is a leading optical brand and a proud client of Sociomark. Sociomark managed all their social media handles across all social media channels.";
+		$url= base_url('portfolio/foresight-opticals/social-media-work');
+		$keywords="foresight opticals,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/foresight-opticals/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

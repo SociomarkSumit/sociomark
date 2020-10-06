@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="Sportz Consult";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Sportz Consult | Sociomark Client";
+		$description="Sportz Consult is India's premier sports management company. Sociomark manages their social media handles like Facebook, Instagram, Youtube and others.";
+		$url= base_url('portfolio/sportz-consult/social-media-work');
+		$keywords="sportz consult,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/sportz-consult/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

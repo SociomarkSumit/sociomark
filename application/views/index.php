@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="Best Digital Marketing Agency in Mumbai &amp; Navi Mumbai| Sociomark";
-	$description="Sociomark is the best digital marketing agency in Navi Mumbai providing services like Social Media Marketing, Website Disign and Development SEO, SEM and many more. Get the best quote";
-	$url="https://www.sociomark.in/";
-	$keywords="best digital marketing agency in Navi Mumbai, digital marketing agency in Navi Mumbai, digital marketing company in navi Mumbai, best digital marketing company in navi Mumbai, digital marketing agency in Mumbai, digital marketing company in Mumbai, best digital marketing agency in Mumbai";
-	$image="";
-	include('layout/head.php');?>
+		$title="Best Digital Marketing Agency in Mumbai &amp; Navi Mumbai| Sociomark";
+		$description="Sociomark is the best digital marketing agency in Navi Mumbai providing services like SEO, SMM, SEM, Website Development &amp; many more. Get the best quote";
+		$url="https://www.sociomark.in/";
+		$keywords="best digital marketing agency in Navi Mumbai, digital marketing agency in Navi Mumbai, digital marketing company in navi Mumbai, best digital marketing company in navi Mumbai, digital marketing agency in Mumbai, digital marketing company in Mumbai, best digital marketing agency in Mumbai, website development company in navi Mumbai";
+		$image=base_url('assets/img/banner/award.jpg');
+		include('layout/head.php');
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">
@@ -44,7 +45,7 @@
 
 									<div class="title-text-header">
 										<div class="title-text-header-inner">
-											<a href="project-9.html" class="effect-ajax" data-dsn-ajax="slider">
+											<a href="#" class="effect-ajax" data-dsn-ajax="slider">
 												Our Awards
 											</a>
 										</div>
@@ -54,7 +55,7 @@
 										or meeting will finish, without getting caught by others.</p>
 
 									<div class="link-custom">
-										<a href="project-9.html" class="image-zoom effect-ajax" data-dsn="parallax"
+										<a href="#" class="image-zoom effect-ajax" data-dsn="parallax"
 										   data-dsn-ajax="slider">
 											<span>View Case</span>
 										</a>
@@ -65,7 +66,7 @@
 							<div class="image-container">
 								<div class="image-bg cover-bg" data-image-src="assets/img/banner/award.jpg"
 									 data-overlay="5">
-									<img src="assets/img/banner/award.jpg" alt="">
+									<img src="<?php echo base_url('assets/img/banner/award.jpg'); ?>" alt="">
 									<div class="cap">
 										<span>Our Awards</span>
 									</div>
@@ -611,18 +612,13 @@
 
 			<div class="box-seat box-seat-full section-margin">
 				<div class="container-fluid">
-					<div class="inner-img" data-dsn-grid="move-up">
-						<img data-dsn-scale="1" data-dsn-y="30%" src="assets/img/project/project2/3.jpg" alt="">
+					<div class="inner-img showreel" data-dsn-grid="move-up">
+						<img data-dsn-scale="1" data-dsn-y="30%" src="assets/img/banner/Showreel-Thumbnail.jpg" alt="">
 					</div>
-					<div class="pro-text">
-						<h3> How is your<br> visual identity?</h3>
-						<p>A system that young people around the world with a club culture and techno
-							enthusiasts feel identified. We generated a simple logo that is the basis for
-							generating a geometric and liquid system. </p>
-						<div class="link-custom">
-							<a class="image-zoom effect-ajax" href="project-2.html" data-dsn="parallax">
-								<span>Learn More</span>
-							</a>
+
+					<div class="display-showreel">
+						<div class="showreel-container">
+							<iframe class="showreel-video" width="100%" height="100%" src="https://www.youtube.com/embed/OBEli5cFYDI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>

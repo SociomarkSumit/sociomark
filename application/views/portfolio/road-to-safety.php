@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Diageo & Network18 Presents Road to Safety| Sociomark Work";
+		$description="Diageo & Network18 initiated a campaign called &quot 'Road to Safety' to educate people about safe driving. Know how Sociomark helped in initating this campaign.";
+		$url= base_url('portfolio/road-to-safety/social-media-work');
+		$keywords="Road to Safety,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/rts/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">
@@ -36,16 +37,12 @@
 						<div class="slide-item swiper-slide">
 							<div class="slide-content">
 								<div class="slide-content-inner" style="display: none">
-
-
 									<div class="title-text-header">
 										<div class="title-text-header-inner">
 											<a href="#" class="effect-ajax" data-dsn-ajax="slider">
 											</a>
 										</div>
 									</div>
-
-
 								</div>
 							</div>
 							<div class="image-container">

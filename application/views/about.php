@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	include('layout/head.php');?>
+		$title="About- Sociomark | Best Digital Marketing agency in Navi Mumbai";
+		$description="Sociomark is an upcoming digital marketing startup on the rise, helping brands in establishing a remarkable online presence. Sociomark is a creative agency.";
+		$url=base_url('about/');
+		$keywords="About Us, Sociomark, best digital marketing agency in Navi Mumbai, digital marketing agency in Navi Mumbai, digital marketing company in navi Mumbai, best digital marketing agency in Mumbai, website development company in navi Mumbai";
+		$image=base_url('assets/img/about-sociomark.jpg');
+		include('layout/head.php');
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

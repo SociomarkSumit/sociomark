@@ -7,7 +7,7 @@
 				<div class="col-md-3 dsn-col-footer">
 					<div class="footer-block" style="text-align: center; padding-right: 20px" >
 						<div class="footer-logo">
-							<a href="#"><img src="<?php echo base_url('assets/img/logo/logo-footer.png')?>" alt=""></a>
+							<a href="#"><img src="<?php echo base_url('assets/img/logo/sc-white-horizontal.png')?>" alt=""></a>
 						</div>
 						<div class="footer-social" >
 							<ul>

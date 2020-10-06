@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="Grill Box";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Grill Box | Sociomark Client";
+		$description="Grill Box is a place where all the food enthusiastic would love to visit.Sociomark handles Grill Box&#39;s Social Media Handles to reach out to food lovers.";
+		$url= base_url('portfolio/grill-box/social-media-work');
+		$keywords="grill box,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/grill-box/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

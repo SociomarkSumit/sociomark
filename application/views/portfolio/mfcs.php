@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="Mahindra First Choice Services";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Mahindra First Choice Services | Sociomark Client";
+		$description="Mahindra First Choice Services is India&#39;s certified used car company. Sociomark helped them in social media management, graphic designing and many more.";
+		$url= base_url('portfolio/mahindra-first-choice-services/social-media-work');
+		$keywords="Mahindra First Choice Services,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/mahindra-first-choice-services/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

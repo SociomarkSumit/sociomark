@@ -27,10 +27,11 @@
 		<div class="header-container">
 			<div class="logo main-logo">
 				<a class="logo-change logo-a" href="<?php echo base_url('') ?>">
-					<img class="dark-logo logo-c" src="<?php echo base_url('assets/img/logo/sc-colored.png') ?>" alt="" />
+					<img class="dark-logo logo-c sm-logo-cl" src="<?php echo base_url('assets/img/logo/sc-colored.png') ?>" alt="" />
+					<img class="dark-logo logo-b lg-logo-cl" src="<?php echo base_url('assets/img/logo/sc-colored-horizontal.png') ?>" alt="" />
 
-					<img class="light-logo logo-c" src="<?php echo base_url('assets/img/logo/sc-white.png') ?>" alt="" />
-<!--					<img class="light-logo logo-c large-logo" src="--><?php //echo base_url('assets/img/logo/sc-white-horizontal.png') ?><!--" alt="" />-->
+					<img class="light-logo logo-c sm-logo-wh" src="<?php echo base_url('assets/img/logo/sc-white.png') ?>" alt="" />
+					<img class="light-logo logo-b lg-logo-wh" src="<?php echo base_url('assets/img/logo/sc-white-horizontal.png') ?>" alt="" />
 				</a>
 			</div>
 

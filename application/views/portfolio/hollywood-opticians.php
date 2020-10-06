@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="Hollywood Opticians";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Hollywood Opticians | Sociomark Client";
+		$description="Hollywood Opticians is a leading eyewear shop and a proud client of Sociomark. Sociomark helped them in implementing an overall marketing strategy";
+		$url= base_url('portfolio/hollywood-opticians/social-media-work');
+		$keywords="Hollywood Opticians,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/hollywood-opticians/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

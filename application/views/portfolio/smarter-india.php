@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="Smarter India";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Lenovo- Smarter India | Sociomark Client";
+		$description="Lenovo, one of the leading brands in India presents Smarter India. Sociomark manages social media activities for this campaign by Lenovo.";
+		$url= base_url('portfolio/smarter-india/social-media-work');
+		$keywords="smarter india,lenovo,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/smarter-india/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

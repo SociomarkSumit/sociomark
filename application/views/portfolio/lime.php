@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="L.I.M.E.";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="L.I.M.E- Lessons in Marketing &amp; Excellence| Sociomark Client Work";
+		$description="L.I.M.E- Lessons in Marketing & Excellence is an initiative by CNBC18 and Hindustan Unilever. Sociomark handles their Social Media management & SEO.";
+		$url= base_url('portfolio/lime/social-media-work');
+		$keywords="LIME,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/lime/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

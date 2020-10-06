@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	include('layout/head.php');?>
+		$title="Informative Digital Marketing Blogs| Sociomark";
+		$description="In this page, Sociomark has provided different blogs on different digital marketing topics which can help you to learn digital marketing in a better way.";
+		$url=base_url('blog');
+		$keywords="digital marketing blogs, best digital marketing blogs, top digital marketing blogs, digital marketing service blogs, best digital marketing agency in navi Mumbai, Sociomark, digital marketing company in Mumbai";
+		$image="";
+		include('layout/head.php');
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

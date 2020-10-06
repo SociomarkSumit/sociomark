@@ -2,12 +2,12 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="The Professional Couriers";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="The Professional Couriers | Sociomark Client";
+		$description="Professional Couriers are one of the oldest courier service provider in India and a client of Sociomark. Sociomark manages their social media for them.";
+		$url= base_url('portfolio/the-professional-couriers/social-media-work');
+		$keywords="the professional couriers,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/the-professional-couriers/1.jpg');
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

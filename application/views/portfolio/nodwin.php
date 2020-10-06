@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="NODWIN Gaming India and Africa | Sociomark Client";
+		$description="Nodwin gaming is a venture by Nodwin Group with respect to gaming in India. Read this page to know how Sociomark collaborated with Nodwin.";
+		$url= base_url('portfolio/nodwin/social-media-work');
+		$keywords="nodwin,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/nodwin/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

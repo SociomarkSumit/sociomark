@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-
 	<?php
-	$title="";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Button Dabao Desh Banao | Sociomark Work";
+		$description="Button Dabao Desh Banao is an initiative by Network18 & RP Sanjiv Goenka Group for inspiring young voters to vote. Sociomark helped them on this initiative";
+		$url= base_url('portfolio/button-dabao-desh-banao/social-media-work');
+		$keywords="button dabao desh banao,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/button-dabao-desh-banao/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

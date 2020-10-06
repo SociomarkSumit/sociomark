@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="Portfolio";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Our Work - Clients, Case Studies and Campaigns | Sociomark";
+		$description="Sociomark has helped many clients with their digital marketing. Come see the case studies and viral campaigns designed by Sociomark for its clientele.";
+		$url=base_url('portfolio');
+		$keywords="Sociomark, client work, clients we work for, viral campaigns, best agency to work with, best digital marketing agency in Navi Mumbai, digital marketing agency in Navi Mumbai, digital marketing company in navi Mumbai";
+		$image=base_url('portfolio/road-to-safety/social-media-work');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

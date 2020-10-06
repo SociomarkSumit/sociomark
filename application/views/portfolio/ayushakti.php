@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="Ayushakti Ayurved";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Ayushakti Ayurved Pvt Ltd | Sociomark Client";
+		$description="Ayushakti is one of the oldest ayurvedic clinics in India as well as abroad. Sociomark manages overall digital marketing activities of Ayushakti.";
+		$url= base_url('portfolio/ayushakti/social-media-work');
+		$keywords="ayushakti,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/ayushakti/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

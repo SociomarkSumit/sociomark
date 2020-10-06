@@ -22,6 +22,10 @@
 			color: #3c3b3b!important;
 			margin: 6px 0px;
 		}
+		.header-single-post .post-parallax-wrapper img{
+			-o-object-fit:cover;
+			object-fit:cover;
+		}
 	</style>
 </head>
 

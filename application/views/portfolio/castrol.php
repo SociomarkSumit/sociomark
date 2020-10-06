@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="Castrol Activ &amp; Network18- Protect India’s Engine| Sociomark Work";
+		$description="Castrol Activ &amp; Network18 presents Protect India’s Engine to recognize the role of neighbourhood mechanics during this pandemic through digital marketing.";
+		$url= base_url('portfolio/castrol/social-media-work');
+		$keywords="castrol,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/castrol/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

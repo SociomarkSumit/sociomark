@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	include('layout/head.php');?>
+		$title="Contact Us to get the best quote | Sociomark";
+		$description="Looking for digital marketing service at the lowest cost? Don't worry! Contact Sociomark team now who will help you in designing the digital marketing plan";
+		$url=base_url('contact-us');
+		$keywords="Sociomark, Contact Us, Best quote, Cheapest digital marketing services, best digital marketing agency in navi Mumbai, best digital marketing company in Mumbai, best digital marketing agency in navi Mumbai, digital marketing company in Mumbai.";
+		$image="";
+		include('layout/head.php');
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">

@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	include('layout/head.php');?>
+		$title="Digital Marketing Services provided by Sociomark";
+		$description="Sociomark provides the best digital marketing services for its various clients. Sociomark provides services like SEO, SMM, SEM, Website Development etc.";
+		$url=base_url('service/');
+		$keywords="SEO company in navi Mumbai, SEO services in Mumbai, Search Engine Marketing Mumbai, social media services in Mumbai, social media services in navi Mumbai, best social media marketing company in Mumbai, social media agency in Mumbai, website development services in navi Mumbai, website development company in navi Mumbai";
+		$image=base_url('assets/img/services/social-media-marketing.png');
+		include('layout/head.php');
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">
@@ -75,7 +76,7 @@
 										<div class="corner corner-top"></div>
 										<div class="corner corner-bottom"></div>
 										<div class="icon">
-											<img src="assets/img/services/social-media-marketing.png" alt="">
+											<img src="<?php echo base_url('assets/img/services/social-media-marketing.png') ?>" alt="">
 										</div>
 										<div class="services-header">
 											<h3>SOCIAL MEDIA MARKETING</h3>

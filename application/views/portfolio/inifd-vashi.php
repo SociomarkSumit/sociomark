@@ -2,12 +2,13 @@
 <html lang="en-US">
 <head>
 	<?php
-	$title="INIFD Vashi";
-	$description="";
-	$url="";
-	$keywords="";
-	$image="";
-	require APPPATH.'views/layout/head.php';?>
+		$title="INIFD Vashi - The cradle of Designers | Sociomark Client";
+		$description="INIFD is globally recognized as a college of Fashion &amp; Interior Designing. Sociomark handles their social media presence, ORM and many more services.";
+		$url= base_url('portfolio/inifd-vashi/social-media-work');
+		$keywords="INIFD vashi,Sociomark Client,Sociomark Work";
+		$image=base_url('assets/img/work/inifd-vashi/1.jpg');
+		require APPPATH.'views/layout/head.php';
+	?>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">
