@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -10,6 +8,24 @@
 	$keywords="";
 	$image="";
 	include('layout/head.php');?>
+
+	<style>
+		h3,h4{
+			padding-top:20px;
+			padding-bottom:10px;
+		}
+		p{
+			padding-bottom: 10px;
+		}
+		.our-services-2 ul li{
+			padding-bottom: 10px;
+			list-style-type: disc;
+			margin-left: 20px;
+		}
+		.footer .footer-links .footer-block .footer-social ul li{
+			margin-left:0px;
+		}
+	</style>
 </head>
 
 <body class="v-light hamburger-menu dsn-effect-scroll dsn-ajax" data-dsn-mousemove="true">
@@ -34,20 +50,7 @@
 		<div class="wrapper">
 			<section class="our-services-2 section-margin">
 				<div class="container">
-					<style>
-						h3,h4{
-							padding-top:20px;
-							padding-bottom:10px;
-						}
-						p{
-							padding-bottom: 10px;
-						}
-						li{
-							padding-bottom: 10px;
-							list-style-type: disc;
-							margin-left: 20px;
-						}
-					</style>
+
 					<h3><strong>Terms and Conditions</strong></h3>
 
 					<p>Welcome to Sociomark!</p>
